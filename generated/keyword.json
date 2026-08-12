@@ -1,0 +1,1530 @@
+{
+  "rate limiting": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "rate": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "limiting": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "controls": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "many": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "requests": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "client": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "make": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "within": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "time": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "window": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "common": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "algorithms": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "include": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "token": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "bucket": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "leaky": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "fixed": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "sliding": [
+    {
+      "id": "backend-rate-limiting",
+      "file": "backend.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "caching strategies": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "caching": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "strategies": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "cache-aside": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "keeps": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "application": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "code": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "control": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "read": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "cache": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "first": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "load": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "from": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "source": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "miss": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "then": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "populate": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "always": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "define": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "expiry": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "invalidation": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "behavior": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "message brokers": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "kafka": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "rabbitmq": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "message": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "brokers": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "decouple": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "producers": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "consumers": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "suits": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "durable": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "event": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "streams": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "replay": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "strong": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "routed": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "work": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "queues": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "per-message": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "acknowledgements": [
+    {
+      "id": "backend-message-brokers",
+      "file": "backend.md",
+      "section": "Message Brokers",
+      "documentTitle": "Backend Architecture Notes",
+      "category": "Backend"
+    }
+  ],
+  "closures": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "closure": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "scope": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "function": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "that": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "remembers": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "variables": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "lexical": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "even": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "after": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "outer": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "finished": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "running": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "uses": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "data": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "privacy": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "factories": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "callbacks": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "preserving": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "state": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "without": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "global": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "event loop": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "loop": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "moves": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "queued": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "onto": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "call": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "stack": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "when": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "empty": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "promise": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "microtask": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "queue": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "before": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "timer": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "task": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "variable scope: var, let and const": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "variable": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "const": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "function-scoped": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "while": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "block-scoped": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "prefer": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "only": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "reassignment": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "required": [
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "conditional rendering": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "conditional": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "rendering": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "early": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "return": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "substantially": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "different": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "screens": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "ternary": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "either": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "element": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "should": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "render": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "condition": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "true": [
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "rendering lists with map": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "map": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "lists": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "with": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "transform": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "into": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "elements": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "give": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "every": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "sibling": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "stable": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "based": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "identity": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "array": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "position": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "list": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "change": [
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "frontend api caching": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "frontend": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "client-side": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "avoids": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "repeated": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "still": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "fresh": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "libraries": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "such": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "apollo": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "tanstack": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "query": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "responses": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "deduplicate": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "refetch": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "stale": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ]
+}

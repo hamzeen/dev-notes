@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "backend",
+    "title": "Backend Architecture Notes",
+    "file": "backend.md",
+    "category": "Backend",
+    "html": "<h3 id=\"rate-limiting\">Rate Limiting</h3><p>Rate limiting controls how many requests a client can make within a time window. Common algorithms include token bucket, leaky bucket, fixed window, and sliding window.</p>\n<h3 id=\"caching-strategies\">Caching Strategies</h3><p>Cache-aside keeps application code in control: read the cache first, load from the source on a miss, and then populate the cache. Always define expiry and invalidation behavior.</p>\n<h3 id=\"message-brokers\">Message Brokers</h3><p>Message brokers decouple producers and consumers. Kafka suits durable event streams and replay; RabbitMQ is strong for routed work queues and per-message acknowledgements.</p>\n"
+  },
+  {
+    "slug": "javascript",
+    "title": "JavaScript Concepts",
+    "file": "javascript.md",
+    "category": "Frontend",
+    "html": "<h3 id=\"closures\">Closures</h3><p>A closure is a function that remembers variables from its lexical scope, even after the outer function has finished running.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">function</span><span style=\"color:#D2A8FF\"> createCounter</span><span style=\"color:#E6EDF3\">() {</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">  let</span><span style=\"color:#E6EDF3\"> count </span><span style=\"color:#FF7B72\">=</span><span style=\"color:#79C0FF\"> 0</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">  return</span><span style=\"color:#E6EDF3\"> () </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#FF7B72\"> ++</span><span style=\"color:#E6EDF3\">count;</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">const</span><span style=\"color:#79C0FF\"> counter</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#D2A8FF\"> createCounter</span><span style=\"color:#E6EDF3\">();</span></span>\n<span class=\"line\"><span style=\"color:#D2A8FF\">counter</span><span style=\"color:#E6EDF3\">(); </span><span style=\"color:#8B949E\">// 1</span></span>\n<span class=\"line\"><span style=\"color:#D2A8FF\">counter</span><span style=\"color:#E6EDF3\">(); </span><span style=\"color:#8B949E\">// 2</span></span></code></pre><p>Common uses include data privacy, function factories, callbacks, and preserving state without global variables.</p>\n<h3 id=\"event-loop\">Event Loop</h3><p>The event loop moves queued callbacks onto the call stack when the stack is empty. Promise callbacks in the microtask queue run before timer callbacks in the task queue.</p>\n<h3 id=\"variable-scope-var-let-and-const\">Variable Scope: var, let and const</h3><p><code>var</code> is function-scoped, while <code>let</code> and <code>const</code> are block-scoped. Prefer <code>const</code>, then use <code>let</code> only when reassignment is required.</p>\n"
+  },
+  {
+    "slug": "react",
+    "title": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "html": "<h3 id=\"conditional-rendering\">Conditional Rendering</h3><p>Use an early return for substantially different screens, a ternary for either/or UI, and <code>&amp;&amp;</code> when an element should render only when a condition is true.</p>\n<h3 id=\"rendering-lists-with-map\">Rendering Lists with map</h3><p>Use <code>map</code> to transform data into elements. Give every sibling a stable key based on its identity, not its array position when the list can change.</p>\n<h3 id=\"frontend-api-caching\">Frontend API Caching</h3><p>Client-side caching avoids repeated API requests for data that is still fresh. Libraries such as Apollo Client or TanStack Query can cache responses, deduplicate requests, and refetch stale data.</p>\n"
+  }
+]
