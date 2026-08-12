@@ -740,6 +740,65 @@ footer strong {
     background: #17181c !important;
 }
 
+.markdown table {
+    width: 100%;
+    margin: 28px 0 40px;
+    border: 1px solid #e4dfd9;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 14px;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.markdown th,
+.markdown td {
+    padding: 16px 18px;
+    border-right: 1px solid #e4dfd9;
+    border-bottom: 1px solid #e4dfd9;
+    text-align: left;
+    vertical-align: top;
+}
+
+.markdown th {
+    background: #faf7f4;
+    color: #222;
+    font-weight: 700;
+}
+
+.markdown tr:last-child td {
+    border-bottom: 0;
+}
+
+.markdown th:last-child,
+.markdown td:last-child {
+    border-right: 0;
+}
+
+.markdown tbody tr {
+    background: #fff;
+    transition: background-color 0.15s ease;
+}
+
+.markdown tbody tr:hover {
+    background: #fff8f7;
+}
+
+@media (max-width: 700px) {
+    .markdown table {
+        display: block;
+        overflow-x: auto;
+        white-space: normal;
+    }
+
+    .markdown th,
+    .markdown td {
+        min-width: 150px;
+        padding: 13px 14px;
+    }
+}
+
 @media (max-width: 640px) {
     .topbar {
         height: 72px;
