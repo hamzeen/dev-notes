@@ -69,6 +69,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
@@ -266,6 +273,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "control": [
@@ -309,6 +323,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "load": [
@@ -327,6 +348,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
     },
     {
       "id": "javascript-closures",
@@ -422,6 +450,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
     }
   ],
   "message brokers": [
@@ -573,6 +608,13 @@
       "section": "Message Brokers",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
     }
   ],
   "queues": [
@@ -600,6 +642,1358 @@
       "section": "Message Brokers",
       "documentTitle": "Backend Architecture Notes",
       "category": "Backend"
+    }
+  ],
+  "design patterns": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "singleton": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "factory method": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "builder": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "adapter": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "decorator": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "design": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "patterns": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "pattern": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "purpose": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "ensures": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "class": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "only": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "instance": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "provides": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "global": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "access": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "point": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "factory": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "method": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "defines": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "interface": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "creating": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "objects": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "while": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "allowing": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "subclasses": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "implementations": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "decide": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "which": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "concrete": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "object": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "create": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "constructs": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "complex": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "step": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "separating": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "construction": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "final": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "representation": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "converts": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "into": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "another": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "that": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "expects": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "incompatible": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "components": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "together": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "adds": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "dynamically": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "without": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "modifying": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "original": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "solid principles": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "solid": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "principles": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "principle": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "meaning": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "single": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "responsibility": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "module": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "should": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "have": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "therefore": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "reason": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "change": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "open": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "closed": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "software": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "entities": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "extension": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "modification": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "liskov": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "substitution": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "child": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "type": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "usable": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "wherever": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "parent": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "expected": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "breaking": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "correctness": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "segregation": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "clients": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "forced": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "depend": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "methods": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "interfaces": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "they": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "prefer": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "small": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "focused": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "dependency": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "inversion": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "high-level": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "low-level": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "modules": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "abstractions": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "rather": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "than": [
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "architecture documents": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "rfc": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "adr": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "sdd": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "documents": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "document": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "expansion": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "request": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "comments": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "proposes": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "significant": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "technical": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "gathers": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "before": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "implementation": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "decision": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "record": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "records": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "architectural": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "context": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "considered": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "alternatives": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "consequences": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "describes": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "system": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "data": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "flows": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "approach": [
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
     }
   ],
   "closures": [
@@ -642,22 +2036,6 @@
       "file": "javascript.md",
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "that": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -742,29 +2120,6 @@
       "category": "Frontend"
     }
   ],
-  "data": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "privacy": [
     {
       "id": "javascript-closures",
@@ -809,24 +2164,6 @@
     }
   ],
   "state": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "without": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "global": [
     {
       "id": "javascript-closures",
       "file": "javascript.md",
@@ -964,15 +2301,6 @@
       "category": "Frontend"
     }
   ],
-  "before": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "timer": [
     {
       "id": "javascript-event-loop",
@@ -983,6 +2311,87 @@
     }
   ],
   "task": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "output": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "execution": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "order": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "synchronous": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "runs": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "process": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "nexttick": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "microtasks": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "macrotask": [
     {
       "id": "javascript-event-loop",
       "file": "javascript.md",
@@ -1027,46 +2436,12 @@
       "category": "Frontend"
     }
   ],
-  "while": [
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "block-scoped": [
     {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "prefer": [
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "only": [
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -1194,15 +2569,6 @@
       "category": "Frontend"
     }
   ],
-  "should": [
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "render": [
     {
       "id": "react-conditional-rendering",
@@ -1267,15 +2633,6 @@
     }
   ],
   "transform": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "into": [
     {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
@@ -1366,15 +2723,6 @@
     }
   ],
   "list": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "change": [
     {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
