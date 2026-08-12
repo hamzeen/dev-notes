@@ -16,14 +16,12 @@ Use an early return for substantially different screens, a ternary for either/or
 
 Use `map` to transform data into elements. Give every sibling a stable key based on its identity, not its array position when the list can change.
 
-```jsx
-{
-    products.map((product) => (
+```sh
+    {products.map((product) => (
         <article key={product.id} className="mx-auto bg-white">
             {/* product content */}
         </article>
-    ));
-}
+    ))}
 ```
 
 ### Frontend API Caching
