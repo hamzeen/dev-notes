@@ -1,4 +1,2394 @@
 {
+  "idempotency": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "retries": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "cause": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "same": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "request": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "processed": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "more": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "than": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "once": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-throttle",
+      "file": "javascript.md",
+      "section": "Throttle",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "creating": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "duplicate": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "payments": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "orders": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "ensures": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "repeated": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "requests": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "have": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "effect": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "single": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "scenario": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "payment": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "succeeds": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-core-property",
+      "file": "db-transaction.md",
+      "section": "Core Property",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    }
+  ],
+  "response": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "lost": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "client": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "solution": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "sends": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "unique": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "header": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "server": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "stores": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "result": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "that": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "returns": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "when": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "retried": [
+    {
+      "id": "backend-idempotency",
+      "file": "backend.md",
+      "section": "Idempotency",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "n+1 query problem": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "n+1 query": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "query": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "problem": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "occurs": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "loads": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "list": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "parent": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "records": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-architecture-documents",
+      "file": "design-and-architecture.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    }
+  ],
+  "then": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "additional": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "runs": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "every": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-core-property",
+      "file": "db-transaction.md",
+      "section": "Core Property",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "this": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-core-property",
+      "file": "db-transaction.md",
+      "section": "Core Property",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "increases": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "database": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "round": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "trips": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "grows": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "customers": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "followed": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "customer": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "load": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "their": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "fetch": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "using": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "join": [
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-inner-join",
+      "file": "sql-join.md",
+      "section": "Inner Join",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "race condition: pessimistic locking": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "pessimistic locking": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "race": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "condition": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "pessimistic": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "locking": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "concurrent": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "read": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "state": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "attempt": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "conflicting": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "updates": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "without": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-why-transactions-matter",
+      "file": "db-transaction.md",
+      "section": "Why Transactions Matter",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-and-architecture-solid-principles",
+      "file": "design-and-architecture.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "protection": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "both": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "appear": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "valid": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "create": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "incorrect": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "passengers": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "book": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "last": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "available": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "seat": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "flight": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "time": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "lock": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "inside": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    }
+  ],
+  "transaction": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-why-transactions-matter",
+      "file": "db-transaction.md",
+      "section": "Why Transactions Matter",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-core-property",
+      "file": "db-transaction.md",
+      "section": "Core Property",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "only": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "check": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "reserve": [
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
   "caching strategies": [
     {
       "id": "backend-caching-strategies",
@@ -6,6 +2396,43 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    }
+  ],
+  "backend": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
     }
   ],
   "caching": [
@@ -162,22 +2589,6 @@
       "category": "Backend"
     }
   ],
-  "read": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
   "cache": [
     {
       "id": "backend-caching-strategies",
@@ -229,29 +2640,6 @@
       "section": "Quick Recall",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "load": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "from": [
@@ -344,57 +2732,6 @@
       "category": "Backend"
     }
   ],
-  "then": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-5-filter-map",
-      "file": "react-template-patterns.md",
-      "section": "5. `filter().map()`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "populate": [
     {
       "id": "backend-caching-strategies",
@@ -470,294 +2807,83 @@
       "category": "Architecture"
     }
   ],
-  "message brokers": [
+  "spring": [
     {
-      "id": "backend-message-brokers",
+      "id": "backend-caching-strategies",
       "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "kafka": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "rabbitmq": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "message": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "brokers": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "decouple": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
+      "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
     }
   ],
-  "producers": [
+  "multiple": [
     {
-      "id": "backend-message-brokers",
+      "id": "backend-caching-strategies",
       "file": "backend.md",
-      "section": "Message Brokers",
+      "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "consumers": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "suits": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    }
-  ],
-  "durable": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "event": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "streams": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "replay": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    }
-  ],
-  "strong": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    }
-  ],
-  "routed": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    }
-  ],
-  "work": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
     },
     {
       "id": "db-transaction-the-flow",
       "file": "db-transaction.md",
       "section": "The Flow",
       "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "tomcat": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "threads": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "access": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
       "category": "Backend"
     },
     {
@@ -768,6 +2894,354 @@
       "category": "Architecture"
     },
     {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "concurrently": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "concurrenthashmap": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "instead": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "plain": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "hashmap": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "make": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "these": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "operations": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "thread-safe": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "usage": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-prettier",
+      "file": "tools-fe.md",
+      "section": "Prettier",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "flow": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "line": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "reuse": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "cached": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "production": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "maximum": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "size": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "caffeine": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "because": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "simple": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -775,50 +3249,50 @@
       "category": "Architecture"
     },
     {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
     },
     {
-      "id": "tools-wcag-21-and-lighthouse",
+      "id": "tools-zod-valibot",
       "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
       "documentTitle": "Tools",
       "category": "Tools"
     }
   ],
-  "queues": [
+  "otherwise": [
     {
-      "id": "backend-message-brokers",
+      "id": "backend-caching-strategies",
       "file": "backend.md",
-      "section": "Message Brokers",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "per-message": [
-    {
-      "id": "backend-message-brokers",
-      "file": "backend.md",
-      "section": "Message Brokers",
+      "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
     }
   ],
-  "acknowledgements": [
+  "grow": [
     {
-      "id": "backend-message-brokers",
+      "id": "backend-caching-strategies",
       "file": "backend.md",
-      "section": "Message Brokers",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "indefinitely": [
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
     }
@@ -883,29 +3357,6 @@
       "category": "Tools"
     }
   ],
-  "valid": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "react-template-patterns-8-fallback",
-      "file": "react-template-patterns.md",
-      "section": "8. Fallback `??` / `||`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "hour": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -931,57 +3382,6 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "problem": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "given": [
@@ -1085,90 +3485,7 @@
       "category": "Code Challenges"
     }
   ],
-  "unique": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
-  "that": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "formed": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
-  "using": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
       "file": "code-challenges.md",
@@ -1228,80 +3545,6 @@
       "id": "code-challenges-5-permmissingelem",
       "file": "code-challenges.md",
       "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
-  "once": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "javascript-throttle",
-      "file": "javascript.md",
-      "section": "Throttle",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "time": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
     }
@@ -1380,50 +3623,6 @@
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "Tools"
-    }
-  ],
-  "solution": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
     }
   ],
   "test": [
@@ -1621,85 +3820,6 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
-    }
-  ],
-  "only": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
     }
   ],
   "several": [
@@ -2136,6 +4256,50 @@
       "category": "Code Challenges"
     }
   ],
+  "work": [
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-the-flow",
+      "file": "db-transaction.md",
+      "section": "The Flow",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "constant": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -2222,29 +4386,6 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "same": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "original": [
@@ -2514,43 +4655,6 @@
       "category": "Code Challenges"
     }
   ],
-  "simple": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "explanation": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -2592,50 +4696,6 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "this": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-core-property",
-      "file": "db-transaction.md",
-      "section": "Core Property",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "character": [
@@ -2704,15 +4764,6 @@
       "category": "Architecture"
     }
   ],
-  "these": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
   "true": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -2759,43 +4810,6 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "both": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "expand": [
@@ -3155,22 +5169,6 @@
       "category": "Code Challenges"
     }
   ],
-  "inside": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    }
-  ],
   "compressed": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -3205,127 +5203,6 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "when": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-1-if-else",
-      "file": "react-template-patterns.md",
-      "section": "1. If / Else",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-6-switch",
-      "file": "react-template-patterns.md",
-      "section": "6. `switch`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-8-fallback",
-      "file": "react-template-patterns.md",
-      "section": "8. Fallback `??` / `||`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "match": [
@@ -3426,15 +5303,6 @@
       "id": "code-challenges-6-maxcounters",
       "file": "code-challenges.md",
       "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
-  "processed": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
     }
@@ -3748,22 +5616,6 @@
       "category": "Code Challenges"
     }
   ],
-  "because": [
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "tostring": [
     {
       "id": "code-challenges-3-binarygap",
@@ -4075,29 +5927,6 @@
       "category": "Tools"
     }
   ],
-  "have": [
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
   "calculate": [
     {
       "id": "code-challenges-4-tapeequilibrium",
@@ -4251,50 +6080,6 @@
       "category": "Code Challenges"
     }
   ],
-  "instead": [
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "recalculating": [
     {
       "id": "code-challenges-4-tapeequilibrium",
@@ -4302,43 +6087,6 @@
       "section": "4. TapeEquilibrium",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "every": [
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "db-transaction-core-property",
-      "file": "db-transaction.md",
-      "section": "Core Property",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "5. permmissingelem": [
@@ -4680,15 +6428,6 @@
       "category": "Code Challenges"
     }
   ],
-  "maximum": [
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
   "changes": [
     {
       "id": "code-challenges-6-maxcounters",
@@ -4824,36 +6563,6 @@
       "category": "Code Challenges"
     }
   ],
-  "updates": [
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "whenever": [
     {
       "id": "code-challenges-6-maxcounters",
@@ -4908,22 +6617,6 @@
       "category": "Code Challenges"
     }
   ],
-  "make": [
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "pass": [
     {
       "id": "code-challenges-6-maxcounters",
@@ -4967,22 +6660,6 @@
       "category": "Code Challenges"
     }
   ],
-  "operations": [
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "the flow": [
     {
       "id": "db-transaction-the-flow",
@@ -4990,87 +6667,6 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
-    }
-  ],
-  "database": [
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "transaction": [
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-why-transactions-matter",
-      "file": "db-transaction.md",
-      "section": "Why Transactions Matter",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-core-property",
-      "file": "db-transaction.md",
-      "section": "Core Property",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "commit": [
@@ -5098,29 +6694,6 @@
       "category": "Backend"
     }
   ],
-  "flow": [
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "groups": [
     {
       "id": "db-transaction-the-flow",
@@ -5128,36 +6701,6 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
-    }
-  ],
-  "multiple": [
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "queries": [
@@ -5179,29 +6722,6 @@
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "single": [
-    {
-      "id": "db-transaction-the-flow",
-      "file": "db-transaction.md",
-      "section": "The Flow",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -5490,36 +7010,6 @@
       "category": "Frontend"
     }
   ],
-  "query": [
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "handler": [
     {
       "id": "db-transaction-example-bank-transfer",
@@ -5626,71 +7116,6 @@
       "category": "Backend"
     }
   ],
-  "without": [
-    {
-      "id": "db-transaction-why-transactions-matter",
-      "file": "db-transaction.md",
-      "section": "Why Transactions Matter",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "with": [
     {
       "id": "db-transaction-why-transactions-matter",
@@ -5795,15 +7220,6 @@
     }
   ],
   "acid": [
-    {
-      "id": "db-transaction-core-property",
-      "file": "db-transaction.md",
-      "section": "Core Property",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    }
-  ],
-  "succeeds": [
     {
       "id": "db-transaction-core-property",
       "file": "db-transaction.md",
@@ -5960,15 +7376,6 @@
       "category": "Architecture"
     }
   ],
-  "ensures": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
   "class": [
     {
       "id": "design-and-architecture-design-patterns",
@@ -6061,29 +7468,6 @@
       "category": "Tools"
     }
   ],
-  "access": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "factory": [
     {
       "id": "design-and-architecture-design-patterns",
@@ -6130,15 +7514,6 @@
       "id": "design-and-architecture-solid-principles",
       "file": "design-and-architecture.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "creating": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
     }
@@ -6287,22 +7662,6 @@
       "category": "Architecture"
     }
   ],
-  "create": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "constructs": [
     {
       "id": "design-and-architecture-design-patterns",
@@ -6355,64 +7714,6 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
-    }
-  ],
-  "client": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "expects": [
@@ -6779,22 +8080,6 @@
       "category": "Architecture"
     }
   ],
-  "parent": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "sql-join-parent-table-customers",
-      "file": "sql-join.md",
-      "section": "Parent Table: `customers`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
   "breaking": [
     {
       "id": "design-and-architecture-solid-principles",
@@ -6999,22 +8284,6 @@
       "category": "Architecture"
     }
   ],
-  "than": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "architecture documents": [
     {
       "id": "design-and-architecture-architecture-documents",
@@ -7094,64 +8363,6 @@
       "category": "Architecture"
     }
   ],
-  "request": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "comments": [
     {
       "id": "design-and-architecture-architecture-documents",
@@ -7225,15 +8436,6 @@
     }
   ],
   "record": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "records": [
     {
       "id": "design-and-architecture-architecture-documents",
       "file": "design-and-architecture.md",
@@ -7676,50 +8878,6 @@
       "category": "Frontend"
     }
   ],
-  "state": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-11-conditional-classes",
-      "file": "react-template-patterns.md",
-      "section": "11. Conditional Classes",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "event loop": [
     {
       "id": "javascript-event-loop",
@@ -7727,6 +8885,36 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "event": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
     }
   ],
   "queued": [
@@ -7881,15 +9069,6 @@
       "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "runs": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
     }
   ],
   "process": [
@@ -8390,22 +9569,6 @@
       "category": "Tools"
     }
   ],
-  "usage": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-prettier",
-      "file": "tools-fe.md",
-      "section": "Prettier",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "else": [
     {
       "id": "react-template-patterns-pattern-overview",
@@ -8552,29 +9715,6 @@
       "file": "react-template-patterns.md",
       "section": "3. Logical AND `&&`",
       "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "condition": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -9670,15 +10810,6 @@
       "category": "Frontend"
     }
   ],
-  "list": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "frontend api caching": [
     {
       "id": "react-frontend-api-caching",
@@ -9741,45 +10872,6 @@
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
-    }
-  ],
-  "repeated": [
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "requests": [
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "still": [
@@ -10024,38 +11116,6 @@
       "category": "Architecture"
     }
   ],
-  "returns": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "response": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "service": [
     {
       "id": "solutions-architecture-repository-pattern",
@@ -10147,36 +11207,6 @@
       "category": "Architecture"
     }
   ],
-  "more": [
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "memory": [
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -10212,15 +11242,6 @@
     }
   ],
   "worker": [
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "threads": [
     {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
@@ -10281,25 +11302,7 @@
       "category": "Architecture"
     }
   ],
-  "size": [
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "handle": [
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "concurrent": [
     {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
@@ -10534,36 +11537,11 @@
       "category": "Architecture"
     }
   ],
-  "round": [
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "robin": [
     {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
       "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "sends": [
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -10727,15 +11705,6 @@
       "category": "Architecture"
     }
   ],
-  "stores": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "outgoing": [
     {
       "id": "solutions-architecture-transactional-outbox",
@@ -10777,6 +11746,29 @@
       "id": "solutions-architecture-transactional-outbox",
       "file": "solutions-architecture.md",
       "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "message": [
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -10924,6 +11916,22 @@
       "category": "Architecture"
     }
   ],
+  "message brokers": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "event-driven": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -10954,36 +11962,6 @@
       "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "backend": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "reacts": [
@@ -11020,6 +11998,22 @@
       "category": "Architecture"
     }
   ],
+  "producers": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "emit": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -11034,6 +12028,22 @@
       "id": "solutions-architecture-event-driven-backends",
       "file": "solutions-architecture.md",
       "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "consumers": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -11088,36 +12098,6 @@
       "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "server": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "real-time": [
@@ -11227,6 +12207,22 @@
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "Tools"
+    }
+  ],
+  "brokers": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
     }
   ],
   "asynchronous": [
@@ -11431,15 +12427,6 @@
       "category": "Architecture"
     }
   ],
-  "occurs": [
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "sending": [
     {
       "id": "solutions-architecture-webhooks",
@@ -11566,6 +12553,15 @@
       "category": "Architecture"
     }
   ],
+  "queues": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "topics": [
     {
       "id": "solutions-architecture-message-brokers",
@@ -11668,6 +12664,15 @@
       "category": "Architecture"
     }
   ],
+  "rabbitmq": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "routing": [
     {
       "id": "solutions-architecture-message-brokers",
@@ -11695,7 +12700,34 @@
       "category": "Architecture"
     }
   ],
+  "kafka": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "high-throughput": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "streams": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "durable": [
     {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
@@ -12033,15 +13065,6 @@
       "category": "Backend"
     }
   ],
-  "customers": [
-    {
-      "id": "sql-join-parent-table-customers",
-      "file": "sql-join.md",
-      "section": "Parent Table: `customers`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
   "name": [
     {
       "id": "sql-join-parent-table-customers",
@@ -12079,22 +13102,6 @@
       "id": "sql-join-child-table-orders",
       "file": "sql-join.md",
       "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "orders": [
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    },
-    {
-      "id": "sql-join-result",
-      "file": "sql-join.md",
-      "section": "Result",
       "documentTitle": "SQL Inner Join",
       "category": "Backend"
     }
@@ -12184,24 +13191,6 @@
       "id": "sql-join-inner-join",
       "file": "sql-join.md",
       "section": "Inner Join",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "join": [
-    {
-      "id": "sql-join-inner-join",
-      "file": "sql-join.md",
-      "section": "Inner Join",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "result": [
-    {
-      "id": "sql-join-result",
-      "file": "sql-join.md",
-      "section": "Result",
       "documentTitle": "SQL Inner Join",
       "category": "Backend"
     }
@@ -13120,15 +14109,6 @@
     }
   ],
   "identifies": [
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "cached": [
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
