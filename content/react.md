@@ -8,9 +8,24 @@ summary: React concepts and common template patterns.
 keywords: [react, conditional rendering, map, lists, templates]
 ---
 
+### Reconcilitation
+
+compares the new Virtual DOM with the previous Virtual DOM to determine what changed. React then updates only necessary parts of the real DOM, after which the browser handles layout/painting as needed.
+
 ### Conditional Rendering
 
 Use an early return for substantially different screens, a ternary for either/or UI, and `&&` when an element should render only when a condition is true.
+
+```sh
+if (!user) return <Login />;
+
+return (
+  <>
+    {isAdmin ? <AdminPanel /> : <UserPanel />}
+    {hasNotifications && <Notifications />}
+  </>
+);
+```
 
 ### Rendering Lists with map
 
