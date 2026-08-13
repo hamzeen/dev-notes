@@ -1918,6 +1918,86 @@
     "html": "<p>how many requests a client can make within a given period ? it protects the service from abuse and traffic spikes.</p>\n<p><strong>Bucket4j</strong> implements the <strong>Token Bucket algorithm</strong>: tokens are added to a bucket at a configured rate, and each request consumes a token. If no tokens remain, the request is rejected or delayed. Bucket can hold extra tokens, allowing a controlled <strong>traffic burst</strong> while still enforcing long-term request rate.\nOther algorithms include leaky bucket, fixed window, and sliding window.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>Tokens refill</span></span>\n<span class=\"line\"><span>     ↓</span></span>\n<span class=\"line\"><span>[ Token Bucket ] ← Client Request</span></span>\n<span class=\"line\"><span>     ↓ consume token</span></span>\n<span class=\"line\"><span> Application</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>No token → 429 Too Many Requests</span></span></code></pre>"
   },
   {
+    "id": "sql-join-parent-table-customers",
+    "documentSlug": "sql-join",
+    "sectionSlug": "parent-table-customers",
+    "title": "Parent Table: `customers`",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Parent Table: `customers`",
+      "parent",
+      "table",
+      "customers",
+      "name",
+      "alice",
+      "charlie"
+    ],
+    "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">id</th>\n<th>name</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td>Bob</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td>Charlie</td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "id": "sql-join-child-table-orders",
+    "documentSlug": "sql-join",
+    "sectionSlug": "child-table-orders",
+    "title": "Child Table: `orders`",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Child Table: `orders`",
+      "child",
+      "table",
+      "orders",
+      "product",
+      "laptop",
+      "mouse",
+      "keyboard"
+    ],
+    "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">id</th>\n<th align=\"right\">customer_id</th>\n<th>product</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">101</td>\n<td align=\"right\">1</td>\n<td>Laptop</td>\n</tr>\n<tr>\n<td align=\"right\">102</td>\n<td align=\"right\">1</td>\n<td>Mouse</td>\n</tr>\n<tr>\n<td align=\"right\">103</td>\n<td align=\"right\">2</td>\n<td>Keyboard</td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "id": "sql-join-inner-join",
+    "documentSlug": "sql-join",
+    "sectionSlug": "inner-join",
+    "title": "Inner Join",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Inner Join",
+      "inner join",
+      "inner",
+      "join"
+    ],
+    "html": "<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">SELECT</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> AS</span><span style=\"color:#E6EDF3\"> customer_id,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">name</span><span style=\"color:#E6EDF3\">,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> AS</span><span style=\"color:#E6EDF3\"> order_id,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">product</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">FROM</span><span style=\"color:#E6EDF3\"> customers</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">INNER JOIN</span><span style=\"color:#E6EDF3\"> orders</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">  ON</span><span style=\"color:#79C0FF\"> customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#79C0FF\"> orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">customer_id</span><span style=\"color:#E6EDF3\">;</span></span></code></pre>"
+  },
+  {
+    "id": "sql-join-result",
+    "documentSlug": "sql-join",
+    "sectionSlug": "result",
+    "title": "Result",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Result",
+      "result",
+      "name",
+      "product",
+      "alice",
+      "laptop",
+      "mouse",
+      "keyboard",
+      "charlie",
+      "excluded",
+      "orders",
+      "table",
+      "matches"
+    ],
+    "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">customer_id</th>\n<th>name</th>\n<th align=\"right\">order_id</th>\n<th>product</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">101</td>\n<td>Laptop</td>\n</tr>\n<tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">102</td>\n<td>Mouse</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td>Bob</td>\n<td align=\"right\">103</td>\n<td>Keyboard</td>\n</tr>\n</tbody></table>\n<p>Charlie is excluded - no row in the orders table matches customer_id 3.</p>\n"
+  },
+  {
     "id": "tools-axios",
     "documentSlug": "tools",
     "sectionSlug": "axios",

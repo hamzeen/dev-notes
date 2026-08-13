@@ -1872,6 +1872,82 @@
     ]
   },
   {
+    "id": "sql-join-parent-table-customers",
+    "documentSlug": "sql-join",
+    "sectionSlug": "parent-table-customers",
+    "title": "Parent Table: `customers`",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Parent Table: `customers`",
+      "parent",
+      "table",
+      "customers",
+      "name",
+      "alice",
+      "charlie"
+    ]
+  },
+  {
+    "id": "sql-join-child-table-orders",
+    "documentSlug": "sql-join",
+    "sectionSlug": "child-table-orders",
+    "title": "Child Table: `orders`",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Child Table: `orders`",
+      "child",
+      "table",
+      "orders",
+      "product",
+      "laptop",
+      "mouse",
+      "keyboard"
+    ]
+  },
+  {
+    "id": "sql-join-inner-join",
+    "documentSlug": "sql-join",
+    "sectionSlug": "inner-join",
+    "title": "Inner Join",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Inner Join",
+      "inner join",
+      "inner",
+      "join"
+    ]
+  },
+  {
+    "id": "sql-join-result",
+    "documentSlug": "sql-join",
+    "sectionSlug": "result",
+    "title": "Result",
+    "documentTitle": "SQL Inner Join",
+    "file": "sql-join.md",
+    "category": "Backend",
+    "keywords": [
+      "Result",
+      "result",
+      "name",
+      "product",
+      "alice",
+      "laptop",
+      "mouse",
+      "keyboard",
+      "charlie",
+      "excluded",
+      "orders",
+      "table",
+      "matches"
+    ]
+  },
+  {
     "id": "tools-axios",
     "documentSlug": "tools",
     "sectionSlug": "axios",

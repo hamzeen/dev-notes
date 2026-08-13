@@ -5358,6 +5358,20 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
     }
   ],
   "transfers": [
@@ -6722,6 +6736,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
     }
   ],
   "type": [
@@ -6765,6 +6786,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
     }
   ],
   "breaking": [
@@ -11973,6 +12001,229 @@
       "category": "Architecture"
     }
   ],
+  "parent table: `customers`": [
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "table": [
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "customers": [
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "name": [
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "charlie": [
+    {
+      "id": "sql-join-parent-table-customers",
+      "file": "sql-join.md",
+      "section": "Parent Table: `customers`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "child table: `orders`": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "orders": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "product": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "laptop": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "mouse": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "keyboard": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "inner join": [
+    {
+      "id": "sql-join-inner-join",
+      "file": "sql-join.md",
+      "section": "Inner Join",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "inner": [
+    {
+      "id": "sql-join-inner-join",
+      "file": "sql-join.md",
+      "section": "Inner Join",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "join": [
+    {
+      "id": "sql-join-inner-join",
+      "file": "sql-join.md",
+      "section": "Inner Join",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "result": [
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "matches": [
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
   "axios": [
     {
       "id": "tools-axios",
@@ -12188,15 +12439,6 @@
     }
   ],
   "contrast": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "keyboard": [
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
