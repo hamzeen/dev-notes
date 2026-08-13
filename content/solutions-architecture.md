@@ -177,6 +177,7 @@ Message Broker
 how many requests a client can make within a given period ? it protects the service from abuse and traffic spikes.
 
 **Bucket4j** implements the **Token Bucket algorithm**: tokens are added to a bucket at a configured rate, and each request consumes a token. If no tokens remain, the request is rejected or delayed. Bucket can hold extra tokens, allowing a controlled **traffic burst** while still enforcing long-term request rate.
+Other algorithms include leaky bucket, fixed window, and sliding window.
 
 ```text
 Tokens refill

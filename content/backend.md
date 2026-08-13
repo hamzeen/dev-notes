@@ -1,16 +1,12 @@
 ---
-title: Backend Architecture Notes
+title: Backend Architecture
 slug: backend
 date: 2026-08-12
 author: Hamzeen Hameem
 category: Backend
 summary: Practical backend architecture patterns and trade-offs.
-keywords: [backend, rate limiting, caching, message brokers, kafka, rabbitmq]
+keywords: [backend, caching, message brokers, kafka, rabbitmq]
 ---
-
-### Rate Limiting
-
-Rate limiting controls how many requests a client can make within a time window. Common algorithms include token bucket, leaky bucket, fixed window, and sliding window.
 
 ### Caching Strategies
 

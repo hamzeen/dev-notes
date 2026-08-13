@@ -28,6 +28,13 @@ body {
         "Segoe UI",
         sans-serif;
 }
+ul {
+    list-style-type: square;
+}
+li {
+    padding-top: 10px;
+    margin-left: 18px;
+}
 button,
 input {
     font: inherit;

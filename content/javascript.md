@@ -63,3 +63,52 @@ Execution order:
 ### Variable Scope: var, let and const
 
 `var` is function-scoped, while `let` and `const` are block-scoped. Prefer `const`, then use `let` only when reassignment is required.
+
+### Debounce
+
+Debounce waits until calls stop for a set delay before running the function, making it useful for search inputs.
+
+```js
+function debounce(fn, delay) {
+    let timer;
+
+    return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => fn(...args), delay);
+    };
+}
+
+const search = debounce((query) => {
+    console.log("Searching for:", query);
+}, 500);
+
+search("rea");
+search("react"); // Only this runs after 500ms
+```
+
+### Throttle
+
+Throttle limits a function to running at most once per interval while calls continue, making it useful for scroll or resize events.
+
+```js
+function throttle(fn, delay) {
+    let waiting = false;
+
+    return (...args) => {
+        if (waiting) return;
+
+        fn(...args);
+        waiting = true;
+
+        setTimeout(() => {
+            waiting = false;
+        }, delay);
+    };
+}
+
+const handleScroll = throttle(() => {
+    console.log("Scroll handled");
+}, 500);
+
+window.addEventListener("scroll", handleScroll);
+```
