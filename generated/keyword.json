@@ -189,6 +189,41 @@
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "algorithms": [
@@ -400,6 +435,20 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "load": [
@@ -446,6 +495,13 @@
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "source": [
@@ -486,6 +542,20 @@
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     }
   ],
@@ -816,6 +886,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "hour": [
@@ -1026,6 +1103,13 @@
       "file": "javascript.md",
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     },
     {
@@ -1437,6 +1521,20 @@
       "category": "Frontend"
     },
     {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
       "id": "react-conditional-rendering",
       "file": "react.md",
       "section": "Conditional Rendering",
@@ -1451,6 +1549,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "permutations": [
@@ -1469,6 +1574,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "including": [
@@ -1651,6 +1763,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "loops": [
@@ -1710,6 +1829,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "most": [
@@ -1804,6 +1930,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "would": [
@@ -2051,6 +2184,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "four-character": [
@@ -2238,6 +2385,20 @@
       "category": "Code Challenges"
     },
     {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
       "id": "react-conditional-rendering",
       "file": "react.md",
       "section": "Conditional Rendering",
@@ -2318,6 +2479,20 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "occur": [
@@ -2352,6 +2527,20 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     },
     {
       "id": "react-conditional-rendering",
@@ -2652,6 +2841,48 @@
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     },
     {
@@ -3018,6 +3249,20 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "closes": [
@@ -3124,6 +3369,20 @@
       "category": "Code Challenges"
     },
     {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -3220,6 +3479,27 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     },
     {
       "id": "react-conditional-rendering",
@@ -3423,6 +3703,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "leftsum": [
@@ -3473,6 +3767,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "recalculating": [
@@ -3550,6 +3851,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "complete": [
@@ -3582,6 +3890,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     },
     {
       "id": "react-conditional-rendering",
@@ -3623,6 +3938,20 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "actually": [
@@ -3801,6 +4130,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "lazy": [
@@ -3850,6 +4186,13 @@
       "file": "javascript.md",
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     }
   ],
@@ -3950,6 +4293,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "latest": [
@@ -4056,6 +4406,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "pattern": [
@@ -4065,6 +4422,20 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "purpose": [
@@ -4149,6 +4520,20 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "factory": [
@@ -4225,6 +4610,13 @@
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     }
   ],
@@ -4427,6 +4819,20 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     }
   ],
   "without": [
@@ -4565,6 +4971,20 @@
       "section": "Architecture Documents",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -5133,6 +5553,20 @@
       "category": "Frontend"
     },
     {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -5329,6 +5763,13 @@
       "file": "javascript.md",
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     }
   ],
@@ -5575,7 +6016,147 @@
       "category": "Frontend"
     }
   ],
-  "conditional rendering": [
+  "pattern overview": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "jsx": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "map": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "overview": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "typical": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "usage": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "else": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-2-ternary",
+      "file": "react-template-patterns.md",
+      "section": "2. Ternary",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "render": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
     {
       "id": "react-conditional-rendering",
       "file": "react.md",
@@ -5584,16 +6165,78 @@
       "category": "Frontend"
     }
   ],
-  "conditional": [
+  "completely": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "branches": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "ternary": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-2-ternary",
+      "file": "react-template-patterns.md",
+      "section": "2. Ternary",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
     {
       "id": "react-conditional-rendering",
       "file": "react.md",
       "section": "Conditional Rendering",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "inline": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-2-ternary",
+      "file": "react-template-patterns.md",
+      "section": "2. Ternary",
+      "documentTitle": "react template patterns",
       "category": "Frontend"
     }
   ],
   "rendering": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
     {
       "id": "react-conditional-rendering",
       "file": "react.md",
@@ -5609,7 +6252,855 @@
       "category": "Frontend"
     }
   ],
+  "logical": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "something": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "condition": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "iterate": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "construct": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "filter": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "matching": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "items": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "switch": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "based": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "multiple": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "possible": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "states": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
   "early": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "stop": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "specific": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "fallback": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "display": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "default": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "optional": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "chaining": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "safely": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "conditional": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "props": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "classes": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "1. if / else": [
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "useful": [
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "whole": [
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "component": [
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "2. ternary": [
+    {
+      "id": "react-template-patterns-2-ternary",
+      "file": "react-template-patterns.md",
+      "section": "2. Ternary",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "version": [
+    {
+      "id": "react-template-patterns-2-ternary",
+      "file": "react-template-patterns.md",
+      "section": "2. Ternary",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "3. logical and `&&`": [
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "rendered": [
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "4. `map()` — array iteration": [
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "iteration": [
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "very": [
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "arrays": [
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "conceptually": [
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "5. `filter().map()`": [
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "6. `switch`": [
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "with": [
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "such": [
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "7. early return": [
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "handling": [
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "special": [
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "main": [
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "8. fallback `??` / `||`": [
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "usually": [
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "safer": [
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "9. optional chaining `?.`": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "might": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "risking": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "user": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "profile": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "undefined": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "10. conditional props": [
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "html": [
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "properties": [
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "11. conditional classes": [
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "commonly": [
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "used": [
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "quick recall": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "quick": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "recall": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "mainly": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "control-flow": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "attribute": [
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "conditional rendering": [
     {
       "id": "react-conditional-rendering",
       "file": "react.md",
@@ -5636,34 +7127,7 @@
       "category": "Frontend"
     }
   ],
-  "ternary": [
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "either": [
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "render": [
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "condition": [
     {
       "id": "react-conditional-rendering",
       "file": "react.md",
@@ -5681,25 +7145,7 @@
       "category": "Frontend"
     }
   ],
-  "map": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "lists": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "with": [
     {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
@@ -5745,15 +7191,6 @@
     }
   ],
   "stable": [
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "based": [
     {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
@@ -5844,15 +7281,6 @@
     }
   ],
   "libraries": [
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "such": [
     {
       "id": "react-frontend-api-caching",
       "file": "react.md",
