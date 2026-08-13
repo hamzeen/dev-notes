@@ -79,12 +79,8 @@ Cache-aside keeps application code in control: read the cache first, load from t
 In a Spring backend, multiple Tomcat threads can access the cache concurrently. Use `ConcurrentHashMap` instead of a plain `HashMap` to make these concurrent cache operations thread-safe.
 
 ```java
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.function.Supplier;
-
+import java.util.*;
 public class ApiCache<T> {
-
     private final Map<String, T> cache = new ConcurrentHashMap<>();
 
     public T get(String key, Supplier<T> apiCall) {
@@ -101,7 +97,6 @@ Usage:
 
 ```java
 ApiCache<Movie> cache = new ApiCache<>();
-
 Movie movie = cache.get("movie-123", () -> movieApi.getMovie("123"));
 ```
 
