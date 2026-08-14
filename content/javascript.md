@@ -5,8 +5,16 @@ date: 2026-08-12
 author: Hamzeen Hameem
 category: Frontend
 summary: Core JavaScript concepts for quick technical discussions.
-keywords: [javascript, closure, scope, event loop, execution context, arrow functions]
+keywords: [javascript, closure, scope, event loop, execution context, arrow functions, Node.js]
 ---
+
+### Node.js Threads and Event Loop
+
+Node.js is single-threaded for JavaScript execution but handles non-blocking operations through the event loop, powered by libuv.
+
+- **Main thread:** Runs JavaScript and the event loop.
+- **libuv thread pool:** Handles operations such as file system access, DNS lookup, cryptography and zlib compression.
+- **Worker threads:** Run CPU-intensive JavaScript in parallel without blocking the main thread.
 
 ### Closures
 
