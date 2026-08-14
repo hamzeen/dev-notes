@@ -108,10 +108,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -380,6 +380,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-6-switch",
       "file": "react-template-patterns.md",
       "section": "6. `switch`",
@@ -519,10 +526,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -959,10 +966,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -1147,10 +1154,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -1212,18 +1219,18 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "storing": [
@@ -1738,13 +1745,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -1757,6 +1757,13 @@
       "section": "Debounce",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "react-template-patterns-7-early-return",
@@ -1925,6 +1932,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "react-suspense",
       "file": "react.md",
       "section": "Suspense",
@@ -2007,6 +2021,13 @@
       "category": "Frontend"
     },
     {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "rxjs-rxjs-operators",
       "file": "rxjs.md",
       "section": "RxJS Operators",
@@ -2075,10 +2096,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -2204,10 +2225,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
       "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -2327,6 +2348,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -2371,10 +2399,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -2495,16 +2523,16 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
       "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
@@ -2562,10 +2590,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     }
   ],
@@ -2601,10 +2629,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -2645,6 +2673,13 @@
       "section": "Idempotency",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "succeeds": [
@@ -2681,10 +2716,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -3310,10 +3345,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
       "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -3333,10 +3368,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
       "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     }
   ],
@@ -3872,17 +3907,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -3898,6 +3926,13 @@
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -4043,10 +4078,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -4319,16 +4354,16 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
       "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
@@ -4382,6 +4417,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "reserve": [
@@ -4487,6 +4529,13 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "tools-eslint",
@@ -4609,10 +4658,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -4749,10 +4798,17 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -5907,17 +5963,17 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-adapter-pattern",
       "file": "design-patterns.md",
       "section": "Adapter Pattern",
       "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     }
   ],
@@ -6197,6 +6253,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "there": [
@@ -6362,10 +6425,17 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     },
     {
@@ -6515,10 +6585,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -6682,6 +6752,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "react-template-patterns-7-early-return",
@@ -7088,13 +7165,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-builder-pattern",
       "file": "design-patterns.md",
       "section": "Builder Pattern",
@@ -7214,16 +7284,16 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-builder-pattern",
       "file": "design-patterns.md",
       "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
@@ -7578,10 +7648,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -7881,6 +7951,13 @@
       "section": "4. TapeEquilibrium",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "into": [
@@ -7899,10 +7976,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -7911,6 +7988,13 @@
       "section": "JVM Execution Flow",
       "documentTitle": "Java Internals",
       "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -8062,6 +8146,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
@@ -8108,10 +8199,10 @@
       "category": "Code Challenges"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -9104,10 +9195,10 @@
       "category": "Backend"
     },
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -9331,6 +9422,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "part": [
@@ -9367,23 +9465,7 @@
       "category": "Backend"
     }
   ],
-  "design patterns": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "singleton": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
+  "singleton pattern": [
     {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
@@ -9392,80 +9474,23 @@
       "category": "Architecture"
     }
   ],
-  "factory method": [
+  "singleton": [
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "adapter": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
-      "id": "design-patterns-adapter-pattern",
+      "id": "design-patterns-more-design-patterns",
       "file": "design-patterns.md",
-      "section": "Adapter Pattern",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
-  "decorator": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "design": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "patterns": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "pattern": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
     {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
@@ -9484,6 +9509,13 @@
       "id": "design-patterns-adapter-pattern",
       "file": "design-patterns.md",
       "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
@@ -9516,64 +9548,18 @@
       "category": "Architecture"
     }
   ],
-  "purpose": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "class": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-singleton-pattern",
-      "file": "design-patterns.md",
-      "section": "Singleton Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-adapter-pattern",
-      "file": "design-patterns.md",
-      "section": "Adapter Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
   "instance": [
     {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
       "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
@@ -9606,1327 +9592,33 @@
       "category": "Backend"
     }
   ],
-  "provides": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "global": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "factory": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "method": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "defines": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "interface": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-adapter-pattern",
-      "file": "design-patterns.md",
-      "section": "Adapter Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "objects": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "while": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-throttle",
-      "file": "javascript.md",
-      "section": "Throttle",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "rxjs-rxjs-operators",
-      "file": "rxjs.md",
-      "section": "RxJS Operators",
-      "documentTitle": "RxJS",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "allowing": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "subclasses": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "implementations": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "decide": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "which": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "concrete": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "object": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "builder": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "constructs": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "complex": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "step": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "separating": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "construction": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "converts": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "expects": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "incompatible": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-adapter-pattern",
-      "file": "design-patterns.md",
-      "section": "Adapter Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "components": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "adds": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "dynamically": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "modifying": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "solid principles": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "solid": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "principles": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "principle": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "meaning": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "responsibility": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "module": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "therefore": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "reason": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "change": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "open": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "closed": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "software": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "entities": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "extension": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "modification": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "liskov": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "substitution": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "child": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "type": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "usable": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "wherever": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "breaking": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "correctness": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-eslint",
-      "file": "tools-fe.md",
-      "section": "ESLint",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "segregation": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "clients": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "forced": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "depend": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "methods": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "interfaces": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "small": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "focused": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "dependency": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "inversion": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "high-level": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "low-level": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "modules": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "abstractions": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "rather": [
-    {
-      "id": "design-and-architecture-solid-principles",
-      "file": "design-and-architecture.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "architecture documents": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "rfc": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "adr": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "sdd": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "architecture": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "documents": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "document": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "expansion": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "comments": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "proposes": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "significant": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "technical": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "gathers": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "feedback": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "implementation": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "decision": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "record": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "architectural": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "context": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "considered": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "alternatives": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "consequences": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "describes": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "system": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "data": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "flows": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    }
-  ],
-  "approach": [
-    {
-      "id": "design-and-architecture-architecture-documents",
-      "file": "design-and-architecture.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Design and Architecture Notes",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "singleton pattern": [
+  "class": [
     {
       "id": "design-patterns-singleton-pattern",
       "file": "design-patterns.md",
       "section": "Singleton Pattern",
       "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
       "category": "Architecture"
     }
   ],
@@ -11012,6 +9704,93 @@
       "category": "Architecture"
     }
   ],
+  "builder": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "constructs": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "complex": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "objects": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "step": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
   "especially": [
     {
       "id": "design-patterns-builder-pattern",
@@ -11071,6 +9850,22 @@
       "category": "Architecture"
     }
   ],
+  "method": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
   "sets": [
     {
       "id": "design-patterns-builder-pattern",
@@ -11089,6 +9884,22 @@
       "category": "Architecture"
     }
   ],
+  "object": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
   "adapter pattern": [
     {
       "id": "design-patterns-adapter-pattern",
@@ -11098,11 +9909,43 @@
       "category": "Architecture"
     }
   ],
+  "adapter": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
   "wraps": [
     {
       "id": "design-patterns-adapter-pattern",
       "file": "design-patterns.md",
       "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "incompatible": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
@@ -11134,6 +9977,429 @@
       "file": "solutions-architecture.md",
       "section": "Webhooks",
       "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "interface": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "more design patterns": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "design patterns": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "decorator": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "design": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "patterns": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "purpose": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "provides": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "global": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "factory": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "defines": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "while": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-throttle",
+      "file": "javascript.md",
+      "section": "Throttle",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "allowing": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "subclasses": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "implementations": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "decide": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "which": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "concrete": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "separating": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "construction": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "converts": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "expects": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "components": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "adds": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "dynamically": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "modifying": [
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -11559,6 +10825,29 @@
       "category": "Backend"
     }
   ],
+  "system": [
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "lookup": [
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -11602,6 +10891,13 @@
       "section": "Node.js Threads and Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -11842,6 +11138,64 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    }
+  ],
+  "data": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
     }
   ],
   "privacy": [
@@ -12175,6 +11529,22 @@
       "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "context": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
     }
   ],
   "created": [
@@ -12518,6 +11888,954 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    }
+  ],
+  "solid principles": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "solid": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "principles": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "principle": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "meaning": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "practical": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "responsibility": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "reason": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "change": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "decouple": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "processing": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "email": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "notification": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "services": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "open": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "closed": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "extension": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "modification": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "liskov": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "substitution": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "subtype": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "safely": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "replace": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "type": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "breaking": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "paymentprocessor": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "implementation": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "wherever": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "segregation": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "small": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "focused": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "interfaces": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "large": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "unused": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "methods": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "workable": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "eatable": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "robot": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "implement": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "dependency": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "inversion": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "depend": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "abstractions": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "rather": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "orderservice": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "depends": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "directly": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "stripepaymentprocessor": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "best practices": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "practices": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "clear": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "separation": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "concern": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "avoid": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "drilling": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "lighthouse": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "follow": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "wcag": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "architecture documents": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "rfc": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "adr": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "sdd": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "documents": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "document": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "expansion": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "comments": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "proposes": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "significant": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "technical": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "gathers": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "decision": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "record": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "architectural": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "considered": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "alternatives": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "consequences": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "software": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "describes": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "flows": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "approach": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
     }
   ],
   "pattern overview": [
@@ -13014,22 +13332,6 @@
     }
   ],
   "chaining": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "safely": [
     {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
@@ -14935,15 +15237,6 @@
       "category": "Architecture"
     }
   ],
-  "avoid": [
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "relying": [
     {
       "id": "solutions-architecture-horizontal-scaling",
@@ -15618,22 +15911,6 @@
       "category": "Architecture"
     }
   ],
-  "processing": [
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "native": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -15752,15 +16029,6 @@
     }
   ],
   "decouples": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "services": [
     {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
@@ -16443,6 +16711,22 @@
       "category": "Backend"
     }
   ],
+  "therefore": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
   "needs": [
     {
       "id": "spring-boot-request-capacity-establish-the-current-target",
@@ -16932,15 +17216,6 @@
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "practical": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
     }
@@ -17450,6 +17725,15 @@
       "category": "Backend"
     }
   ],
+  "child": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
   "product": [
     {
       "id": "sql-join-child-table-orders",
@@ -17611,24 +17895,6 @@
       "category": "Tools"
     }
   ],
-  "lighthouse": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "wcag": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "accessibility": [
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -17701,6 +17967,15 @@
       "category": "Tools"
     }
   ],
+  "usable": [
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "understandable": [
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -17711,15 +17986,6 @@
     }
   ],
   "interactions": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "clear": [
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
@@ -18012,6 +18278,15 @@
     }
   ],
   "code-quality": [
+    {
+      "id": "tools-eslint",
+      "file": "tools-fe.md",
+      "section": "ESLint",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "correctness": [
     {
       "id": "tools-eslint",
       "file": "tools-fe.md",
@@ -18514,15 +18789,6 @@
     }
   ],
   "effectively": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "unused": [
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",

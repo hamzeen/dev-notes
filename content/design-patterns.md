@@ -5,7 +5,7 @@ date: 2026-08-14
 author: Hamzeen Hameem
 category: Architecture
 summary: Practical examples of common software design patterns.
-keywords: [design patterns, singleton, adapter, decorator, solid, rfc, adr, sdd]
+keywords: [design patterns, singleton, adapter, decorator, rfc, adr, sdd]
 ---
 
 ### Singleton Pattern
@@ -56,3 +56,13 @@ class StripeAdapter implements PaymentGateway {
 PaymentGateway gateway = new StripeAdapter();
 gateway.pay(100.00);
 ```
+
+### More Design Patterns
+
+| Pattern        | Purpose                                                                                                                           |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Singleton      | Ensures a class has only one instance and provides a global access point to it.                                                   |
+| Factory Method | Defines an interface for creating objects while allowing subclasses or implementations to decide which concrete object to create. |
+| Builder        | Constructs a complex object step by step, separating its construction from its final representation.                              |
+| Adapter        | Converts one interface into another interface that the client expects, allowing incompatible components to work together.         |
+| Decorator      | Adds behavior to an object dynamically without modifying its original class.                                                      |
