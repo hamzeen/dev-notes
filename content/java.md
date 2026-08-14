@@ -5,8 +5,15 @@ date: 2026-08-14
 author: Hamzeen Hameem
 category: Backend
 summary: A simple step-by-step flow of how Java source code moves through the JVM until execution.
-keywords: [jvm, java, bytecode, class loader, jit, garbage collection, backend]
+keywords: [jvm, java, bytecode, class loader, jit, garbage collection, kotlin, backend]
 ---
+
+### JVM Compilers
+
+| Compiler  | Source file |
+| --------- | ----------- |
+| `kotlinc` | `.kt`       |
+| `javac`   | `.java`     |
 
 ### JVM Execution Flow
 

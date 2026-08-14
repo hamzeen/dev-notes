@@ -5,7 +5,7 @@ date: 2026-08-12
 author: Hamzeen Hameem
 category: Frontend
 summary: Core JavaScript concepts for quick technical discussions.
-keywords: [javascript, closure, scope, event loop, arrow functions]
+keywords: [javascript, closure, scope, event loop, execution context, arrow functions]
 ---
 
 ### Closures
@@ -63,6 +63,11 @@ Execution order:
 ### Variable Scope: var, let and const
 
 `var` is function-scoped, while `let` and `const` are block-scoped. Prefer `const`, then use `let` only when reassignment is required.
+
+### Execution Contexts
+
+- **FEC (Function Execution Context):** Created whenever a function is called and contains its local variables, parameters, and `this` value.
+- **GEC (Global Execution Context):** Created when the JavaScript program starts and contains global variables, functions, and the global `this` value.
 
 ### Debounce
 

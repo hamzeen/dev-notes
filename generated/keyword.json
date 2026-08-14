@@ -207,6 +207,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
@@ -376,6 +383,13 @@
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
       "documentTitle": "React Concepts",
       "category": "Frontend"
     },
@@ -1465,6 +1479,13 @@
       "category": "Backend"
     },
     {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
@@ -1573,6 +1594,13 @@
       "file": "react-template-patterns.md",
       "section": "6. `switch`",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -1804,6 +1832,13 @@
       "category": "Backend"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-transactional-outbox",
       "file": "solutions-architecture.md",
       "section": "Transactional Outbox",
@@ -1846,6 +1881,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "verify": [
@@ -2118,6 +2160,13 @@
       "section": "Architecture Documents",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -2872,6 +2921,13 @@
       "category": "Frontend"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -2911,6 +2967,13 @@
       "file": "react-template-patterns.md",
       "section": "9. Optional Chaining `?.`",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -4047,6 +4110,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "transaction": [
@@ -4483,6 +4553,20 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "miss": [
@@ -5176,6 +5260,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     },
     {
       "id": "tools-eslint",
@@ -7003,6 +7094,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "compressed": [
@@ -7880,6 +7978,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -8288,6 +8393,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "base": [
@@ -8347,6 +8459,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "keep": [
@@ -8549,6 +8668,20 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "permanently": [
@@ -8576,6 +8709,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "made": [
@@ -8585,6 +8725,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "something": [
@@ -9227,6 +9374,13 @@
       "category": "Frontend"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
@@ -9320,6 +9474,13 @@
       "file": "react-template-patterns.md",
       "section": "Quick Recall",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -10238,6 +10399,13 @@
       "section": "Architecture Documents",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "considered": [
@@ -10322,6 +10490,13 @@
       "category": "Frontend"
     },
     {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -10375,16 +10550,23 @@
       "category": "Tools"
     }
   ],
-  "jvm execution flow": [
+  "jvm compilers": [
     {
-      "id": "jvm-flow-jvm-execution-flow",
+      "id": "jvm-flow-jvm-compilers",
       "file": "java.md",
-      "section": "JVM Execution Flow",
+      "section": "JVM Compilers",
       "documentTitle": "Java Internals",
       "category": "Backend"
     }
   ],
   "jvm": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
     {
       "id": "jvm-flow-jvm-execution-flow",
       "file": "java.md",
@@ -10394,6 +10576,76 @@
     }
   ],
   "java": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "kotlin": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "compilers": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "compiler": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "file": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "kotlinc": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "javac": [
+    {
+      "id": "jvm-flow-jvm-compilers",
+      "file": "java.md",
+      "section": "JVM Compilers",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "jvm execution flow": [
     {
       "id": "jvm-flow-jvm-execution-flow",
       "file": "java.md",
@@ -10425,6 +10677,13 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "program": [
@@ -10434,6 +10693,13 @@
       "section": "JVM Execution Flow",
       "documentTitle": "Java Internals",
       "category": "Backend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "compiled": [
@@ -10506,6 +10772,13 @@
       "category": "Frontend"
     },
     {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "javascript-debounce",
       "file": "javascript.md",
       "section": "Debounce",
@@ -10541,6 +10814,13 @@
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
     }
@@ -10970,6 +11250,92 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    }
+  ],
+  "execution contexts": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "execution context": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "contexts": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "created": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "called": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "local": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "functions": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
     }
   ],
   "debounce": [
@@ -11717,6 +12083,13 @@
       "section": "8. Fallback `??` / `||`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "default": [
@@ -11883,6 +12256,20 @@
       "file": "react-template-patterns.md",
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -12438,6 +12825,162 @@
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "abortcontroller": [
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "in-flight": [
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "unmounts": [
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "newer": [
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "suspense": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "displays": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "suspense-enabled": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "waiting": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "works": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "features": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "framework-supported": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "fetching": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "automatically": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-prettier",
+      "file": "tools-fe.md",
+      "section": "Prettier",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "ordinary": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "useeffect": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
       "documentTitle": "React Concepts",
       "category": "Frontend"
     }
@@ -13500,22 +14043,6 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "local": [
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "transactional outbox": [
@@ -15281,15 +15808,6 @@
       "category": "Backend"
     }
   ],
-  "waiting": [
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "accept": [
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -16708,15 +17226,6 @@
       "category": "Tools"
     }
   ],
-  "automatically": [
-    {
-      "id": "tools-prettier",
-      "file": "tools-fe.md",
-      "section": "Prettier",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "formats": [
     {
       "id": "tools-prettier",
@@ -16985,15 +17494,6 @@
     }
   ],
   "manages": [
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "fetching": [
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",

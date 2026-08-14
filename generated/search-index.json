@@ -1075,6 +1075,27 @@
     ]
   },
   {
+    "id": "jvm-flow-jvm-compilers",
+    "documentSlug": "jvm-flow",
+    "sectionSlug": "jvm-compilers",
+    "title": "JVM Compilers",
+    "documentTitle": "Java Internals",
+    "file": "java.md",
+    "category": "Backend",
+    "keywords": [
+      "JVM Compilers",
+      "jvm",
+      "java",
+      "kotlin",
+      "compilers",
+      "compiler",
+      "source",
+      "file",
+      "kotlinc",
+      "javac"
+    ]
+  },
+  {
     "id": "jvm-flow-jvm-execution-flow",
     "documentSlug": "jvm-flow",
     "sectionSlug": "jvm-execution-flow",
@@ -1198,6 +1219,38 @@
       "when",
       "reassignment",
       "required"
+    ]
+  },
+  {
+    "id": "javascript-execution-contexts",
+    "documentSlug": "javascript",
+    "sectionSlug": "execution-contexts",
+    "title": "Execution Contexts",
+    "documentTitle": "JavaScript Concepts",
+    "file": "javascript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Execution Contexts",
+      "javascript",
+      "execution context",
+      "execution",
+      "contexts",
+      "function",
+      "context",
+      "created",
+      "whenever",
+      "called",
+      "contains",
+      "local",
+      "variables",
+      "parameters",
+      "this",
+      "value",
+      "global",
+      "when",
+      "program",
+      "starts",
+      "functions"
     ]
   },
   {
@@ -1611,6 +1664,63 @@
       "layout",
       "painting",
       "needed"
+    ]
+  },
+  {
+    "id": "react-abortcontroller",
+    "documentSlug": "react",
+    "sectionSlug": "abortcontroller",
+    "title": "AbortController",
+    "documentTitle": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "keywords": [
+      "AbortController",
+      "abortcontroller",
+      "cancels",
+      "in-flight",
+      "request",
+      "when",
+      "component",
+      "unmounts",
+      "newer",
+      "starts"
+    ]
+  },
+  {
+    "id": "react-suspense",
+    "documentSlug": "react",
+    "sectionSlug": "suspense",
+    "title": "Suspense",
+    "documentTitle": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "keywords": [
+      "Suspense",
+      "suspense",
+      "displays",
+      "fallback",
+      "while",
+      "suspense-enabled",
+      "component",
+      "data",
+      "source",
+      "waiting",
+      "works",
+      "with",
+      "features",
+      "such",
+      "lazy",
+      "framework-supported",
+      "fetching",
+      "does",
+      "automatically",
+      "track",
+      "ordinary",
+      "requests",
+      "made",
+      "inside",
+      "useeffect"
     ]
   },
   {

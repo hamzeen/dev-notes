@@ -1094,6 +1094,28 @@
     "html": "<table>\n<thead>\n<tr>\n<th>Document</th>\n<th>Expansion</th>\n<th>Purpose</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>RFC</td>\n<td>Request for Comments</td>\n<td>Proposes a significant technical change and gathers feedback before implementation.</td>\n</tr>\n<tr>\n<td>ADR</td>\n<td>Architecture Decision Record</td>\n<td>Records an architectural decision, its context, considered alternatives, and consequences.</td>\n</tr>\n<tr>\n<td>SDD</td>\n<td>Software Design Document</td>\n<td>Describes the system design, components, data flows, interfaces, and implementation approach.</td>\n</tr>\n</tbody></table>\n"
   },
   {
+    "id": "jvm-flow-jvm-compilers",
+    "documentSlug": "jvm-flow",
+    "sectionSlug": "jvm-compilers",
+    "title": "JVM Compilers",
+    "documentTitle": "Java Internals",
+    "file": "java.md",
+    "category": "Backend",
+    "keywords": [
+      "JVM Compilers",
+      "jvm",
+      "java",
+      "kotlin",
+      "compilers",
+      "compiler",
+      "source",
+      "file",
+      "kotlinc",
+      "javac"
+    ],
+    "html": "<table>\n<thead>\n<tr>\n<th>Compiler</th>\n<th>Source file</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>kotlinc</code></td>\n<td><code>.kt</code></td>\n</tr>\n<tr>\n<td><code>javac</code></td>\n<td><code>.java</code></td>\n</tr>\n</tbody></table>\n"
+  },
+  {
     "id": "jvm-flow-jvm-execution-flow",
     "documentSlug": "jvm-flow",
     "sectionSlug": "jvm-execution-flow",
@@ -1222,6 +1244,39 @@
       "required"
     ],
     "html": "<p><code>var</code> is function-scoped, while <code>let</code> and <code>const</code> are block-scoped. Prefer <code>const</code>, then use <code>let</code> only when reassignment is required.</p>\n"
+  },
+  {
+    "id": "javascript-execution-contexts",
+    "documentSlug": "javascript",
+    "sectionSlug": "execution-contexts",
+    "title": "Execution Contexts",
+    "documentTitle": "JavaScript Concepts",
+    "file": "javascript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Execution Contexts",
+      "javascript",
+      "execution context",
+      "execution",
+      "contexts",
+      "function",
+      "context",
+      "created",
+      "whenever",
+      "called",
+      "contains",
+      "local",
+      "variables",
+      "parameters",
+      "this",
+      "value",
+      "global",
+      "when",
+      "program",
+      "starts",
+      "functions"
+    ],
+    "html": "<ul>\n<li><strong>FEC (Function Execution Context):</strong> Created whenever a function is called and contains its local variables, parameters, and <code>this</code> value.</li>\n<li><strong>GEC (Global Execution Context):</strong> Created when the JavaScript program starts and contains global variables, functions, and the global <code>this</code> value.</li>\n</ul>\n"
   },
   {
     "id": "javascript-debounce",
@@ -1651,6 +1706,65 @@
       "needed"
     ],
     "html": "<p>compares the new Virtual DOM with the previous Virtual DOM to determine what changed. React then updates only necessary parts of the real DOM, after which the browser handles layout/painting as needed.</p>\n"
+  },
+  {
+    "id": "react-abortcontroller",
+    "documentSlug": "react",
+    "sectionSlug": "abortcontroller",
+    "title": "AbortController",
+    "documentTitle": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "keywords": [
+      "AbortController",
+      "abortcontroller",
+      "cancels",
+      "in-flight",
+      "request",
+      "when",
+      "component",
+      "unmounts",
+      "newer",
+      "starts"
+    ],
+    "html": "<p><code>AbortController</code> cancels an in-flight request when a component unmounts or a newer request starts.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#D2A8FF\">useEffect</span><span style=\"color:#E6EDF3\">(() </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">    const</span><span style=\"color:#79C0FF\"> controller</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#FF7B72\"> new</span><span style=\"color:#D2A8FF\"> AbortController</span><span style=\"color:#E6EDF3\">();</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#D2A8FF\">    fetch</span><span style=\"color:#E6EDF3\">(</span><span style=\"color:#A5D6FF\">`/api/users?q=${</span><span style=\"color:#E6EDF3\">query</span><span style=\"color:#A5D6FF\">}`</span><span style=\"color:#E6EDF3\">, { signal: controller.signal })</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        .</span><span style=\"color:#D2A8FF\">then</span><span style=\"color:#E6EDF3\">((</span><span style=\"color:#FFA657\">response</span><span style=\"color:#E6EDF3\">) </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> response.</span><span style=\"color:#D2A8FF\">json</span><span style=\"color:#E6EDF3\">())</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        .</span><span style=\"color:#D2A8FF\">then</span><span style=\"color:#E6EDF3\">(setUsers)</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        .</span><span style=\"color:#D2A8FF\">catch</span><span style=\"color:#E6EDF3\">((</span><span style=\"color:#FFA657\">error</span><span style=\"color:#E6EDF3\">) </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">            if</span><span style=\"color:#E6EDF3\"> (error.name </span><span style=\"color:#FF7B72\">!==</span><span style=\"color:#A5D6FF\"> \"AbortError\"</span><span style=\"color:#E6EDF3\">) </span><span style=\"color:#FF7B72\">throw</span><span style=\"color:#E6EDF3\"> error;</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        });</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">    return</span><span style=\"color:#E6EDF3\"> () </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> controller.</span><span style=\"color:#D2A8FF\">abort</span><span style=\"color:#E6EDF3\">();</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">}, [query]);</span></span></code></pre>"
+  },
+  {
+    "id": "react-suspense",
+    "documentSlug": "react",
+    "sectionSlug": "suspense",
+    "title": "Suspense",
+    "documentTitle": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "keywords": [
+      "Suspense",
+      "suspense",
+      "displays",
+      "fallback",
+      "while",
+      "suspense-enabled",
+      "component",
+      "data",
+      "source",
+      "waiting",
+      "works",
+      "with",
+      "features",
+      "such",
+      "lazy",
+      "framework-supported",
+      "fetching",
+      "does",
+      "automatically",
+      "track",
+      "ordinary",
+      "requests",
+      "made",
+      "inside",
+      "useeffect"
+    ],
+    "html": "<p><code>Suspense</code> displays fallback UI while a Suspense-enabled component or data source is waiting. It works with features such as <code>lazy</code> and framework-supported data fetching, but it does not automatically track ordinary requests made inside <code>useEffect</code>.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#E6EDF3\">&#x3C;</span><span style=\"color:#7EE787\">Suspense</span><span style=\"color:#79C0FF\"> fallback</span><span style=\"color:#FF7B72\">={</span><span style=\"color:#E6EDF3\">&#x3C;</span><span style=\"color:#7EE787\">p</span><span style=\"color:#E6EDF3\">>Loading...&#x3C;/</span><span style=\"color:#7EE787\">p</span><span style=\"color:#E6EDF3\">></span><span style=\"color:#FF7B72\">}</span><span style=\"color:#E6EDF3\">></span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">    &#x3C;</span><span style=\"color:#7EE787\">UserProfile</span><span style=\"color:#E6EDF3\"> /></span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">&#x3C;/</span><span style=\"color:#7EE787\">Suspense</span><span style=\"color:#E6EDF3\">></span></span></code></pre>"
   },
   {
     "id": "react-higher-order-component-hoc",
