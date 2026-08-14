@@ -292,6 +292,34 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
@@ -364,6 +392,13 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -477,6 +512,20 @@
       "category": "Frontend"
     },
     {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -511,6 +560,13 @@
       "file": "db-transaction.md",
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
       "category": "Backend"
     },
     {
@@ -783,6 +839,20 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
@@ -930,6 +1000,13 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -1049,6 +1126,20 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
@@ -1109,6 +1200,20 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "state": [
@@ -1235,6 +1340,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
@@ -1261,6 +1373,13 @@
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -1360,6 +1479,41 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
@@ -1380,6 +1534,13 @@
       "file": "auth.md",
       "section": "Authentication & Authorization",
       "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
       "category": "Backend"
     }
   ],
@@ -1427,6 +1588,20 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "issuer": [
@@ -1634,6 +1809,20 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -1885,6 +2074,20 @@
       "section": "Transactional Outbox",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "request": [
@@ -1936,6 +2139,34 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-axios",
@@ -1998,6 +2229,13 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -2033,6 +2271,13 @@
       "section": "Webhooks",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "once": [
@@ -2690,6 +2935,20 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -2848,6 +3107,13 @@
       "file": "backend.md",
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
       "category": "Backend"
     }
   ],
@@ -3026,6 +3292,48 @@
       "section": "Transactional Outbox",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "round": [
@@ -3117,6 +3425,13 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-autocannon",
@@ -3272,6 +3587,13 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "read": [
@@ -3401,6 +3723,13 @@
       "section": "Transactional Outbox",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -3651,6 +3980,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "lock": [
@@ -3820,6 +4163,13 @@
       "section": "Conditional Rendering",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "check": [
@@ -3980,6 +4330,13 @@
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "first": [
@@ -4084,6 +4441,13 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
@@ -4182,6 +4546,20 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "multiple": [
@@ -4228,6 +4606,34 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "threads": [
@@ -4244,6 +4650,27 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "concurrently": [
@@ -4370,6 +4797,20 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "operations": [
@@ -4393,6 +4834,13 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "thread-safe": [
@@ -4420,6 +4868,20 @@
       "category": "Frontend"
     },
     {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
@@ -4440,6 +4902,13 @@
       "file": "db-transaction.md",
       "section": "The Flow",
       "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
       "category": "Backend"
     },
     {
@@ -4791,6 +5260,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-find-the-bottleneck",
+      "file": "spring-boot-scale.md",
+      "section": "Find the Bottleneck",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "number": [
@@ -4885,6 +5361,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "format": [
@@ -4924,6 +5407,13 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-autocannon",
@@ -4975,6 +5465,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-autocannon",
@@ -5178,6 +5682,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "runnable": [
@@ -5438,6 +5949,13 @@
       "section": "Throttle",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "space": [
@@ -5571,6 +6089,20 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
@@ -5603,6 +6135,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "ocr-compressed": [
@@ -5655,6 +6194,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "represent": [
@@ -5849,6 +6395,13 @@
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     },
     {
       "id": "tools-axios",
@@ -6246,6 +6799,13 @@
       "section": "Webhooks",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "total": [
@@ -6567,6 +7127,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "3. binarygap": [
@@ -6946,6 +7513,13 @@
       "section": "4. TapeEquilibrium",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "integers": [
@@ -6994,6 +7568,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -7166,6 +7747,20 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "point": [
@@ -7232,6 +7827,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "value": [
@@ -7373,6 +7982,20 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "element": [
@@ -7482,6 +8105,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "operation": [
@@ -7498,6 +8128,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "increase": [
@@ -7507,6 +8144,20 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "counter": [
@@ -7525,6 +8176,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "currently": [
@@ -7659,6 +8317,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "whenever": [
@@ -7822,6 +8487,20 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "unit": [
@@ -8042,6 +8721,13 @@
       "category": "Backend"
     },
     {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -8248,6 +8934,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "acid": [
@@ -8302,6 +8995,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "adapter": [
@@ -8444,6 +9144,20 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "provides": [
@@ -8920,6 +9634,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "reason": [
@@ -9297,6 +10018,13 @@
       "section": "Webhooks",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "architecture documents": [
@@ -9457,6 +10185,13 @@
       "section": "Architecture Documents",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "architectural": [
@@ -9598,11 +10333,106 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "Tools"
+    }
+  ],
+  "jvm execution flow": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "jvm": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "java": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "bytecode": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "execution": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "program": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "compiled": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "initializes": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    }
+  ],
+  "executes": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
     }
   ],
   "closures": [
@@ -9964,15 +10794,6 @@
       "category": "Tools"
     }
   ],
-  "execution": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "synchronous": [
     {
       "id": "javascript-event-loop",
@@ -10100,6 +10921,20 @@
       "section": "Variable Scope: var, let and const",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "debounce": [
@@ -10304,6 +11139,13 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "interval": [
@@ -11829,6 +12671,13 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "data-access": [
@@ -12001,6 +12850,20 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "machine": [
@@ -12035,6 +12898,13 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "cpu-intensive": [
@@ -12062,6 +12932,20 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "connection": [
@@ -12078,6 +12962,27 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "pool": [
@@ -12087,6 +12992,20 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "handle": [
@@ -12096,6 +13015,13 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "overwhelming": [
@@ -12188,6 +13114,20 @@
       "category": "Architecture"
     },
     {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
@@ -12263,6 +13203,13 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "balancer": [
@@ -12313,6 +13260,13 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "across": [
@@ -13577,6 +14531,13 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "period": [
@@ -13694,6 +14655,13 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "extra": [
@@ -13784,6 +14752,1200 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    }
+  ],
+  "establish the current target": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "establish": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "target": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "assume": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "minute": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "slowest": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "representative": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "loading": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "published": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "questions": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "answers": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "takes": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "mapping": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "serialization": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "needs": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "approximately": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "workers": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "around": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "estimate database connections": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "hikaricp": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "estimate": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "connections": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "take": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "overall": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "worst": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "holds": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "theoretically": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "cover": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "concurrency": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "introduced": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "monitoring": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "shows": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "waiting": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "accept": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "calculations": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "show": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "plausible": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "prove": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "sustain": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "load-test the current backend": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "spring boot": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "latency": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "load-test": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "boot": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "production-like": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "environment": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "gradually": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "following": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "second": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "error": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "timeout": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "rates": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "garbage": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "collection": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "busy": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "active": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "pending": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "hikari": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "practical": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "limit": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "reached": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "errors": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "resource": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "becomes": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "unacceptable": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "simply": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "observed": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "find the bottleneck": [
+    {
+      "id": "spring-boot-request-capacity-find-the-bottleneck",
+      "file": "spring-boot-scale.md",
+      "section": "Find the Bottleneck",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "bottleneck": [
+    {
+      "id": "spring-boot-request-capacity-find-the-bottleneck",
+      "file": "spring-boot-scale.md",
+      "section": "Find the Bottleneck",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "calculate the larger target": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "scale": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "toward": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "suggests": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "simultaneously": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "under": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "assumptions": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "headroom": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "configuring": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "calculated": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "vertically scale the backend": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "vertically": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "optimize": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "safe": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "read-heavy": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "retrieving": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "saturation": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "exceeding": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "repeat": [
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "spring boot configuration": [
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "configuration": [
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "interview approach": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "interview": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "convert": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "thread": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "connection-hold": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "expensive": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "support": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "agreed": [
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "parent table: `customers`": [
@@ -14631,15 +16793,6 @@
       "category": "Tools"
     }
   ],
-  "connections": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "duration": [
     {
       "id": "tools-autocannon",
@@ -14658,34 +16811,7 @@
       "category": "Tools"
     }
   ],
-  "second": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "latency": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "throughput": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "errors": [
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
@@ -14729,15 +16855,6 @@
     }
   ],
   "proxy": [
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "configuration": [
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
@@ -14834,15 +16951,6 @@
       "category": "Tools"
     }
   ],
-  "loading": [
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "synchronization": [
     {
       "id": "tools-tanstack-query",
@@ -14930,15 +17038,6 @@
     }
   ],
   "schema": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "support": [
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
@@ -15232,15 +17331,6 @@
     }
   ],
   "bundles": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "environment": [
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
