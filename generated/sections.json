@@ -1362,6 +1362,7 @@
     "category": "Architecture",
     "keywords": [
       "SOLID Principles",
+      "SOLID",
       "solid",
       "principles",
       "principle",
@@ -1472,8 +1473,8 @@
     "category": "Architecture",
     "keywords": [
       "Architecture Documents",
-      "rfc",
-      "adr",
+      "RFC",
+      "ADR",
       "sdd",
       "architecture",
       "documents",

@@ -5,7 +5,7 @@ date: 2026-08-12
 author: Hamzeen Hameem
 category: Architecture
 summary: A quick reference for common design patterns, SOLID principles, and architecture documents.
-keywords: [best practices, rfc, adr, sdd]
+keywords: [SOLID, best practices, RFC, ADR, sdd]
 ---
 
 ### SOLID Principles
