@@ -140,6 +140,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-11-conditional-classes",
       "file": "react-template-patterns.md",
       "section": "11. Conditional Classes",
@@ -253,6 +260,13 @@
       "section": "Authentication & Authorization",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     },
     {
       "id": "react-template-patterns-9-optional-chaining",
@@ -851,6 +865,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -1493,6 +1514,13 @@
       "category": "Frontend"
     },
     {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
       "section": "Horizontal Scaling",
@@ -1963,6 +1991,13 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
     }
   ],
   "belongs": [
@@ -2166,6 +2201,13 @@
       "file": "react.md",
       "section": "AbortController",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     },
     {
@@ -2444,6 +2486,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "repeated": [
@@ -2466,6 +2515,13 @@
       "file": "react.md",
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     }
   ],
@@ -2849,6 +2905,13 @@
       "category": "Backend"
     },
     {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "react-higher-order-component-hoc",
       "file": "react.md",
       "section": "Higher-Order Component (HOC)",
@@ -2905,6 +2968,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     },
     {
       "id": "javascript-event-loop",
@@ -2988,6 +3058,13 @@
       "file": "react.md",
       "section": "Rendering Lists with map",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     },
     {
@@ -4221,6 +4298,13 @@
       "category": "Architecture"
     },
     {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
@@ -4690,6 +4774,13 @@
       "category": "Frontend"
     },
     {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
       "section": "Horizontal Scaling",
@@ -4955,6 +5046,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "usage": [
@@ -4970,6 +5068,13 @@
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     },
     {
@@ -5129,6 +5234,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -5443,6 +5555,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
       "section": "Rate Limiting",
@@ -5743,6 +5862,13 @@
       "file": "design-and-architecture.md",
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -6426,6 +6552,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
       "section": "Rate Limiting",
@@ -6881,6 +7014,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "they": [
@@ -6896,6 +7036,13 @@
       "file": "design-and-architecture.md",
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -7015,6 +7162,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -7536,6 +7690,20 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "4. tapeequilibrium": [
@@ -7939,6 +8107,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
     },
     {
       "id": "spring-boot-request-capacity-establish-the-current-target",
@@ -8682,6 +8857,13 @@
       "section": "AbortController",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
     }
   ],
   "permanently": [
@@ -9145,6 +9327,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "factory method": [
@@ -9156,7 +9345,7 @@
       "category": "Architecture"
     }
   ],
-  "builder": [
+  "adapter": [
     {
       "id": "design-and-architecture-design-patterns",
       "file": "design-and-architecture.md",
@@ -9165,19 +9354,10 @@
       "category": "Architecture"
     },
     {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "adapter": [
-    {
-      "id": "design-and-architecture-design-patterns",
-      "file": "design-and-architecture.md",
-      "section": "Design Patterns",
-      "documentTitle": "Design and Architecture Notes",
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -9228,6 +9408,27 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -9289,6 +9490,20 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "instance": [
@@ -9297,6 +9512,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     },
     {
@@ -9404,6 +9626,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "defines": [
@@ -9436,6 +9665,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "objects": [
@@ -9444,6 +9680,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -9481,6 +9724,13 @@
       "file": "react.md",
       "section": "Suspense",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     },
     {
@@ -9587,6 +9837,36 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "builder": [
+    {
+      "id": "design-and-architecture-design-patterns",
+      "file": "design-and-architecture.md",
+      "section": "Design Patterns",
+      "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "constructs": [
@@ -9595,6 +9875,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -9605,6 +9892,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
     }
   ],
   "step": [
@@ -9613,6 +9907,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -9658,6 +9959,13 @@
       "file": "design-and-architecture.md",
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
       "category": "Architecture"
     }
   ],
@@ -10550,6 +10858,215 @@
       "category": "Tools"
     }
   ],
+  "singleton pattern": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "exists": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "eager": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "initialization": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "during": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "loading": [
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "builder pattern": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "especially": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "optional": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "field": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "config": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "choices": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "sets": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "build": [
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "adapter pattern": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "wraps": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "through": [
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "jvm compilers": [
     {
       "id": "jvm-flow-jvm-compilers",
@@ -10881,6 +11398,13 @@
       "file": "javascript.md",
       "section": "Throttle",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     }
   ],
@@ -11506,6 +12030,13 @@
       "section": "Debounce",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
     }
   ],
   "inputs": [
@@ -12104,22 +12635,6 @@
       "id": "react-template-patterns-8-fallback",
       "file": "react-template-patterns.md",
       "section": "8. Fallback `??` / `||`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "optional": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
     }
@@ -12734,6 +13249,13 @@
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
     }
   ],
   "changed": [
@@ -13267,6 +13789,114 @@
       "file": "react.md",
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "rxjs operators": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "rxjs": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "operators": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "switchmap": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "concatmap": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "exhaustmap": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "operator": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "cancel": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "ideal": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "matters": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "ignore": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Frontend"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
       "category": "Frontend"
     }
   ],
@@ -14349,22 +14979,6 @@
       "category": "Architecture"
     }
   ],
-  "through": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "producers": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -14958,22 +15572,6 @@
       "category": "Architecture"
     }
   ],
-  "during": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "spikes": [
     {
       "id": "solutions-architecture-message-brokers",
@@ -15513,22 +16111,6 @@
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
-    }
-  ],
-  "loading": [
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "published": [
