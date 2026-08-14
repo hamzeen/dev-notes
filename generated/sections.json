@@ -1653,6 +1653,31 @@
     "html": "<p>compares the new Virtual DOM with the previous Virtual DOM to determine what changed. React then updates only necessary parts of the real DOM, after which the browser handles layout/painting as needed.</p>\n"
   },
   {
+    "id": "react-higher-order-component-hoc",
+    "documentSlug": "react",
+    "sectionSlug": "higher-order-component-hoc",
+    "title": "Higher-Order Component (HOC)",
+    "documentTitle": "React Concepts",
+    "file": "react.md",
+    "category": "Frontend",
+    "keywords": [
+      "Higher-Order Component (HOC)",
+      "react",
+      "higher-order",
+      "component",
+      "function",
+      "that",
+      "takes",
+      "returns",
+      "enhanced",
+      "with",
+      "additional",
+      "behavior",
+      "props"
+    ],
+    "html": "<p>a function that takes a React component and returns an enhanced component with additional behavior or props.</p>\n"
+  },
+  {
     "id": "react-conditional-rendering",
     "documentSlug": "react",
     "sectionSlug": "conditional-rendering",
@@ -2259,7 +2284,7 @@
       "workers",
       "around"
     ],
-    "html": "<p>Assume the Quiz Builder backend should initially handle <code>5,000 requests per minute</code>.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>Requests per second</span></span>\n<span class=\"line\"><span>= 5,000 ÷ 60</span></span>\n<span class=\"line\"><span>≈ 83 RPS</span></span></code></pre><p>Use the slowest representative operation, such as loading a published quiz with its questions and answers. Assume the complete request takes <code>200 ms</code>, including application logic, database work, mapping and serialization.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>Required Concurrency</span></span>\n<span class=\"line\"><span>= RPS × request duration in seconds</span></span>\n<span class=\"line\"><span>= 83 × 0.2</span></span>\n<span class=\"line\"><span>≈ 17 concurrent requests</span></span></code></pre><p>Tomcat therefore needs at least approximately <code>17</code> workers. Its cap is around <code>200</code>.</p>\n"
+    "html": "<p>Assume Quiz Builder backend should initially handle <code>5,000 requests per minute</code>.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>Requests per second</span></span>\n<span class=\"line\"><span>= 5,000 ÷ 60</span></span>\n<span class=\"line\"><span>≈ 83 RPS</span></span></code></pre><p>Use the slowest representative operation, such as loading a published quiz with its questions and answers. Assume the complete request takes <code>200 ms</code>, including application logic, database work, mapping and serialization.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>Required Concurrency</span></span>\n<span class=\"line\"><span>= RPS × request duration in seconds</span></span>\n<span class=\"line\"><span>= 83 × 0.2</span></span>\n<span class=\"line\"><span>≈ 17 concurrent requests</span></span></code></pre><p>Tomcat therefore needs at least approximately <code>17</code> workers. Its cap is around <code>200</code>.</p>\n"
   },
   {
     "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -2328,17 +2353,12 @@
     "category": "Backend",
     "keywords": [
       "Load-Test the Current Backend",
-      "spring boot",
       "tomcat",
       "latency",
       "load-test",
       "current",
       "backend",
-      "spring",
-      "boot",
-      "application",
       "production-like",
-      "environment",
       "gradually",
       "increase",
       "concurrent",
@@ -2377,7 +2397,7 @@
       "highest",
       "observed"
     ],
-    "html": "<p>Run the Spring Boot application in a production-like environment and gradually increase concurrent traffic.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FFA657\">autocannon</span><span style=\"color:#79C0FF\"> -c</span><span style=\"color:#79C0FF\"> 100</span><span style=\"color:#79C0FF\"> -d</span><span style=\"color:#79C0FF\"> 30</span><span style=\"color:#A5D6FF\"> http://localhost:8080/api/quizzes/example</span></span></code></pre><p>Record the following:</p>\n<ul>\n<li>Requests per second</li>\n<li>p95 and p99 response latency</li>\n<li>Error and timeout rates</li>\n<li>CPU, memory and garbage collection</li>\n<li>Busy Tomcat threads</li>\n<li>Active and pending Hikari connections</li>\n<li>Database CPU and slow queries</li>\n</ul>\n<p>The practical capacity limit is reached when latency, errors, or resource usage becomes unacceptable—not simply at the highest observed RPS.</p>\n"
+    "html": "<p>Run the backend in a production-like env and gradually increase concurrent traffic.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FFA657\">autocannon</span><span style=\"color:#79C0FF\"> -c</span><span style=\"color:#79C0FF\"> 100</span><span style=\"color:#79C0FF\"> -d</span><span style=\"color:#79C0FF\"> 30</span><span style=\"color:#A5D6FF\"> http://localhost:8080/api/quizzes/example</span></span></code></pre><p>Record the following:</p>\n<ul>\n<li>Requests per second</li>\n<li>p95 and p99 response latency</li>\n<li>Error and timeout rates</li>\n<li>CPU, memory and garbage collection</li>\n<li>Busy Tomcat threads</li>\n<li>Active and pending Hikari connections</li>\n<li>Database CPU and slow queries</li>\n</ul>\n<p>The practical capacity limit is reached when latency, errors, or resource usage becomes unacceptable—not simply at the highest observed RPS.</p>\n"
   },
   {
     "id": "spring-boot-request-capacity-find-the-bottleneck",
@@ -2429,18 +2449,19 @@
       "under",
       "these",
       "assumptions",
-      "headroom",
+      "keep",
+      "buffer",
       "rather",
       "than",
       "configuring",
       "exactly",
       "calculated",
       "limit",
-      "example",
+      "therefore",
       "hikari",
       "pool"
     ],
-    "html": "<p>To scale the same instance toward <code>20,000 requests per minute</code>:</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>20,000 ÷ 60 ≈ 333 RPS</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>Required Concurrency</span></span>\n<span class=\"line\"><span>= 333 × 0.2</span></span>\n<span class=\"line\"><span>≈ 67 Tomcat threads</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>Required database connections</span></span>\n<span class=\"line\"><span>= 333 × 0.05</span></span>\n<span class=\"line\"><span>≈ 16.65 connections</span></span></code></pre><p>This suggests that approximately <code>67</code> simultaneously active request threads and <code>17</code> busy database connections may be required under these assumptions. Use headroom rather than configuring exactly at the calculated limit—for example, <code>150</code> Tomcat threads and a Hikari pool of <code>25</code>.</p>\n"
+    "html": "<p>To scale the same instance toward <code>20,000 requests per minute</code>:</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span>20,000 ÷ 60 ≈ 333 RPS</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>Required Concurrency</span></span>\n<span class=\"line\"><span>= 333 × 0.2</span></span>\n<span class=\"line\"><span>≈ 67 Tomcat threads</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>Required database connections</span></span>\n<span class=\"line\"><span>= 333 × 0.05</span></span>\n<span class=\"line\"><span>≈ 16.65 connections</span></span></code></pre><p>This suggests that approximately <code>67</code> simultaneously active request threads and <code>17</code> busy database connections may be required under these assumptions.</p>\n<p>Keep buffer rather than configuring exactly at the calculated limit — therefore, <code>150</code> Tomcat threads and a Hikari pool of <code>25</code>.</p>\n"
   },
   {
     "id": "spring-boot-request-capacity-vertically-scale-the-backend",

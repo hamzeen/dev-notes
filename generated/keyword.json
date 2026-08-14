@@ -380,6 +380,13 @@
       "category": "Frontend"
     },
     {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -502,6 +509,13 @@
       "file": "react-template-patterns.md",
       "section": "9. Optional Chaining `?.`",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -842,13 +856,6 @@
       "id": "spring-boot-request-capacity-establish-the-current-target",
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
     },
@@ -2793,6 +2800,13 @@
       "category": "Backend"
     },
     {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
@@ -3179,6 +3193,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "runs": [
@@ -4537,6 +4558,13 @@
       "section": "Design Patterns",
       "documentTitle": "Design and Architecture Notes",
       "category": "Architecture"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "spring": [
@@ -4545,13 +4573,6 @@
       "file": "backend.md",
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
       "category": "Backend"
     },
     {
@@ -6395,13 +6416,6 @@
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    },
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     },
     {
       "id": "tools-axios",
@@ -8342,6 +8356,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "representing": [
@@ -9641,6 +9662,13 @@
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
     }
   ],
   "reason": [
@@ -10489,6 +10517,13 @@
       "file": "javascript.md",
       "section": "Throttle",
       "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -11792,6 +11827,13 @@
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
     }
   ],
   "classes": [
@@ -11841,6 +11883,13 @@
       "file": "react-template-patterns.md",
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     },
     {
@@ -12259,6 +12308,13 @@
       "category": "Frontend"
     },
     {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
       "id": "solutions-architecture-event-driven-backends",
       "file": "solutions-architecture.md",
       "section": "Event-Driven Backends",
@@ -12382,6 +12438,49 @@
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "higher-order component (hoc)": [
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "higher-order": [
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "takes": [
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "enhanced": [
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
       "documentTitle": "React Concepts",
       "category": "Frontend"
     }
@@ -14939,15 +15038,6 @@
       "category": "Backend"
     }
   ],
-  "takes": [
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "mapping": [
     {
       "id": "spring-boot-request-capacity-establish-the-current-target",
@@ -15270,22 +15360,6 @@
       "category": "Backend"
     }
   ],
-  "spring boot": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-spring-boot-configuration",
-      "file": "spring-boot-scale.md",
-      "section": "Spring Boot Configuration",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "latency": [
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -15332,22 +15406,6 @@
       "category": "Backend"
     }
   ],
-  "boot": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-spring-boot-configuration",
-      "file": "spring-boot-scale.md",
-      "section": "Spring Boot Configuration",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "production-like": [
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -15355,22 +15413,6 @@
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
-    }
-  ],
-  "environment": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "gradually": [
@@ -15727,7 +15769,7 @@
       "category": "Backend"
     }
   ],
-  "headroom": [
+  "buffer": [
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
@@ -15845,6 +15887,24 @@
     }
   ],
   "spring boot configuration": [
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "spring boot": [
+    {
+      "id": "spring-boot-request-capacity-spring-boot-configuration",
+      "file": "spring-boot-scale.md",
+      "section": "Spring Boot Configuration",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "boot": [
     {
       "id": "spring-boot-request-capacity-spring-boot-configuration",
       "file": "spring-boot-scale.md",
@@ -17331,6 +17391,15 @@
     }
   ],
   "bundles": [
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "environment": [
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",

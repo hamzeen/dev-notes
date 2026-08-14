@@ -22,7 +22,7 @@ keywords:
 
 ### Establish the Current Target
 
-Assume the Quiz Builder backend should initially handle `5,000 requests per minute`.
+Assume Quiz Builder backend should initially handle `5,000 requests per minute`.
 
 ```text
 Requests per second
@@ -58,7 +58,7 @@ These calculations show that `5,000 requests per minute` is plausible; they do n
 
 ### Load-Test the Current Backend
 
-Run the Spring Boot application in a production-like environment and gradually increase concurrent traffic.
+Run the backend in a production-like env and gradually increase concurrent traffic.
 
 ```bash
 autocannon -c 100 -d 30 http://localhost:8080/api/quizzes/example
@@ -103,7 +103,9 @@ Required database connections
 ≈ 16.65 connections
 ```
 
-This suggests that approximately `67` simultaneously active request threads and `17` busy database connections may be required under these assumptions. Use headroom rather than configuring exactly at the calculated limit—for example, `150` Tomcat threads and a Hikari pool of `25`.
+This suggests that approximately `67` simultaneously active request threads and `17` busy database connections may be required under these assumptions.
+
+Keep buffer rather than configuring exactly at the calculated limit — therefore, `150` Tomcat threads and a Hikari pool of `25`.
 
 ### Vertically Scale the Backend
 

@@ -12,6 +12,10 @@ keywords: [react, conditional rendering, map, lists, templates]
 
 compares the new Virtual DOM with the previous Virtual DOM to determine what changed. React then updates only necessary parts of the real DOM, after which the browser handles layout/painting as needed.
 
+### Higher-Order Component (HOC)
+
+a function that takes a React component and returns an enhanced component with additional behavior or props.
+
 ### Conditional Rendering
 
 Use an early return for substantially different screens, a ternary for either/or UI, and `&&` when an element should render only when a condition is true.
