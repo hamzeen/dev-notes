@@ -25,7 +25,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -48,7 +48,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -138,18 +138,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "used": [
@@ -401,13 +401,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -469,6 +462,13 @@
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -561,13 +561,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -610,6 +603,13 @@
       "category": "Backend"
     },
     {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -647,18 +647,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -823,13 +823,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -886,6 +879,13 @@
       "category": "Architecture"
     },
     {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
@@ -930,13 +930,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -956,6 +949,13 @@
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -1007,7 +1007,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1036,13 +1036,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -1062,6 +1055,13 @@
       "section": "9. Optional Chaining `?.`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "token": [
@@ -1073,18 +1073,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "returned": [
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1207,7 +1207,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1223,7 +1223,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1257,13 +1257,6 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -1306,6 +1299,13 @@
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -1363,13 +1363,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -1389,6 +1382,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "state": [
@@ -1405,13 +1405,6 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "javascript-closures",
@@ -1433,6 +1426,13 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-tanstack-query",
@@ -1493,7 +1493,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -1647,13 +1647,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-suspense",
       "file": "react.md",
       "section": "Suspense",
@@ -1724,6 +1717,13 @@
       "category": "Backend"
     },
     {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
@@ -1770,13 +1770,6 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -1833,6 +1826,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "issuer": [
@@ -1892,13 +1892,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -1925,6 +1918,13 @@
       "section": "7. Early Return",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "trusting": [
@@ -2086,13 +2086,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -2105,6 +2098,13 @@
       "section": "Suspense",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "verify": [
@@ -2150,18 +2150,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "allowed": [
@@ -2320,7 +2320,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -2400,13 +2400,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-architecture-documents",
       "file": "philosophy.md",
       "section": "Architecture Documents",
@@ -2482,6 +2475,13 @@
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-axios",
@@ -2673,13 +2673,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "sql-join-child-table-orders",
       "file": "sql-join.md",
       "section": "Child Table: `orders`",
@@ -2692,6 +2685,13 @@
       "section": "Result",
       "documentTitle": "SQL Inner Join",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "bookings": [
@@ -2912,13 +2912,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
@@ -2945,6 +2938,13 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-axios",
@@ -3034,7 +3034,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -3074,13 +3074,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-event-driven-backends",
       "file": "solutions-architecture.md",
       "section": "Event-Driven Backends",
@@ -3093,6 +3086,13 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-tanstack-query",
@@ -3236,13 +3236,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -3369,6 +3362,13 @@
       "category": "Backend"
     },
     {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -3419,18 +3419,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-tanstack-query",
@@ -3553,18 +3553,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "parent": [
@@ -3574,13 +3574,6 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -3595,6 +3588,13 @@
       "section": "Parent Table: `customers`",
       "documentTitle": "SQL Inner Join",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "records": [
@@ -3682,13 +3682,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -3701,6 +3694,13 @@
       "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "increases": [
@@ -3833,7 +3833,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -3889,13 +3889,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
       "section": "Horizontal Scaling",
@@ -3908,6 +3901,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-autocannon",
@@ -3952,7 +3952,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -4065,13 +4065,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -4084,6 +4077,13 @@
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "read": [
@@ -4143,13 +4143,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -4169,6 +4162,13 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "without": [
@@ -4192,13 +4192,6 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -4241,6 +4234,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -4373,7 +4373,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -4500,13 +4500,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
@@ -4519,6 +4512,13 @@
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "lock": [
@@ -4669,13 +4669,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
@@ -4716,6 +4709,13 @@
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "check": [
@@ -4727,18 +4727,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-best-practices",
       "file": "philosophy.md",
       "section": "Best Practices",
       "documentTitle": "Philosophy",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "reserve": [
@@ -4768,18 +4768,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-tanstack-query",
@@ -4929,13 +4929,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -4955,6 +4948,13 @@
       "section": "Quick Recall",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "from": [
@@ -4994,13 +4994,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -5034,6 +5027,13 @@
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-axios",
@@ -5452,13 +5452,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -5478,6 +5471,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "thread-safe": [
@@ -5503,13 +5503,6 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -5538,6 +5531,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-prettier",
@@ -6088,13 +6088,6 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
       "section": "Message Brokers",
@@ -6107,6 +6100,13 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-autocannon",
@@ -6270,7 +6270,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -6487,7 +6487,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -6672,13 +6672,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-throttle",
       "file": "javascript.md",
       "section": "Throttle",
@@ -6691,6 +6684,13 @@
       "section": "Interview Approach",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "space": [
@@ -6810,13 +6810,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -6850,6 +6843,13 @@
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -6987,7 +6987,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -7564,13 +7564,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-webhooks",
       "file": "solutions-architecture.md",
       "section": "Webhooks",
@@ -7583,6 +7576,13 @@
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "total": [
@@ -7828,7 +7828,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -7860,7 +7860,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -7902,18 +7902,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-debounce",
       "file": "javascript.md",
       "section": "Debounce",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "align": [
@@ -8566,18 +8566,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-best-practices",
       "file": "philosophy.md",
       "section": "Best Practices",
       "documentTitle": "Philosophy",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-redux-toolkit",
@@ -8727,13 +8727,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-execution-contexts",
       "file": "javascript.md",
       "section": "Execution Contexts",
@@ -8753,6 +8746,13 @@
       "section": "8. Fallback `??` / `||`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "leftsum": [
@@ -8898,13 +8898,6 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -8917,6 +8910,13 @@
       "section": "8. Fallback `??` / `||`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "actually": [
@@ -9127,7 +9127,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -9215,18 +9215,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "whenever": [
@@ -9238,18 +9238,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-execution-contexts",
       "file": "javascript.md",
       "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "keep": [
@@ -9261,18 +9261,18 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "representing": [
@@ -9779,7 +9779,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -9822,7 +9822,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -9923,18 +9923,18 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "acid": [
@@ -10266,7 +10266,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -10289,7 +10289,7 @@
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
+      "file": "technical-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
@@ -10463,13 +10463,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -10489,6 +10482,13 @@
       "section": "Webhooks",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "interface": [
@@ -10598,13 +10598,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "solutions-architecture-transactional-outbox",
       "file": "solutions-architecture.md",
       "section": "Transactional Outbox",
@@ -10617,6 +10610,13 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-zod-valibot",
@@ -10635,13 +10635,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -10654,6 +10647,13 @@
       "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     },
     {
       "id": "tools-zustand",
@@ -10805,18 +10805,18 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "concrete": [
@@ -10880,13 +10880,6 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
       "id": "design-philosophy-architecture-documents",
       "file": "philosophy.md",
       "section": "Architecture Documents",
@@ -10899,6 +10892,13 @@
       "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "adds": [
@@ -10940,1970 +10940,6 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
-    }
-  ],
-  "technical assessment questions": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "postgresql": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "performance": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "hydration": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "server actions": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "isr": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "technical": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "assessment": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "questions": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "question": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "correct": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "answer": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "e-commerce": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "product": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    },
-    {
-      "id": "sql-join-result",
-      "file": "sql-join.md",
-      "section": "Result",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "page": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "built": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "next": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "prices": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "change": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "hourly": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "descriptions": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "images": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "weekly": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "data": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "fetching": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "strategy": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "balance": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "freshness": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "incremental": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "static": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "regeneration": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "revalidate": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "seconds": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "component": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-1-if-else",
-      "file": "react-template-patterns.md",
-      "section": "1. If / Else",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-abortcontroller",
-      "file": "react.md",
-      "section": "AbortController",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "react": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "renders": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "large": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "items": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-5-filter-map",
-      "file": "react-template-patterns.md",
-      "section": "5. `filter().map()`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "child": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "receives": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "onitemclick": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "callback": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "prop": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "even": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "though": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "wrapped": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "memo": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "still": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "re-renders": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "likely": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "recreated": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "render": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "wrap": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "usecallback": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "dependencies": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "node": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "express": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "endpoint": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "performs": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "heavy": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "cpu-bound": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "cryptographic": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "causing": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "become": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "unresponsive": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "architectural": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "offload": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "cpu-heavy": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "external": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "worker": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "task": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "queue": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "need": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "implement": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "router": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "intercepted": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "redirect": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "unauthenticated": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "users": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "top-level": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "middleware": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "intercept": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "rendering": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "joining": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "extremely": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "explain": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "analyze": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "shows": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "sequential": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "scan": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "effective": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "designing": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "jwt-based": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "stored": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "mitigate": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "csrf": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "store": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "samesite": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "strict": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "large-scale": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "highly": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "frequent": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "might": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "context": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "degradation": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "consuming": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "notified": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "re-render": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "produces": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "content": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "error": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "server-rendered": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "html": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "differs": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "initial": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "often": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "date": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "browser-only": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "apis": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "window": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "continually": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "under": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "crashes": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "callbacks": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "event": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "listeners": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "accumulating": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "emitter": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "being": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "keeping": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "referenced": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "preventing": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "garbage": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "collection": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "actions": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "security": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "execution": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
-      "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "http": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "post": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "explicitly": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "enforced": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "developer": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     }
   ],
   "jvm compilers": [
@@ -13026,6 +11062,43 @@
       "category": "Backend"
     }
   ],
+  "execution": [
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "program": [
     {
       "id": "jvm-flow-jvm-execution-flow",
@@ -13101,6 +11174,80 @@
       "section": "Node.js Threads and Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "node": [
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "event": [
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "single-threaded": [
@@ -13297,6 +11444,43 @@
       "category": "Frontend"
     }
   ],
+  "worker": [
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "cpu-intensive": [
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -13443,6 +11627,22 @@
       "category": "Frontend"
     }
   ],
+  "even": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "outer": [
     {
       "id": "javascript-closures",
@@ -13514,6 +11714,71 @@
       "category": "Architecture"
     }
   ],
+  "data": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "privacy": [
     {
       "id": "javascript-closures",
@@ -13530,6 +11795,29 @@
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "callbacks": [
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "preserving": [
@@ -13618,6 +11906,22 @@
       "category": "Frontend"
     }
   ],
+  "queue": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "timer": [
     {
       "id": "javascript-event-loop",
@@ -13625,6 +11929,22 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "task": [
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "output": [
@@ -13811,6 +12131,29 @@
       "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    }
+  ],
+  "context": [
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "created": [
@@ -14256,6 +12599,57 @@
       "category": "Architecture"
     }
   ],
+  "change": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "decouple": [
     {
       "id": "design-philosophy-solid-principles",
@@ -14526,6 +12920,22 @@
       "category": "Architecture"
     }
   ],
+  "large": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "unused": [
     {
       "id": "design-philosophy-solid-principles",
@@ -14583,6 +12993,22 @@
       "section": "SOLID Principles",
       "documentTitle": "Philosophy",
       "category": "Architecture"
+    }
+  ],
+  "implement": [
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "dependency": [
@@ -14904,6 +13330,22 @@
       "category": "Architecture"
     }
   ],
+  "technical": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "gathers": [
     {
       "id": "design-philosophy-architecture-documents",
@@ -14945,6 +13387,22 @@
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    }
+  ],
+  "architectural": [
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "considered": [
@@ -15162,6 +13620,36 @@
       "category": "Frontend"
     }
   ],
+  "render": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "completely": [
     {
       "id": "react-template-patterns-pattern-overview",
@@ -15217,6 +13705,43 @@
       "section": "2. Ternary",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    }
+  ],
+  "rendering": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "logical": [
@@ -15283,6 +13808,29 @@
       "section": "Pattern Overview",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    }
+  ],
+  "items": [
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "switch": [
@@ -15551,6 +14099,64 @@
       "category": "Frontend"
     }
   ],
+  "component": [
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "2. ternary": [
     {
       "id": "react-template-patterns-2-ternary",
@@ -15734,6 +14340,22 @@
       "category": "Frontend"
     }
   ],
+  "might": [
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "risking": [
     {
       "id": "react-template-patterns-9-optional-chaining",
@@ -15768,6 +14390,29 @@
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
       "category": "Frontend"
+    }
+  ],
+  "html": [
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
     }
   ],
   "properties": [
@@ -15893,6 +14538,36 @@
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    }
+  ],
+  "react": [
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "compares": [
@@ -16112,6 +14787,29 @@
       "category": "Frontend"
     }
   ],
+  "fetching": [
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "automatically": [
     {
       "id": "react-suspense",
@@ -16313,6 +15011,43 @@
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    }
+  ],
+  "still": [
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
     }
   ],
   "fresh": [
@@ -16631,6 +15366,22 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    }
+  ],
+  "receives": [
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "service": [
@@ -17624,6 +16375,29 @@
       "category": "Architecture"
     }
   ],
+  "external": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "notifications": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -17751,6 +16525,50 @@
       "category": "Architecture"
     }
   ],
+  "http": [
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
   "continuously": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -17875,6 +16693,22 @@
       "category": "Architecture"
     }
   ],
+  "callback": [
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "consumer": [
     {
       "id": "solutions-architecture-webhooks",
@@ -17936,6 +16770,22 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
+    }
+  ],
+  "need": [
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "quickly": [
@@ -18398,6 +17248,22 @@
       "category": "Architecture"
     }
   ],
+  "window": [
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "sliding": [
     {
       "id": "solutions-architecture-rate-limiting",
@@ -18556,6 +17422,22 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    }
+  ],
+  "questions": [
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "answers": [
@@ -18810,6 +17692,29 @@
       "category": "Backend"
     }
   ],
+  "shows": [
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "accept": [
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -18969,6 +17874,29 @@
       "category": "Tools"
     }
   ],
+  "error": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "timeout": [
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -18985,6 +17913,38 @@
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
+    }
+  ],
+  "garbage": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "collection": [
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "busy": [
@@ -19226,6 +18186,22 @@
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
       "category": "Backend"
+    }
+  ],
+  "under": [
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "assumptions": [
@@ -19540,6 +18516,45 @@
       "category": "Backend"
     }
   ],
+  "child": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "product": [
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
   "laptop": [
     {
       "id": "sql-join-child-table-orders",
@@ -19629,6 +18644,991 @@
       "section": "Result",
       "documentTitle": "SQL Inner Join",
       "category": "Backend"
+    }
+  ],
+  "technical assessment questions": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "postgresql": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "performance": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "hydration": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "server actions": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "isr": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "assessment": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "question": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "correct": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "answer": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "e-commerce": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "page": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "built": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "next": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "prices": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "hourly": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "descriptions": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "images": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "weekly": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "strategy": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "balance": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "freshness": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "incremental": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "static": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "regeneration": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "revalidate": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "seconds": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "renders": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "onitemclick": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "prop": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "though": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "wrapped": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "memo": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "re-renders": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "likely": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "recreated": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "wrap": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "usecallback": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "express": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "endpoint": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "performs": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "heavy": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "cpu-bound": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "cryptographic": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "causing": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "become": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "unresponsive": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "offload": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "cpu-heavy": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "router": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "intercepted": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "redirect": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "unauthenticated": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "users": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "top-level": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "middleware": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "intercept": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "joining": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "extremely": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "explain": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "analyze": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "sequential": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "scan": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "effective": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "designing": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "jwt-based": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "stored": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "mitigate": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "csrf": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "store": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "samesite": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "strict": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "large-scale": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "highly": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "frequent": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "degradation": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "consuming": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "notified": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "re-render": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "produces": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "content": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "server-rendered": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "differs": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "initial": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "often": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "date": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "browser-only": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "apis": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "continually": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "crashes": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "listeners": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "accumulating": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "emitter": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "being": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "keeping": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "referenced": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "preventing": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "actions": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "security": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "post": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "explicitly": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "enforced": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "developer": [
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "technical-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
     }
   ],
   "axios": [
