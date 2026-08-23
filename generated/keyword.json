@@ -61,13 +61,6 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
-    },
-    {
-      "id": "full-stack-technical-assessment-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Full-Stack Technical Assessment",
-      "category": "Interview"
     }
   ],
   "access token": [
@@ -10958,61 +10951,6 @@
       "category": "Interview"
     }
   ],
-  "react": [
-    {
-      "id": "full-stack-technical-assessment-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Full-Stack Technical Assessment",
-      "category": "Interview"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "next.js": [
-    {
-      "id": "full-stack-technical-assessment-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Full-Stack Technical Assessment",
-      "category": "Interview"
-    }
-  ],
-  "node.js": [
-    {
-      "id": "full-stack-technical-assessment-technical-assessment-questions",
-      "file": "full-stack-technical-assessment.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Full-Stack Technical Assessment",
-      "category": "Interview"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "postgresql": [
     {
       "id": "full-stack-technical-assessment-technical-assessment-questions",
@@ -11048,6 +10986,15 @@
     }
   ],
   "server actions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "isr": [
     {
       "id": "full-stack-technical-assessment-technical-assessment-questions",
       "file": "full-stack-technical-assessment.md",
@@ -11495,6 +11442,36 @@
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "Tools"
+    }
+  ],
+  "react": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
     }
   ],
   "renders": [
@@ -13113,6 +13090,15 @@
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "node.js": [
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
     }

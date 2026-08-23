@@ -5,20 +5,7 @@ date: 2026-08-23
 author: Hamzeen Hameem
 category: "Interview"
 summary: Quick-reference answers covering React, Next.js, Node.js, PostgreSQL, authentication, caching, and performance.
-keywords:
-    [
-        react,
-        next.js,
-        node.js,
-        postgresql,
-        jwt,
-        authentication,
-        performance,
-        caching,
-        hydration,
-        server actions,
-        interview,
-    ]
+keywords: [postgresql, authentication, performance, hydration, server actions, ISR]
 ---
 
 ### Technical Assessment Questions
