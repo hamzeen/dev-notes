@@ -1069,11 +1069,11 @@
     "html": "<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Purpose</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Singleton</td>\n<td>Ensures a class has only one instance and provides a global access point to it.</td>\n</tr>\n<tr>\n<td>Factory Method</td>\n<td>Defines an interface for creating objects while allowing subclasses or implementations to decide which concrete object to create.</td>\n</tr>\n<tr>\n<td>Builder</td>\n<td>Constructs a complex object step by step, separating its construction from its final representation.</td>\n</tr>\n<tr>\n<td>Adapter</td>\n<td>Converts one interface into another interface that the client expects, allowing incompatible components to work together.</td>\n</tr>\n<tr>\n<td>Decorator</td>\n<td>Adds behavior to an object dynamically without modifying its original class.</td>\n</tr>\n</tbody></table>\n"
   },
   {
-    "id": "full-stack-technical-assessment-technical-assessment-questions",
-    "documentSlug": "full-stack-technical-assessment",
+    "id": "technical-assessment-2-technical-assessment-questions",
+    "documentSlug": "technical-assessment-2",
     "sectionSlug": "technical-assessment-questions",
     "title": "Technical Assessment Questions",
-    "documentTitle": "Full-Stack Technical Assessment",
+    "documentTitle": "Technical Assessment 2",
     "file": "full-stack-technical-assessment.md",
     "category": "Interview",
     "keywords": [

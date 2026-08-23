@@ -1,6 +1,6 @@
 ---
-title: "Full-Stack Technical Assessment"
-slug: full-stack-technical-assessment
+title: "Technical Assessment 2"
+slug: technical-assessment-2
 date: 2026-08-23
 author: Hamzeen Hameem
 category: "Interview"

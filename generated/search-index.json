@@ -1049,11 +1049,11 @@
     ]
   },
   {
-    "id": "full-stack-technical-assessment-technical-assessment-questions",
-    "documentSlug": "full-stack-technical-assessment",
+    "id": "technical-assessment-2-technical-assessment-questions",
+    "documentSlug": "technical-assessment-2",
     "sectionSlug": "technical-assessment-questions",
     "title": "Technical Assessment Questions",
-    "documentTitle": "Full-Stack Technical Assessment",
+    "documentTitle": "Technical Assessment 2",
     "file": "full-stack-technical-assessment.md",
     "category": "Interview",
     "keywords": [
