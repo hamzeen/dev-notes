@@ -22,6 +22,13 @@
       "section": "Authentication & Authorization",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "authorization": [
@@ -38,6 +45,13 @@
       "section": "Authentication & Authorization",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "jwt": [
@@ -47,6 +61,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "access token": [
@@ -122,6 +143,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "solutions-architecture-rate-limiting",
@@ -380,6 +408,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -533,6 +568,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -610,6 +652,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
@@ -781,6 +830,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -881,6 +937,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -948,6 +1011,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "access": [
@@ -971,6 +1041,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -1001,6 +1078,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "solutions-architecture-rate-limiting",
@@ -1095,6 +1179,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "secure": [
@@ -1104,6 +1195,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "httponly": [
@@ -1113,6 +1211,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "cookie": [
@@ -1122,6 +1227,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "should": [
@@ -1152,6 +1264,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -1251,6 +1370,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -1286,6 +1412,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-closures",
@@ -1364,6 +1497,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "then": [
@@ -1514,6 +1654,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-suspense",
       "file": "react.md",
       "section": "Suspense",
@@ -1632,6 +1779,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -1743,6 +1897,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-event-loop",
@@ -1932,6 +2093,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -1987,6 +2155,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "react-reconcilitation",
@@ -2149,6 +2324,13 @@
       "section": "Idempotency",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "same": [
@@ -2223,6 +2405,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "design-philosophy-architecture-documents",
@@ -2491,6 +2680,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "sql-join-child-table-orders",
       "file": "sql-join.md",
       "section": "Child Table: `orders`",
@@ -2723,6 +2919,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
@@ -2835,6 +3038,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "unique": [
@@ -2869,6 +3079,13 @@
       "section": "Idempotency",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -3024,6 +3241,13 @@
       "section": "Builder Pattern",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-event-loop",
@@ -3202,6 +3426,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-frontend-api-caching",
       "file": "react.md",
       "section": "Frontend API Caching",
@@ -3329,6 +3560,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -3343,6 +3581,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -3442,6 +3687,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -3585,6 +3837,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "customers": [
@@ -3635,6 +3894,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "solutions-architecture-horizontal-scaling",
@@ -3690,6 +3956,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "join": [
@@ -3799,6 +4072,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -3870,6 +4150,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -3912,6 +4199,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -4085,6 +4379,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
@@ -4204,6 +4505,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -4368,6 +4676,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-variable-scope-var-let-and-const",
       "file": "javascript.md",
       "section": "Variable Scope: var, let and const",
@@ -4419,6 +4734,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "design-philosophy-best-practices",
       "file": "philosophy.md",
       "section": "Best Practices",
@@ -4451,6 +4773,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "react-frontend-api-caching",
@@ -4607,6 +4936,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -4663,6 +4999,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-closures",
@@ -5116,6 +5459,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -5160,6 +5510,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -5738,6 +6095,13 @@
       "category": "Backend"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
       "section": "Message Brokers",
@@ -5910,6 +6274,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -6122,6 +6493,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
@@ -6301,6 +6679,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-throttle",
       "file": "javascript.md",
       "section": "Throttle",
@@ -6430,6 +6815,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -6599,6 +6991,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -7172,6 +7571,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-webhooks",
       "file": "solutions-architecture.md",
       "section": "Webhooks",
@@ -7426,6 +7832,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "original-text": [
@@ -7451,6 +7864,13 @@
       "section": "4. TapeEquilibrium",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "ahead": [
@@ -7487,6 +7907,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-debounce",
@@ -8146,6 +8573,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "design-philosophy-best-practices",
       "file": "philosophy.md",
       "section": "Best Practices",
@@ -8298,6 +8732,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-execution-contexts",
@@ -8462,6 +8903,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -8683,6 +9131,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "nothing": [
@@ -8767,6 +9222,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
@@ -8783,6 +9245,13 @@
       "category": "Code Challenges"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-execution-contexts",
       "file": "javascript.md",
       "section": "Execution Contexts",
@@ -8797,6 +9266,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
@@ -9307,6 +9783,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "prevents": [
@@ -9343,6 +9826,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "added": [
@@ -9438,6 +9928,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -9773,6 +10270,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "step": [
@@ -9789,6 +10293,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "especially": [
@@ -9959,6 +10470,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -10087,6 +10605,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "solutions-architecture-transactional-outbox",
       "file": "solutions-architecture.md",
       "section": "Transactional Outbox",
@@ -10115,6 +10640,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     },
     {
       "id": "javascript-closures",
@@ -10280,6 +10812,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -10348,6 +10887,13 @@
       "category": "Architecture"
     },
     {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
       "id": "design-philosophy-architecture-documents",
       "file": "philosophy.md",
       "section": "Architecture Documents",
@@ -10401,6 +10947,1986 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    }
+  ],
+  "technical assessment questions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "react": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "next.js": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "node.js": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "postgresql": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "performance": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "hydration": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "server actions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "technical": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "assessment": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "questions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "question": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "correct": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "answer": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "e-commerce": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "product": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    },
+    {
+      "id": "sql-join-result",
+      "file": "sql-join.md",
+      "section": "Result",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "page": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "built": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "next": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "prices": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "change": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "hourly": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "descriptions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "images": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "weekly": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "data": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "fetching": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "strategy": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "balance": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "freshness": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "incremental": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "static": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "regeneration": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "revalidate": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "seconds": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "component": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "renders": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "large": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "items": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "child": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "sql-join-child-table-orders",
+      "file": "sql-join.md",
+      "section": "Child Table: `orders`",
+      "documentTitle": "SQL Inner Join",
+      "category": "Backend"
+    }
+  ],
+  "receives": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "onitemclick": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "callback": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "prop": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "even": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "though": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "wrapped": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "memo": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "still": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "re-renders": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "likely": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "recreated": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "render": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "wrap": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "usecallback": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "node": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "express": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "endpoint": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "performs": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "heavy": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "cpu-bound": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "cryptographic": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "causing": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "become": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "unresponsive": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "architectural": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "offload": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "cpu-heavy": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "external": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "worker": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "task": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "queue": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "need": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "implement": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "router": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "intercepted": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "redirect": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "unauthenticated": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "users": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "top-level": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "middleware": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "intercept": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "rendering": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "joining": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "extremely": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "explain": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "analyze": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "shows": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "sequential": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "scan": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "effective": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "designing": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "jwt-based": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "stored": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "mitigate": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "csrf": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "store": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "samesite": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "strict": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "large-scale": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "highly": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "frequent": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "might": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "context": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "degradation": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "consuming": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "notified": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "re-render": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "produces": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "content": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "error": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "server-rendered": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "html": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "differs": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "initial": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "often": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "date": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "browser-only": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "apis": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "window": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "continually": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "under": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "crashes": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "callbacks": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "event": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "listeners": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "accumulating": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "emitter": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "being": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "keeping": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "referenced": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "preventing": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "garbage": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "collection": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "actions": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "security": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "execution": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "jvm-flow-jvm-execution-flow",
+      "file": "java.md",
+      "section": "JVM Execution Flow",
+      "documentTitle": "Java Internals",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "http": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "post": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "explicitly": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "enforced": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
+    }
+  ],
+  "developer": [
+    {
+      "id": "full-stack-technical-assessment-technical-assessment-questions",
+      "file": "full-stack-technical-assessment.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Full-Stack Technical Assessment",
+      "category": "Interview"
     }
   ],
   "jvm compilers": [
@@ -10523,36 +13049,6 @@
       "category": "Backend"
     }
   ],
-  "execution": [
-    {
-      "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
-      "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
-    },
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "program": [
     {
       "id": "jvm-flow-jvm-execution-flow",
@@ -10619,75 +13115,6 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
-    }
-  ],
-  "node.js": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "node": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "event": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "single-threaded": [
@@ -10884,36 +13311,6 @@
       "category": "Frontend"
     }
   ],
-  "worker": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "cpu-intensive": [
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -11060,15 +13457,6 @@
       "category": "Frontend"
     }
   ],
-  "even": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "outer": [
     {
       "id": "javascript-closures",
@@ -11140,64 +13528,6 @@
       "category": "Architecture"
     }
   ],
-  "data": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "privacy": [
     {
       "id": "javascript-closures",
@@ -11212,22 +13542,6 @@
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "callbacks": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
     }
@@ -11318,25 +13632,7 @@
       "category": "Frontend"
     }
   ],
-  "queue": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "timer": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "task": [
     {
       "id": "javascript-event-loop",
       "file": "javascript.md",
@@ -11529,22 +13825,6 @@
       "section": "Execution Contexts",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
-    }
-  ],
-  "context": [
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
     }
   ],
   "created": [
@@ -11990,50 +14270,6 @@
       "category": "Architecture"
     }
   ],
-  "change": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "decouple": [
     {
       "id": "design-philosophy-solid-principles",
@@ -12304,15 +14540,6 @@
       "category": "Architecture"
     }
   ],
-  "large": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
   "unused": [
     {
       "id": "design-philosophy-solid-principles",
@@ -12364,15 +14591,6 @@
     }
   ],
   "robot": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "implement": [
     {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
@@ -12700,15 +14918,6 @@
       "category": "Architecture"
     }
   ],
-  "technical": [
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
   "gathers": [
     {
       "id": "design-philosophy-architecture-documents",
@@ -12750,15 +14959,6 @@
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
       "category": "Backend"
-    }
-  ],
-  "architectural": [
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
     }
   ],
   "considered": [
@@ -12976,29 +15176,6 @@
       "category": "Frontend"
     }
   ],
-  "render": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "completely": [
     {
       "id": "react-template-patterns-pattern-overview",
@@ -13053,36 +15230,6 @@
       "file": "react-template-patterns.md",
       "section": "2. Ternary",
       "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "rendering": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -13148,22 +15295,6 @@
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "items": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-5-filter-map",
-      "file": "react-template-patterns.md",
-      "section": "5. `filter().map()`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
     }
@@ -13434,57 +15565,6 @@
       "category": "Frontend"
     }
   ],
-  "component": [
-    {
-      "id": "react-template-patterns-1-if-else",
-      "file": "react-template-patterns.md",
-      "section": "1. If / Else",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-abortcontroller",
-      "file": "react.md",
-      "section": "AbortController",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "2. ternary": [
     {
       "id": "react-template-patterns-2-ternary",
@@ -13668,15 +15748,6 @@
       "category": "Frontend"
     }
   ],
-  "might": [
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "risking": [
     {
       "id": "react-template-patterns-9-optional-chaining",
@@ -13711,22 +15782,6 @@
       "section": "10. Conditional Props",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "html": [
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "properties": [
@@ -13852,29 +15907,6 @@
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
-    }
-  ],
-  "react": [
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "compares": [
@@ -14094,22 +16126,6 @@
       "category": "Frontend"
     }
   ],
-  "fetching": [
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "automatically": [
     {
       "id": "react-suspense",
@@ -14311,36 +16327,6 @@
       "section": "Frontend API Caching",
       "documentTitle": "React Concepts",
       "category": "Frontend"
-    }
-  ],
-  "still": [
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "fresh": [
@@ -14653,15 +16639,6 @@
     }
   ],
   "controller": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "receives": [
     {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
@@ -15661,22 +17638,6 @@
       "category": "Architecture"
     }
   ],
-  "external": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "notifications": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -15804,43 +17765,6 @@
       "category": "Architecture"
     }
   ],
-  "http": [
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "continuously": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -15965,15 +17889,6 @@
       "category": "Architecture"
     }
   ],
-  "callback": [
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "consumer": [
     {
       "id": "solutions-architecture-webhooks",
@@ -16029,15 +17944,6 @@
     }
   ],
   "decouples": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "need": [
     {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
@@ -16506,15 +18412,6 @@
       "category": "Architecture"
     }
   ],
-  "window": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "sliding": [
     {
       "id": "solutions-architecture-rate-limiting",
@@ -16671,15 +18568,6 @@
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "questions": [
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
     }
@@ -16936,22 +18824,6 @@
       "category": "Backend"
     }
   ],
-  "shows": [
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "accept": [
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -17111,22 +18983,6 @@
       "category": "Tools"
     }
   ],
-  "error": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "timeout": [
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -17137,24 +18993,6 @@
     }
   ],
   "rates": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "garbage": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "collection": [
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
@@ -17396,15 +19234,6 @@
     }
   ],
   "simultaneously": [
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "under": [
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
@@ -17725,31 +19554,6 @@
       "category": "Backend"
     }
   ],
-  "child": [
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
-  "product": [
-    {
-      "id": "sql-join-child-table-orders",
-      "file": "sql-join.md",
-      "section": "Child Table: `orders`",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    },
-    {
-      "id": "sql-join-result",
-      "file": "sql-join.md",
-      "section": "Result",
-      "documentTitle": "SQL Inner Join",
-      "category": "Backend"
-    }
-  ],
   "laptop": [
     {
       "id": "sql-join-child-table-orders",
@@ -17850,24 +19654,6 @@
       "category": "Tools"
     }
   ],
-  "apis": [
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "post": [
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "reusable": [
     {
       "id": "tools-axios",
@@ -17922,15 +19708,6 @@
       "category": "Tools"
     }
   ],
-  "users": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "able": [
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -17941,15 +19718,6 @@
     }
   ],
   "perceive": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "content": [
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
@@ -18445,15 +20213,6 @@
       "category": "Tools"
     }
   ],
-  "performance": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "install": [
     {
       "id": "tools-autocannon",
@@ -18932,15 +20691,6 @@
       "category": "Tools"
     }
   ],
-  "actions": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "comparison": [
     {
       "id": "tools-zod-valibot",
@@ -19234,15 +20984,6 @@
     }
   ],
   "noemit": [
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "security": [
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",

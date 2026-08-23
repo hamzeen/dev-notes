@@ -1,0 +1,37 @@
+---
+title: "Full-Stack Technical Assessment"
+slug: full-stack-technical-assessment
+date: 2026-08-23
+author: Hamzeen Hameem
+category: "Interview"
+summary: Quick-reference answers covering React, Next.js, Node.js, PostgreSQL, authentication, caching, and performance.
+keywords:
+    [
+        react,
+        next.js,
+        node.js,
+        postgresql,
+        jwt,
+        authentication,
+        performance,
+        caching,
+        hydration,
+        server actions,
+        interview,
+    ]
+---
+
+### Technical Assessment Questions
+
+| Question                                                                                                                                                                                                                                                           | Correct Answer                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| An e-commerce product page built with Next.js has prices that change hourly, but product descriptions and images only change weekly. Which data fetching and caching strategy provides the best balance of performance and data freshness?                         | **Incremental Static Regeneration (ISR)** with a `revalidate` time of `3600` seconds.                                                                                    |
+| A parent component in React renders a large list of items. A child receives an `onItemClick` callback prop. Even though the child is wrapped in `React.memo`, it still re-renders whenever the parent's state updates. What is the most likely cause and solution? | The callback is recreated on every parent render. Wrap it in **`useCallback`** with dependencies.                                                                        |
+| A Node.js Express API endpoint performs heavy CPU-bound cryptographic operations, causing the server to become unresponsive to concurrent requests. What is the best architectural fix?                                                                            | Offload CPU-heavy work to **`worker_threads`** or an external worker/task queue.                                                                                         |
+| You need to implement a global authentication check in a Next.js application using the App Router. Where should requests be intercepted to redirect unauthenticated users?                                                                                         | Use a top-level **`middleware.ts`** to intercept the request before rendering.                                                                                           |
+| A PostgreSQL query joining `users` and `orders` on `user_id` is extremely slow. `EXPLAIN ANALYZE` shows a sequential scan on `orders`. What is the most effective first step?                                                                                      | Create an index on **`orders(user_id)`**.                                                                                                                                |
+| When designing JWT-based authentication, how should access and refresh tokens be stored to mitigate XSS and CSRF attacks?                                                                                                                                          | Keep the short-lived **access token in memory** and store the refresh token in an **`HttpOnly`, `Secure`, `SameSite=Strict` cookie**.                                    |
+| A large-scale Next.js application has highly frequent global state updates. Why might React Context cause performance degradation?                                                                                                                                 | When the Context value changes, **all consuming components are notified and can re-render**, even if they only use part of the state.                                    |
+| A Next.js application produces a `Text content did not match` hydration error. What is the most likely cause?                                                                                                                                                      | The **server-rendered HTML differs from the client's initial render**, often due to values such as `new Date()` or browser-only APIs such as `window`.                   |
+| A Node.js application's memory usage continually grows under load until it crashes. What is a common cause?                                                                                                                                                        | **Callbacks or event listeners accumulating on a global event emitter without being removed**, keeping objects referenced and preventing garbage collection.             |
+| When using Next.js Server Actions (`'use server'`), how does security and execution work?                                                                                                                                                                          | Server Actions execute on the server through **HTTP POST requests**. Authentication, authorization, and input validation must still be explicitly enforced by developer. |
