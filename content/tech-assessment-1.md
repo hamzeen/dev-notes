@@ -1,6 +1,6 @@
 ---
 title: "technical-assessment-1"
-slug: technical-assessment-2
+slug: technical-assessment-1
 date: 2026-08-23
 author: Hamzeen Hameem
 category: "Interview"
