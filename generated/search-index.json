@@ -1,5 +1,35 @@
 [
   {
+    "id": "api-design-restful-api-design",
+    "documentSlug": "api-design",
+    "sectionSlug": "restful-api-design",
+    "title": "RESTful API Design",
+    "documentTitle": "API Design",
+    "file": "api-design.md",
+    "category": "Backend",
+    "keywords": [
+      "RESTful API Design",
+      "restful",
+      "http verbs",
+      "design",
+      "nouns",
+      "resources",
+      "http",
+      "verbs",
+      "describe",
+      "action",
+      "purpose",
+      "verb",
+      "create",
+      "user",
+      "users",
+      "post",
+      "page",
+      "size",
+      "delete"
+    ]
+  },
+  {
     "id": "auth-jwt-authentication",
     "documentSlug": "auth",
     "sectionSlug": "jwt-authentication",

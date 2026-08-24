@@ -1,5 +1,12 @@
 [
   {
+    "slug": "api-design",
+    "title": "API Design",
+    "file": "api-design.md",
+    "category": "Backend",
+    "html": "<h3 id=\"restful-api-design\">RESTful API Design</h3><p>Use nouns for resources and HTTP verbs to describe the action.</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">Purpose</th>\n<th align=\"left\">URL</th>\n<th align=\"left\">HTTP Verb</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"left\">Create user</td>\n<td align=\"left\"><code>/users</code></td>\n<td align=\"left\"><code>POST</code></td>\n</tr>\n<tr>\n<td align=\"left\">Get user</td>\n<td align=\"left\"><code>/users/{id}</code></td>\n<td align=\"left\"><code>GET</code></td>\n</tr>\n<tr>\n<td align=\"left\">Get 5 users</td>\n<td align=\"left\"><code>/users?page=0&amp;size=5</code></td>\n<td align=\"left\"><code>GET</code></td>\n</tr>\n<tr>\n<td align=\"left\">Delete user</td>\n<td align=\"left\"><code>/users/{id}</code></td>\n<td align=\"left\"><code>DELETE</code></td>\n</tr>\n</tbody></table>\n"
+  },
+  {
     "slug": "auth",
     "title": "Authentication & Authorization",
     "file": "auth.md",

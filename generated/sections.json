@@ -1,5 +1,36 @@
 [
   {
+    "id": "api-design-restful-api-design",
+    "documentSlug": "api-design",
+    "sectionSlug": "restful-api-design",
+    "title": "RESTful API Design",
+    "documentTitle": "API Design",
+    "file": "api-design.md",
+    "category": "Backend",
+    "keywords": [
+      "RESTful API Design",
+      "restful",
+      "http verbs",
+      "design",
+      "nouns",
+      "resources",
+      "http",
+      "verbs",
+      "describe",
+      "action",
+      "purpose",
+      "verb",
+      "create",
+      "user",
+      "users",
+      "post",
+      "page",
+      "size",
+      "delete"
+    ],
+    "html": "<p>Use nouns for resources and HTTP verbs to describe the action.</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">Purpose</th>\n<th align=\"left\">URL</th>\n<th align=\"left\">HTTP Verb</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"left\">Create user</td>\n<td align=\"left\"><code>/users</code></td>\n<td align=\"left\"><code>POST</code></td>\n</tr>\n<tr>\n<td align=\"left\">Get user</td>\n<td align=\"left\"><code>/users/{id}</code></td>\n<td align=\"left\"><code>GET</code></td>\n</tr>\n<tr>\n<td align=\"left\">Get 5 users</td>\n<td align=\"left\"><code>/users?page=0&amp;size=5</code></td>\n<td align=\"left\"><code>GET</code></td>\n</tr>\n<tr>\n<td align=\"left\">Delete user</td>\n<td align=\"left\"><code>/users/{id}</code></td>\n<td align=\"left\"><code>DELETE</code></td>\n</tr>\n</tbody></table>\n"
+  },
+  {
     "id": "auth-jwt-authentication",
     "documentSlug": "auth",
     "sectionSlug": "jwt-authentication",

@@ -1,4 +1,385 @@
 {
+  "restful api design": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "restful": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "http verbs": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "design": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "nouns": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "resources": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "http": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "verbs": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "describe": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    }
+  ],
+  "action": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "purpose": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "verb": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    }
+  ],
+  "create": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "user": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "auth-authentication-and-authorization",
+      "file": "auth.md",
+      "section": "Authentication & Authorization",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    }
+  ],
+  "users": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "post": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "page": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "size": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "delete": [
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "auth-authentication-and-authorization",
+      "file": "auth.md",
+      "section": "Authentication & Authorization",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    }
+  ],
   "jwt authentication": [
     {
       "id": "auth-jwt-authentication",
@@ -279,43 +660,6 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
-    }
-  ],
-  "user": [
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "auth-authentication-and-authorization",
-      "file": "auth.md",
-      "section": "Authentication & Authorization",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
     }
   ],
   "backend": [
@@ -2336,15 +2680,6 @@
     }
   ],
   "cannot": [
-    {
-      "id": "auth-authentication-and-authorization",
-      "file": "auth.md",
-      "section": "Authentication & Authorization",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    }
-  ],
-  "delete": [
     {
       "id": "auth-authentication-and-authorization",
       "file": "auth.md",
@@ -4566,36 +4901,6 @@
       "category": "Frontend"
     }
   ],
-  "create": [
-    {
-      "id": "backend-race-condition-pessimistic-locking",
-      "file": "backend.md",
-      "section": "Race Condition: Pessimistic Locking",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "incorrect": [
     {
       "id": "backend-race-condition-pessimistic-locking",
@@ -5900,22 +6205,6 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "size": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "caffeine": [
@@ -7512,15 +7801,6 @@
     }
   ],
   "goal": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    }
-  ],
-  "describe": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
       "file": "code-challenges.md",
@@ -10877,22 +11157,6 @@
       "category": "Architecture"
     }
   ],
-  "design": [
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
   "patterns": [
     {
       "id": "design-patterns-more-design-patterns",
@@ -10907,22 +11171,6 @@
       "section": "Quick Recall",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "purpose": [
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
     }
   ],
   "provides": [
@@ -17001,57 +17249,6 @@
       "category": "Architecture"
     }
   ],
-  "http": [
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "continuously": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -19465,22 +19662,6 @@
       "category": "Interview"
     }
   ],
-  "page": [
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
   "likely": [
     {
       "id": "technical-assessment-2-assessment-questions",
@@ -19945,22 +20126,6 @@
       "category": "Interview"
     }
   ],
-  "users": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "top-level": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -20381,22 +20546,6 @@
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "post": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
       "documentTitle": "Tools",
       "category": "Tools"
     }
