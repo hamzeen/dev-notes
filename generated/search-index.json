@@ -1,5 +1,38 @@
 [
   {
+    "id": "angular-purpose-of-angular",
+    "documentSlug": "angular",
+    "sectionSlug": "purpose-of-angular",
+    "title": "Purpose of Angular",
+    "documentTitle": "Angular",
+    "file": "angular.md",
+    "category": "Frontend",
+    "keywords": [
+      "Purpose of Angular",
+      "angular",
+      "component-based",
+      "declarative",
+      "purpose",
+      "builds",
+      "from",
+      "reusable",
+      "components",
+      "keeps",
+      "templates",
+      "application",
+      "state",
+      "sync",
+      "complete",
+      "framework",
+      "provides",
+      "routing",
+      "forms",
+      "http",
+      "dependency",
+      "injection"
+    ]
+  },
+  {
     "id": "api-design-restful-api-design",
     "documentSlug": "api-design",
     "sectionSlug": "restful-api-design",
@@ -2955,8 +2988,8 @@
     ]
   },
   {
-    "id": "technical-assessment-2-assessment-questions",
-    "documentSlug": "technical-assessment-2",
+    "id": "technical-assessment-1-assessment-questions",
+    "documentSlug": "technical-assessment-1",
     "sectionSlug": "assessment-questions",
     "title": "Assessment Questions",
     "documentTitle": "technical-assessment-1",

@@ -1,4 +1,636 @@
 {
+  "purpose of angular": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "angular": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "component-based": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "declarative": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "purpose": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "builds": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "from": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "reusable": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "components": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "keeps": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "templates": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "application": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-example-bank-transfer",
+      "file": "db-transaction.md",
+      "section": "Example: Bank Transfer",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-vertical-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Vertical Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "state": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "sync": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "complete": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "framework": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "provides": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "routing": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "forms": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "http": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools-fe.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools-fe.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "dependency": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "injection": [
+    {
+      "id": "angular-purpose-of-angular",
+      "file": "angular.md",
+      "section": "Purpose of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
   "restful api design": [
     {
       "id": "api-design-restful-api-design",
@@ -67,64 +699,6 @@
       "category": "Backend"
     }
   ],
-  "http": [
-    {
-      "id": "api-design-restful-api-design",
-      "file": "api-design.md",
-      "section": "RESTful API Design",
-      "documentTitle": "API Design",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
-      "section": "Useful CLI Commands",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "verbs": [
     {
       "id": "api-design-restful-api-design",
@@ -157,29 +731,6 @@
       "section": "RESTful API Design",
       "documentTitle": "API Design",
       "category": "Backend"
-    }
-  ],
-  "purpose": [
-    {
-      "id": "api-design-restful-api-design",
-      "file": "api-design.md",
-      "section": "RESTful API Design",
-      "documentTitle": "API Design",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
     }
   ],
   "verb": [
@@ -265,7 +816,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -327,7 +878,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -405,7 +956,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -435,7 +986,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -968,7 +1519,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -1272,78 +1823,6 @@
       "category": "Tools"
     }
   ],
-  "application": [
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-adapter-pattern",
-      "file": "design-patterns.md",
-      "section": "Adapter Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-vertical-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "setup": [
     {
       "id": "auth-jwt-authentication",
@@ -1436,7 +1915,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -1777,78 +2256,6 @@
       "category": "Interview"
     }
   ],
-  "state": [
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "backend-race-condition-pessimistic-locking",
-      "file": "backend.md",
-      "section": "Race Condition: Pessimistic Locking",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-11-conditional-classes",
-      "file": "react-template-patterns.md",
-      "section": "11. Conditional Classes",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "sessionstorage": [
     {
       "id": "auth-jwt-authentication",
@@ -1964,7 +2371,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2117,7 +2524,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2161,7 +2568,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2334,7 +2741,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2491,7 +2898,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2528,7 +2935,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2569,7 +2976,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2599,7 +3006,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2741,7 +3148,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2766,7 +3173,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -2838,7 +3245,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3247,7 +3654,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3355,7 +3762,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3630,7 +4037,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3667,7 +4074,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3851,7 +4258,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -3922,7 +4329,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4093,7 +4500,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4308,7 +4715,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4420,7 +4827,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4498,7 +4905,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4695,7 +5102,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -4774,7 +5181,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5075,7 +5482,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5133,7 +5540,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5240,7 +5647,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5350,29 +5757,6 @@
       "category": "Backend"
     }
   ],
-  "keeps": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "code": [
     {
       "id": "backend-caching-strategies",
@@ -5449,7 +5833,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5493,7 +5877,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -5505,99 +5889,6 @@
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
-    }
-  ],
-  "from": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "db-transaction-example-bank-transfer",
-      "file": "db-transaction.md",
-      "section": "Example: Bank Transfer",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-4-map-array-iteration",
-      "file": "react-template-patterns.md",
-      "section": "4. `map()` — Array Iteration",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "source": [
@@ -5772,7 +6063,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -6384,7 +6675,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -7163,7 +7454,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -7248,7 +7539,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -7827,7 +8118,7 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9083,7 +9374,7 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9113,7 +9404,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9239,7 +9530,7 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9255,7 +9546,7 @@
       "category": "Code Challenges"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9343,7 +9634,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -9450,29 +9741,6 @@
       "section": "8. Fallback `??` / `||`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "complete": [
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     }
   ],
   "element": [
@@ -9728,7 +9996,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -10187,7 +10455,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -11173,43 +11441,6 @@
       "category": "Frontend"
     }
   ],
-  "provides": [
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "global": [
     {
       "id": "design-patterns-more-design-patterns",
@@ -11396,7 +11627,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -11460,36 +11691,6 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
-    }
-  ],
-  "components": [
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     }
   ],
   "adds": [
@@ -11834,7 +12035,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12120,7 +12321,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12145,7 +12346,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12168,7 +12369,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12212,7 +12413,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12244,7 +12445,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12285,7 +12486,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12405,7 +12606,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12544,7 +12745,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -12803,7 +13004,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -13488,7 +13689,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -13629,7 +13830,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -13684,15 +13885,6 @@
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
       "category": "Interview"
-    }
-  ],
-  "dependency": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
     }
   ],
   "inversion": [
@@ -14318,7 +14510,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -14483,7 +14675,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -14499,7 +14691,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -14761,7 +14953,7 @@
       "category": "Frontend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -14846,7 +15038,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -15273,7 +15465,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -15746,7 +15938,7 @@
       "category": "Architecture"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -17590,15 +17782,6 @@
       "category": "Architecture"
     }
   ],
-  "routing": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "distribution": [
     {
       "id": "solutions-architecture-message-brokers",
@@ -18113,7 +18296,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -18395,7 +18578,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -18561,7 +18744,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19119,7 +19302,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19183,7 +19366,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19343,7 +19526,7 @@
       "category": "Backend"
     },
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19370,7 +19553,7 @@
   ],
   "assessment questions": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19379,7 +19562,7 @@
   ],
   "sql": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19388,7 +19571,7 @@
   ],
   "assessment": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19404,7 +19587,7 @@
   ],
   "question": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19420,7 +19603,7 @@
   ],
   "correct": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19436,7 +19619,7 @@
   ],
   "answer": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19452,7 +19635,7 @@
   ],
   "retains": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19461,7 +19644,7 @@
   ],
   "async": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19470,7 +19653,7 @@
   ],
   "await": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19479,7 +19662,7 @@
   ],
   "pauses": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19488,7 +19671,7 @@
   ],
   "print": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19497,7 +19680,7 @@
   ],
   "console": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19506,7 +19689,7 @@
   ],
   "resolve": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19515,7 +19698,7 @@
   ],
   "re-render": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19531,7 +19714,7 @@
   ],
   "identical": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19540,7 +19723,7 @@
   ],
   "produce": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19549,7 +19732,7 @@
   ],
   "statements": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19558,7 +19741,7 @@
   ],
   "rolled": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19567,7 +19750,7 @@
   ],
   "back": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19576,7 +19759,7 @@
   ],
   "afterwards": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19585,7 +19768,7 @@
   ],
   "statement": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19594,7 +19777,7 @@
   ],
   "undone": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19603,7 +19786,7 @@
   ],
   "leaving": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19612,7 +19795,7 @@
   ],
   "rows": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19621,7 +19804,7 @@
   ],
   "caches": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19630,7 +19813,7 @@
   ],
   "minutes": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19639,7 +19822,7 @@
   ],
   "underlying": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19648,7 +19831,7 @@
   ],
   "next": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19664,7 +19847,7 @@
   ],
   "likely": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19680,7 +19863,7 @@
   ],
   "invalidated": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -19689,7 +19872,7 @@
   ],
   "updated": [
     {
-      "id": "technical-assessment-2-assessment-questions",
+      "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
@@ -20578,15 +20761,6 @@
     }
   ],
   "axios": [
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "reusable": [
     {
       "id": "tools-axios",
       "file": "tools-fe.md",

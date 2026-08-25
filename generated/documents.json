@@ -1,5 +1,12 @@
 [
   {
+    "slug": "angular",
+    "title": "Angular",
+    "file": "angular.md",
+    "category": "Frontend",
+    "html": "<h3 id=\"purpose-of-angular\">Purpose of Angular</h3><ul>\n<li><strong>Component-based</strong> — builds UIs from reusable components.</li>\n<li><strong>Declarative</strong> — keeps templates and application state in sync.</li>\n<li><strong>Complete framework</strong> — provides routing, forms, HTTP and dependency injection.</li>\n</ul>\n"
+  },
+  {
     "slug": "api-design",
     "title": "API Design",
     "file": "api-design.md",
@@ -105,7 +112,7 @@
     "html": "<p>An <code>INNER JOIN</code> combines rows from two tables and returns only the rows where the specified columns match.</p>\n<h3 id=\"parent-table-customers\">Parent Table: `customers`</h3><table>\n<thead>\n<tr>\n<th align=\"right\">id</th>\n<th>name</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td>Bob</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td>Charlie</td>\n</tr>\n</tbody></table>\n<h3 id=\"child-table-orders\">Child Table: `orders`</h3><table>\n<thead>\n<tr>\n<th align=\"right\">id</th>\n<th align=\"right\">customer_id</th>\n<th>product</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">101</td>\n<td align=\"right\">1</td>\n<td>Laptop</td>\n</tr>\n<tr>\n<td align=\"right\">102</td>\n<td align=\"right\">1</td>\n<td>Mouse</td>\n</tr>\n<tr>\n<td align=\"right\">103</td>\n<td align=\"right\">2</td>\n<td>Keyboard</td>\n</tr>\n</tbody></table>\n<h3 id=\"inner-join\">Inner Join</h3><pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">SELECT</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> AS</span><span style=\"color:#E6EDF3\"> customer_id,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">name</span><span style=\"color:#E6EDF3\">,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> AS</span><span style=\"color:#E6EDF3\"> order_id,</span></span>\n<span class=\"line\"><span style=\"color:#79C0FF\">  orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">product</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">FROM</span><span style=\"color:#E6EDF3\"> customers</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">INNER JOIN</span><span style=\"color:#E6EDF3\"> orders</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">  ON</span><span style=\"color:#79C0FF\"> customers</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">id</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#79C0FF\"> orders</span><span style=\"color:#E6EDF3\">.</span><span style=\"color:#79C0FF\">customer_id</span><span style=\"color:#E6EDF3\">;</span></span></code></pre><h3 id=\"result\">Result</h3><table>\n<thead>\n<tr>\n<th align=\"right\">customer_id</th>\n<th>name</th>\n<th align=\"right\">order_id</th>\n<th>product</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">101</td>\n<td>Laptop</td>\n</tr>\n<tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">102</td>\n<td>Mouse</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td>Bob</td>\n<td align=\"right\">103</td>\n<td>Keyboard</td>\n</tr>\n</tbody></table>\n<p>Charlie is excluded - no row in the orders table matches customer_id 3.</p>\n"
   },
   {
-    "slug": "technical-assessment-2",
+    "slug": "technical-assessment-1",
     "title": "technical-assessment-1",
     "file": "tech-assessment-1.md",
     "category": "Interview",

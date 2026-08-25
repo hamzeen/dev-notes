@@ -1,5 +1,39 @@
 [
   {
+    "id": "angular-purpose-of-angular",
+    "documentSlug": "angular",
+    "sectionSlug": "purpose-of-angular",
+    "title": "Purpose of Angular",
+    "documentTitle": "Angular",
+    "file": "angular.md",
+    "category": "Frontend",
+    "keywords": [
+      "Purpose of Angular",
+      "angular",
+      "component-based",
+      "declarative",
+      "purpose",
+      "builds",
+      "from",
+      "reusable",
+      "components",
+      "keeps",
+      "templates",
+      "application",
+      "state",
+      "sync",
+      "complete",
+      "framework",
+      "provides",
+      "routing",
+      "forms",
+      "http",
+      "dependency",
+      "injection"
+    ],
+    "html": "<ul>\n<li><strong>Component-based</strong> — builds UIs from reusable components.</li>\n<li><strong>Declarative</strong> — keeps templates and application state in sync.</li>\n<li><strong>Complete framework</strong> — provides routing, forms, HTTP and dependency injection.</li>\n</ul>\n"
+  },
+  {
     "id": "api-design-restful-api-design",
     "documentSlug": "api-design",
     "sectionSlug": "restful-api-design",
@@ -3030,8 +3064,8 @@
     "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">customer_id</th>\n<th>name</th>\n<th align=\"right\">order_id</th>\n<th>product</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">101</td>\n<td>Laptop</td>\n</tr>\n<tr>\n<td align=\"right\">1</td>\n<td>Alice</td>\n<td align=\"right\">102</td>\n<td>Mouse</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td>Bob</td>\n<td align=\"right\">103</td>\n<td>Keyboard</td>\n</tr>\n</tbody></table>\n<p>Charlie is excluded - no row in the orders table matches customer_id 3.</p>\n"
   },
   {
-    "id": "technical-assessment-2-assessment-questions",
-    "documentSlug": "technical-assessment-2",
+    "id": "technical-assessment-1-assessment-questions",
+    "documentSlug": "technical-assessment-1",
     "sectionSlug": "assessment-questions",
     "title": "Assessment Questions",
     "documentTitle": "technical-assessment-1",
