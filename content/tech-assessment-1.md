@@ -3,7 +3,7 @@ title: "technical-assessment-1"
 slug: technical-assessment-1
 date: 2026-08-23
 author: Hamzeen Hameem
-category: "Interview"
+category: "QnA"
 summary: Quick-reference answers covering JavaScript, React, HTTP, security, SQL, transactions, and caching.
 keywords:
     [

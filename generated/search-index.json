@@ -612,7 +612,7 @@
     "title": "1. Valid 24-Hour Clock Times",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "1. Valid 24-Hour Clock Times",
       "javascript",
@@ -677,7 +677,7 @@
     "title": "2. Compare OCR-Compressed Strings",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "2. Compare OCR-Compressed Strings",
       "javascript",
@@ -789,7 +789,7 @@
     "title": "3. BinaryGap",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "3. BinaryGap",
       "javascript",
@@ -854,7 +854,7 @@
     "title": "4. TapeEquilibrium",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "4. TapeEquilibrium",
       "javascript",
@@ -921,7 +921,7 @@
     "title": "5. PermMissingElem",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "5. PermMissingElem",
       "javascript",
@@ -973,7 +973,7 @@
     "title": "6. MaxCounters",
     "documentTitle": "Code Challenges",
     "file": "code-challenges.md",
-    "category": "Code Challenges",
+    "category": "QnA",
     "keywords": [
       "6. MaxCounters",
       "javascript",
@@ -3210,7 +3210,7 @@
     "title": "Assessment Questions",
     "documentTitle": "technical-assessment-1",
     "file": "tech-assessment-1.md",
-    "category": "Interview",
+    "category": "QnA",
     "keywords": [
       "Assessment Questions",
       "javascript",

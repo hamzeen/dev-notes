@@ -3,7 +3,7 @@ title: Code Challenges
 slug: code-challenges
 date: 2026-08-12
 author: Hamzeen Hameem
-category: Code Challenges
+category: QnA
 summary: Coding challenges with JavaScript solutions, test cases, key ideas, and complexity analysis for interview preparation.
 keywords:
     [coding challenges, algorithms, javascript, codility, interview preparation, problem solving]
