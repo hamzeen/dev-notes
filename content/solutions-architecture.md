@@ -64,22 +64,6 @@ Client → Load Balancer → Instance B
                     └→ Instance C
 ```
 
-### Transactional Outbox
-
-The Transactional Outbox pattern stores the database change and an outgoing event in the **same database transaction**. A separate publisher later reads the outbox and sends the event to the message broker, avoiding the dual-write problem. This provides reliable eventual delivery without requiring the database and broker to participate in one distributed transaction.
-
-```text
-Application
-    ↓
-Database Transaction
-    ├→ Business Data
-    └→ Outbox Event
-            ↓
-        Publisher
-            ↓
-      Message Broker
-```
-
 ### Event-Driven Backends
 
 An event-driven backend reacts to events instead of requiring every component to communicate through synchronous request/response calls. Producers emit events and interested consumers react asynchronously, reducing coupling between components.
@@ -133,7 +117,7 @@ External Backend
 
 ### Message Brokers
 
-A message broker sits between producers and consumers and transports messages or events asynchronously.
+sits between producers and consumers; transports messages/events asynchronously.
 
 ```text
 Producer  →  Message Broker  →  Consumer
@@ -149,15 +133,6 @@ Typical capabilities include:
 - Multiple consumers
 - Asynchronous processing
 - Traffic buffering during spikes
-
-Common technologies:
-
-| Technology   | Common fit                                           |
-| ------------ | ---------------------------------------------------- |
-| RabbitMQ     | Queues, routing, work distribution                   |
-| Apache Kafka | High-throughput event streams and durable event logs |
-| AWS SQS      | Managed cloud message queues                         |
-| AWS SNS      | Managed publish/subscribe notifications              |
 
 A common event-driven flow:
 

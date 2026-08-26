@@ -102,6 +102,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-4-map-array-iteration",
       "file": "react-template-patterns.md",
       "section": "4. `map()` — Array Iteration",
@@ -450,6 +457,13 @@
       "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "complete": [
@@ -514,13 +528,6 @@
       "category": "Architecture"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
       "id": "solutions-architecture-server-sent-events-sse",
       "file": "solutions-architecture.md",
       "section": "Server-Sent Events (SSE)",
@@ -551,10 +558,10 @@
       "category": "Angular/Typescript"
     },
     {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     }
   ],
@@ -975,6 +982,13 @@
       "section": "Why Transactions Matter",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -1573,13 +1587,6 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "isolates": [
@@ -1618,6 +1625,13 @@
       "file": "design-patterns.md",
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     }
   ],
@@ -2706,13 +2720,6 @@
       "category": "Frontend"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
@@ -2809,6 +2816,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "react-frontend-api-caching",
@@ -2912,6 +2926,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "notify": [
@@ -3199,6 +3220,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -3396,6 +3424,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "rxjs-rxjs-operators",
       "file": "rxjs.md",
       "section": "RxJS Operators",
@@ -3456,10 +3491,24 @@
       "category": "Frontend"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
       "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     },
     {
@@ -3500,10 +3549,10 @@
       "category": "Angular/Typescript"
     },
     {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     }
   ],
@@ -3721,6 +3770,13 @@
       "category": "Architecture"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -3731,13 +3787,6 @@
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     },
@@ -3804,6 +3853,20 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -3904,13 +3967,6 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "stable": [
@@ -4542,13 +4598,6 @@
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "input": [
@@ -4790,6 +4839,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -4829,6 +4885,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "virtual": [
@@ -5686,6 +5749,13 @@
       "category": "Backend"
     },
     {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
@@ -6217,6 +6287,20 @@
       "category": "Backend"
     },
     {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -6476,13 +6560,6 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "protected": [
@@ -6659,10 +6736,10 @@
       "category": "Frontend"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     },
     {
@@ -6834,6 +6911,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -6951,6 +7035,13 @@
       "section": "Idempotency",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "cause": [
@@ -7013,10 +7104,10 @@
       "category": "QnA"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     },
     {
@@ -7466,6 +7557,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "payment": [
@@ -7736,13 +7834,6 @@
       "section": "Idempotency",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "result": [
@@ -7946,13 +8037,6 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "occurs": [
@@ -8202,13 +8286,6 @@
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     },
@@ -8624,13 +8701,6 @@
       "category": "Architecture"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
@@ -8983,16 +9053,16 @@
       "category": "Backend"
     },
     {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     },
     {
-      "id": "solutions-architecture-transactional-outbox",
+      "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
+      "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     },
@@ -9244,6 +9314,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -9738,6 +9815,13 @@
       "file": "design-patterns.md",
       "section": "Singleton Pattern",
       "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     },
     {
@@ -10965,6 +11049,20 @@
       "category": "Architecture"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
       "section": "Rate Limiting",
@@ -11985,6 +12083,13 @@
       "section": "Closures",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "react-reconcilitation",
@@ -13171,6 +13276,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "queries": [
@@ -13500,6 +13612,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     }
   ],
   "succeed": [
@@ -14834,6 +14953,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "react-template-patterns-7-early-return",
       "file": "react-template-patterns.md",
       "section": "7. Early Return",
@@ -14974,6 +15100,20 @@
       "section": "Node.js Threads and Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -15422,6 +15562,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
@@ -15445,6 +15592,20 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -15477,6 +15638,13 @@
       "section": "Event Loop",
       "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -15849,6 +16017,13 @@
       "category": "Frontend"
     },
     {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-event-driven-backends",
       "file": "solutions-architecture.md",
       "section": "Event-Driven Backends",
@@ -15867,6 +16042,1117 @@
       "file": "solutions-architecture.md",
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "kafka vs rabbitmq": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "kafka": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "rabbitmq": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "consumer groups": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "work queue": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "pick": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "stream": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "domain": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "built": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "durable": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "queue-oriented": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "replay": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "audit": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "trail": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "retains": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    }
+  ],
+  "offsets": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "messages": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "usually": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "disappear": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "services": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "consume": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "independently": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "consumer": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "separate": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "queues": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "service": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "high-throughput": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "pipeline": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "excellent": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "good": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "strength": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "ordering": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "ordered": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "within": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "partition": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "workers": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "affect": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "command": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-prettier",
+      "file": "tools.md",
+      "section": "Prettier",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-useful-cli-commands",
+      "file": "tools.md",
+      "section": "Useful CLI Commands",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "natural": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "designed": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "message": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "group": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "native": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "competing": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "consumers": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "background": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "email": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "reports": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-eslint",
+      "file": "tools.md",
+      "section": "ESLint",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "image": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "processing": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "topic": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "oriented": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "exchanges": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "keys": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "fanout": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "priority": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "strong": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "built-in": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "support": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "userregistered": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "analytics": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "billing": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "independent": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "naturally": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "sendwelcomeemail": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "work-queue": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "case": [
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "quick decision": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "quick": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "decision": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "happened": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "history": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "very": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-4-map-array-iteration",
+      "file": "react-template-patterns.md",
+      "section": "4. `map()` — Array Iteration",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "throughput": [
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "transactional outbox": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "transactional": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "outbox": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "publish": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "reliable": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "publishing": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "idempotent": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "redelivered": [
+    {
+      "id": "kafka-vs-rabbitmq-transactional-outbox",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
     }
   ],
@@ -16246,60 +17532,12 @@
       "category": "Architecture"
     }
   ],
-  "processing": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "email": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
   "notification": [
     {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
       "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "services": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
   ],
@@ -16819,15 +18057,6 @@
     }
   ],
   "feedback": [
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "decision": [
     {
       "id": "design-philosophy-architecture-documents",
       "file": "philosophy.md",
@@ -17580,22 +18809,6 @@
       "category": "Frontend"
     }
   ],
-  "very": [
-    {
-      "id": "react-template-patterns-4-map-array-iteration",
-      "file": "react-template-patterns.md",
-      "section": "4. `map()` — Array Iteration",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "arrays": [
     {
       "id": "react-template-patterns-4-map-array-iteration",
@@ -17658,15 +18871,6 @@
     }
   ],
   "8. fallback `??` / `||`": [
-    {
-      "id": "react-template-patterns-8-fallback",
-      "file": "react-template-patterns.md",
-      "section": "8. Fallback `??` / `||`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "usually": [
     {
       "id": "react-template-patterns-8-fallback",
       "file": "react-template-patterns.md",
@@ -17816,36 +19020,6 @@
       "section": "Quick Recall",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "quick": [
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "QnA"
     }
   ],
   "recall": [
@@ -18533,29 +19707,6 @@
       "category": "QnA"
     }
   ],
-  "service": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "boundaries": [
     {
       "id": "solutions-architecture-repository-pattern",
@@ -18857,13 +20008,6 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "serverless": [
@@ -19065,194 +20209,6 @@
       "category": "Architecture"
     }
   ],
-  "transactional outbox": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "transactional": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "outbox": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "outgoing": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "separate": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "publisher": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "later": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "message": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "broker": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "avoiding": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "dual-write": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "reliable": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "eventual": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "delivery": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "requiring": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "participate": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "distributed": [
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "event-driven backends": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -19351,6 +20307,15 @@
       "category": "Architecture"
     }
   ],
+  "requiring": [
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "communicate": [
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -19390,22 +20355,6 @@
       "id": "solutions-architecture-event-driven-backends",
       "file": "solutions-architecture.md",
       "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "consumers": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -19598,22 +20547,6 @@
       "category": "Architecture"
     }
   ],
-  "good": [
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "one-way": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -19642,15 +20575,6 @@
     }
   ],
   "status": [
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "native": [
     {
       "id": "solutions-architecture-server-sent-events-sse",
       "file": "solutions-architecture.md",
@@ -19711,15 +20635,6 @@
       "category": "QnA"
     }
   ],
-  "consumer": [
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "internal": [
     {
       "id": "solutions-architecture-webhooks",
@@ -19738,6 +20653,15 @@
       "category": "Architecture"
     }
   ],
+  "broker": [
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
   "sits": [
     {
       "id": "solutions-architecture-message-brokers",
@@ -19748,15 +20672,6 @@
     }
   ],
   "transports": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "messages": [
     {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
@@ -19784,15 +20699,6 @@
     }
   ],
   "capabilities": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "queues": [
     {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
@@ -19862,121 +20768,6 @@
       "category": "Architecture"
     }
   ],
-  "technologies": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "technology": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "rabbitmq": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "distribution": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "apache": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "kafka": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "high-throughput": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "durable": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "logs": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "managed": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "publish": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "subscribe": [
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "rate limiting": [
     {
       "id": "solutions-architecture-rate-limiting",
@@ -20002,22 +20793,6 @@
       "section": "Rate Limiting",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "within": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     }
   ],
   "period": [
@@ -20477,15 +21252,6 @@
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "workers": [
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
     }
@@ -21387,22 +22153,6 @@
       "category": "QnA"
     }
   ],
-  "support": [
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "agreed": [
     {
       "id": "spring-boot-request-capacity-interview-approach",
@@ -21711,15 +22461,6 @@
       "category": "QnA"
     }
   ],
-  "retains": [
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    }
-  ],
   "await": [
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -21985,15 +22726,6 @@
     }
   ],
   "e-commerce": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
-  "built": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
@@ -22844,6 +23576,15 @@
       "category": "QnA"
     }
   ],
+  "technologies": [
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
   "color": [
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -22888,15 +23629,6 @@
     }
   ],
   "labels": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "image": [
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools.md",
@@ -22964,22 +23696,6 @@
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "audit": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools.md",
-      "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
     }
@@ -23075,15 +23791,6 @@
       "category": "QnA"
     }
   ],
-  "reports": [
-    {
-      "id": "tools-eslint",
-      "file": "tools.md",
-      "section": "ESLint",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "code-quality": [
     {
       "id": "tools-eslint",
@@ -23157,22 +23864,6 @@
       "id": "tools-prettier",
       "file": "tools.md",
       "section": "Prettier",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "command": [
-    {
-      "id": "tools-prettier",
-      "file": "tools.md",
-      "section": "Prettier",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-useful-cli-commands",
-      "file": "tools.md",
-      "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
     }
@@ -23280,15 +23971,6 @@
     }
   ],
   "includes": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "throughput": [
     {
       "id": "tools-autocannon",
       "file": "tools.md",
@@ -23668,15 +24350,6 @@
     }
   ],
   "modular": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "designed": [
     {
       "id": "tools-zod-valibot",
       "file": "tools.md",
