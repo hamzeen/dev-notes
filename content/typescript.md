@@ -3,7 +3,7 @@ title: TypeScript
 slug: typescript
 date: 2026-08-26
 author: Hamzeen Hameem
-category: Frontend
+category: Angular/Typescript
 summary: A quick reference to key TypeScript features.
 keywords: [typescript, generics, conditional types, mapped types, utility types, types, interfaces]
 ---

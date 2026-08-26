@@ -6,7 +6,7 @@
     "title": "Why of Angular",
     "documentTitle": "Angular",
     "file": "angular.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Why of Angular",
       "angular",
@@ -38,7 +38,7 @@
     "title": "Constructs",
     "documentTitle": "Angular",
     "file": "angular.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Constructs",
       "constructs",
@@ -121,7 +121,7 @@
     "title": "Angular 22",
     "documentTitle": "Angular",
     "file": "angular.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Angular 22",
       "angular",
@@ -3988,7 +3988,7 @@
     "title": "Features",
     "documentTitle": "TypeScript",
     "file": "typescript.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Features",
       "generics",
@@ -4010,7 +4010,7 @@
     "title": "Utility Types — `Partial`",
     "documentTitle": "TypeScript",
     "file": "typescript.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Utility Types — `Partial`",
       "utility types",
@@ -4026,7 +4026,7 @@
     "title": "Union Type",
     "documentTitle": "TypeScript",
     "file": "typescript.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Union Type",
       "union",
@@ -4040,7 +4040,7 @@
     "title": "Intersection Type",
     "documentTitle": "TypeScript",
     "file": "typescript.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "Intersection Type",
       "intersection",

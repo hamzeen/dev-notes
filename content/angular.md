@@ -3,9 +3,9 @@ title: Angular
 slug: angular
 date: 2026-08-25
 author: Hamzeen Hameem
-category: Frontend
+category: Angular/Typescript
 summary: A quick overview of Angular's purpose for building web applications.
-keywords: [angular, frontend, typescript, component-based, declarative]
+keywords: [angular, typescript, component-based, declarative]
 ---
 
 ### Why of Angular

@@ -5,7 +5,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "angular": [
@@ -14,14 +14,14 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "component-based": [
@@ -30,7 +30,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "declarative": [
@@ -39,7 +39,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "builds": [
@@ -48,7 +48,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "from": [
@@ -57,7 +57,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -157,14 +157,14 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-constructs",
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-axios",
@@ -180,21 +180,21 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-constructs",
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-more-design-patterns",
@@ -231,7 +231,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -261,7 +261,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "application": [
@@ -270,14 +270,14 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -356,21 +356,21 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-constructs",
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -449,7 +449,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "complete": [
@@ -458,7 +458,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-5-permmissingelem",
@@ -488,14 +488,14 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "provides": [
@@ -504,7 +504,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-more-design-patterns",
@@ -548,7 +548,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -564,14 +564,14 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "http": [
@@ -580,7 +580,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "api-design-restful-api-design",
@@ -645,7 +645,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -661,7 +661,7 @@
       "file": "angular.md",
       "section": "Why of Angular",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "constructs": [
@@ -670,7 +670,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-builder-pattern",
@@ -693,7 +693,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -716,7 +716,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "build": [
@@ -725,7 +725,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-builder-pattern",
@@ -741,7 +741,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-reconcilitation",
@@ -757,14 +757,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -871,7 +871,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "slots": [
@@ -880,7 +880,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "uses": [
@@ -889,14 +889,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -926,7 +926,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "ng-content": [
@@ -935,7 +935,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "directive": [
@@ -944,7 +944,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "route": [
@@ -953,7 +953,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "resolver": [
@@ -962,7 +962,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "pre-load": [
@@ -971,7 +971,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "data": [
@@ -980,7 +980,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-closures",
@@ -1059,7 +1059,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -1131,7 +1131,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "page": [
@@ -1140,7 +1140,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "api-design-restful-api-design",
@@ -1170,7 +1170,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "cost": [
@@ -1179,7 +1179,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "cutting": [
@@ -1188,7 +1188,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "concerns": [
@@ -1197,7 +1197,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -1213,7 +1213,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "auth": [
@@ -1222,7 +1222,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "canactiviate": [
@@ -1231,7 +1231,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "candeactivate": [
@@ -1240,7 +1240,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "checks": [
@@ -1249,7 +1249,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -1279,7 +1279,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "leaving": [
@@ -1288,7 +1288,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -1304,14 +1304,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-1-if-else",
@@ -1383,14 +1383,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -1406,7 +1406,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-singleton-pattern",
@@ -1471,7 +1471,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "complex": [
@@ -1480,14 +1480,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-builder-pattern",
@@ -1510,14 +1510,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-execution-contexts",
@@ -1547,7 +1547,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "business": [
@@ -1556,7 +1556,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -1572,7 +1572,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -1595,7 +1595,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "effects": [
@@ -1604,7 +1604,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "outside": [
@@ -1613,7 +1613,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "structural": [
@@ -1622,7 +1622,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "strcuture": [
@@ -1631,7 +1631,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "attribute": [
@@ -1640,7 +1640,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-quick-recall",
@@ -1656,7 +1656,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "behavior": [
@@ -1665,7 +1665,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -1709,7 +1709,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "blocks": [
@@ -1718,7 +1718,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "delay": [
@@ -1727,7 +1727,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-debounce",
@@ -1743,7 +1743,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-singleton-pattern",
@@ -1773,7 +1773,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -1789,7 +1789,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-n-1-query-problem",
@@ -1805,7 +1805,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -1821,7 +1821,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -1851,7 +1851,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -1895,14 +1895,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-reconcilitation",
@@ -1918,7 +1918,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -1934,7 +1934,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -1950,7 +1950,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-zod-valibot",
@@ -1966,7 +1966,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "improving": [
@@ -1975,7 +1975,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "performance": [
@@ -1984,14 +1984,14 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "angular-angular-22",
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -2014,7 +2014,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "like": [
@@ -2023,7 +2023,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "largest": [
@@ -2032,7 +2032,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "contentful": [
@@ -2041,7 +2041,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "paint": [
@@ -2050,7 +2050,7 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "angular 22": [
@@ -2059,7 +2059,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "signals": [
@@ -2068,7 +2068,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "first": [
@@ -2077,7 +2077,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -2135,7 +2135,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -2165,7 +2165,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "computed": [
@@ -2174,7 +2174,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "linkedsignal": [
@@ -2183,7 +2183,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "derived": [
@@ -2192,7 +2192,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "states": [
@@ -2201,7 +2201,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -2238,7 +2238,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "standalone": [
@@ -2247,7 +2247,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "default": [
@@ -2256,7 +2256,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -2279,7 +2279,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "still": [
@@ -2288,7 +2288,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-frontend-api-caching",
@@ -2339,7 +2339,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "codebases": [
@@ -2348,7 +2348,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "onpush": [
@@ -2357,7 +2357,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "change": [
@@ -2366,7 +2366,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -2424,7 +2424,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "changedetectorref": [
@@ -2433,7 +2433,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "exists": [
@@ -2442,7 +2442,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-patterns-singleton-pattern",
@@ -2458,7 +2458,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "notify": [
@@ -2467,7 +2467,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-webhooks",
@@ -2483,7 +2483,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "changes": [
@@ -2492,7 +2492,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-6-maxcounters",
@@ -2536,7 +2536,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "detectchanges": [
@@ -2545,7 +2545,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "manual": [
@@ -2554,7 +2554,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -2570,7 +2570,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "longer": [
@@ -2579,7 +2579,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "simple": [
@@ -2588,7 +2588,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -2639,7 +2639,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -2655,7 +2655,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "classic": [
@@ -2664,7 +2664,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "when": [
@@ -2673,7 +2673,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-idempotency",
@@ -2878,7 +2878,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -2894,7 +2894,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-zod-valibot",
@@ -2924,7 +2924,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "rxjs-rxjs-operators",
@@ -2940,7 +2940,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "rxjs-rxjs-operators",
@@ -2956,7 +2956,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-6-maxcounters",
@@ -2986,7 +2986,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -3044,7 +3044,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -3060,7 +3060,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -3076,7 +3076,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-philosophy-architecture-documents",
@@ -3092,7 +3092,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -3108,7 +3108,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "rxjs-rxjs-operators",
@@ -3124,7 +3124,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -3203,7 +3203,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "rxjs-rxjs-operators",
@@ -3219,7 +3219,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -3235,7 +3235,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-zustand",
@@ -3251,7 +3251,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "work": [
@@ -3260,7 +3260,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -3339,7 +3339,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "cleanup": [
@@ -3348,7 +3348,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "subscriptions": [
@@ -3357,7 +3357,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "need": [
@@ -3366,7 +3366,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -3389,7 +3389,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "handling": [
@@ -3398,7 +3398,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-7-early-return",
@@ -3421,7 +3421,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "takeuntildestroyed": [
@@ -3430,7 +3430,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "behaviorsubject": [
@@ -3439,7 +3439,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "httpresource": [
@@ -3448,7 +3448,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "reactive": [
@@ -3457,7 +3457,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "reads": [
@@ -3466,7 +3466,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-transactional-outbox",
@@ -3482,7 +3482,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -3498,7 +3498,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "rxjs-rxjs-operators",
@@ -3514,7 +3514,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "read": [
@@ -3523,7 +3523,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-race-condition-pessimistic-locking",
@@ -3553,7 +3553,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "auth-jwt-authentication",
@@ -3681,7 +3681,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "underneath": [
@@ -3690,7 +3690,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "imperative": [
@@ -3699,7 +3699,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "calls": [
@@ -3708,7 +3708,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-debounce",
@@ -3745,7 +3745,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "post": [
@@ -3754,7 +3754,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "api-design-restful-api-design",
@@ -3784,7 +3784,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "api-design-restful-api-design",
@@ -3807,7 +3807,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "signal-based": [
@@ -3816,7 +3816,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "remain": [
@@ -3825,7 +3825,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-rate-limiting",
@@ -3841,7 +3841,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -3857,7 +3857,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-debounce",
@@ -3929,7 +3929,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "zoneless": [
@@ -3938,7 +3938,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "requires": [
@@ -3947,7 +3947,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "zone": [
@@ -3956,7 +3956,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "applications": [
@@ -3965,7 +3965,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-horizontal-scaling",
@@ -4016,7 +4016,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "more": [
@@ -4025,7 +4025,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-idempotency",
@@ -4083,7 +4083,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -4099,7 +4099,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-event-driven-backends",
@@ -4129,7 +4129,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -4152,7 +4152,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -4210,7 +4210,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "javascript-event-loop",
@@ -4233,7 +4233,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "over": [
@@ -4242,7 +4242,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -4265,7 +4265,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "code": [
@@ -4274,7 +4274,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "backend-caching-strategies",
@@ -4325,7 +4325,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -4348,7 +4348,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "unit-test": [
@@ -4357,7 +4357,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "runner": [
@@ -4366,7 +4366,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "jest": [
@@ -4375,7 +4375,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "possible": [
@@ -4384,7 +4384,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-template-patterns-pattern-overview",
@@ -4407,7 +4407,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "module": [
@@ -4416,7 +4416,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "high": [
@@ -4425,7 +4425,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "virtual": [
@@ -4434,7 +4434,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-reconcilitation",
@@ -4450,7 +4450,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -4473,7 +4473,7 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -15913,14 +15913,14 @@
       "file": "typescript.md",
       "section": "Union Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "typescript-intersection-type",
       "file": "typescript.md",
       "section": "Intersection Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "breaking": [
@@ -16020,7 +16020,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "unused": [
@@ -17081,7 +17081,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "props": [
@@ -17728,7 +17728,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "framework-supported": [
@@ -23666,7 +23666,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "conditional types": [
@@ -23675,7 +23675,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "mapped types": [
@@ -23684,7 +23684,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "utility types": [
@@ -23693,14 +23693,14 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "typescript-utility-types-partial",
       "file": "typescript.md",
       "section": "Utility Types — `Partial`",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "types": [
@@ -23709,14 +23709,14 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "typescript-utility-types-partial",
       "file": "typescript.md",
       "section": "Utility Types — `Partial`",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "mapped": [
@@ -23725,7 +23725,7 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "utility": [
@@ -23734,14 +23734,14 @@
       "file": "typescript.md",
       "section": "Features",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "typescript-utility-types-partial",
       "file": "typescript.md",
       "section": "Utility Types — `Partial`",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "utility types — `partial`": [
@@ -23750,7 +23750,7 @@
       "file": "typescript.md",
       "section": "Utility Types — `Partial`",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "partial": [
@@ -23759,7 +23759,7 @@
       "file": "typescript.md",
       "section": "Utility Types — `Partial`",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "union type": [
@@ -23768,7 +23768,7 @@
       "file": "typescript.md",
       "section": "Union Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "union": [
@@ -23777,7 +23777,7 @@
       "file": "typescript.md",
       "section": "Union Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "intersection type": [
@@ -23786,7 +23786,7 @@
       "file": "typescript.md",
       "section": "Intersection Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "intersection": [
@@ -23795,7 +23795,7 @@
       "file": "typescript.md",
       "section": "Intersection Type",
       "documentTitle": "TypeScript",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ]
 }
