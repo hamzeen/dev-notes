@@ -3,7 +3,7 @@ title: Tools
 slug: tools
 date: 2026-08-13
 author: Hamzeen Hameem
-category: Tools
+category: QnA
 summary: Quick-reference notes for common frontend and development tools including Axios, Lighthouse accessibility checks, ESLint, Prettier, Autocannon, and Vite proxy configuration.
 keywords:
     - axios

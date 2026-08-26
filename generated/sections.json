@@ -3407,7 +3407,7 @@
     "title": "Technical Assessment Questions",
     "documentTitle": "Technical Assessment 2",
     "file": "tech-assessment-2.md",
-    "category": "Interview",
+    "category": "QnA",
     "keywords": [
       "Technical Assessment Questions",
       "postgresql",
@@ -3638,7 +3638,7 @@
     "title": "Axios",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Axios",
       "axios",
@@ -3668,7 +3668,7 @@
     "title": "WCAG 2.1 and Lighthouse",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "WCAG 2.1 and Lighthouse",
       "lighthouse",
@@ -3739,7 +3739,7 @@
     "title": "ESLint",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "ESLint",
       "eslint",
@@ -3764,7 +3764,7 @@
     "title": "Prettier",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Prettier",
       "eslint",
@@ -3790,7 +3790,7 @@
     "title": "Autocannon",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Autocannon",
       "autocannon",
@@ -3828,7 +3828,7 @@
     "title": "Vite Proxy Configuration",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Vite Proxy Configuration",
       "vite",
@@ -3864,7 +3864,7 @@
     "title": "TanStack Query",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "TanStack Query",
       "tanstack query",
@@ -3898,7 +3898,7 @@
     "title": "Zod / Valibot",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Zod / Valibot",
       "zod",
@@ -3979,7 +3979,7 @@
     "title": "Zustand",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Zustand",
       "zustand",
@@ -4007,7 +4007,7 @@
     "title": "Redux Toolkit",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Redux Toolkit",
       "tanstack query",
@@ -4050,7 +4050,7 @@
     "title": "Useful CLI Commands",
     "documentTitle": "Tools",
     "file": "tools-fe.md",
-    "category": "Tools",
+    "category": "QnA",
     "keywords": [
       "Useful CLI Commands",
       "eslint",

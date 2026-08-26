@@ -3,7 +3,7 @@ title: "Technical Assessment 2"
 slug: technical-assessment-2
 date: 2026-08-23
 author: Hamzeen Hameem
-category: "Interview"
+category: "QnA"
 summary: Quick-reference answers covering React, Next.js, Node.js, PostgreSQL, authentication, caching, and performance.
 keywords: [postgresql, authentication, performance, hydration, server actions, ISR]
 ---

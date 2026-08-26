@@ -141,14 +141,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "reusable": [
@@ -171,7 +171,7 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "components": [
@@ -222,7 +222,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "keeps": [
@@ -252,7 +252,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "templates": [
@@ -340,14 +340,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "state": [
@@ -419,28 +419,28 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "sync": [
@@ -532,14 +532,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "routing": [
@@ -615,28 +615,28 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "dependency": [
@@ -700,14 +700,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "projection": [
@@ -848,21 +848,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "named": [
@@ -917,7 +917,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "multi-slot": [
@@ -1043,14 +1043,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "before": [
@@ -1122,7 +1122,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "showing": [
@@ -1161,7 +1161,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "interceptors": [
@@ -1270,7 +1270,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "entering": [
@@ -1367,14 +1367,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "store": [
@@ -1397,7 +1397,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "pattern": [
@@ -1538,7 +1538,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "feature": [
@@ -1764,7 +1764,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "heavy": [
@@ -1780,7 +1780,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "their": [
@@ -1812,7 +1812,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "until": [
@@ -1842,7 +1842,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "they": [
@@ -1886,7 +1886,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "needed": [
@@ -1941,7 +1941,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "bundle": [
@@ -1957,7 +1957,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "sizes": [
@@ -1998,14 +1998,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "metrics": [
@@ -2126,7 +2126,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "prefer": [
@@ -2229,7 +2229,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "selectorless": [
@@ -2316,21 +2316,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "supported": [
@@ -2415,7 +2415,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "detection": [
@@ -2527,7 +2527,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "markforcheck": [
@@ -2561,7 +2561,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "ngrx": [
@@ -2616,21 +2616,21 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "often": [
@@ -2646,7 +2646,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "signalstore": [
@@ -2862,14 +2862,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "becomes": [
@@ -2901,21 +2901,21 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "rxjs": [
@@ -2977,7 +2977,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "event": [
@@ -3035,7 +3035,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "streams": [
@@ -3194,7 +3194,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "switchmap": [
@@ -3242,7 +3242,7 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "ui-state": [
@@ -3323,14 +3323,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "subscription": [
@@ -3380,7 +3380,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "lifecycle": [
@@ -3665,14 +3665,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "httpclient": [
@@ -3736,7 +3736,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "mutations": [
@@ -3768,14 +3768,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "delete": [
@@ -3906,21 +3906,21 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "existing": [
@@ -3979,35 +3979,35 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "driven": [
@@ -4067,14 +4067,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "explicitly": [
@@ -4090,7 +4090,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "notifications": [
@@ -4136,14 +4136,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "input": [
@@ -4194,14 +4194,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "output": [
@@ -4224,7 +4224,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "model": [
@@ -4302,21 +4302,21 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "testing": [
@@ -4332,14 +4332,14 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "vitest": [
@@ -4464,7 +4464,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "lists": [
@@ -4644,14 +4644,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "user": [
@@ -4711,14 +4711,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "size": [
@@ -4780,7 +4780,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "authorization": [
@@ -4810,7 +4810,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "jwt": [
@@ -4908,7 +4908,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "used": [
@@ -4938,21 +4938,21 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "token-based": [
@@ -5095,14 +5095,14 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "signs": [
@@ -5243,14 +5243,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "must": [
@@ -5294,14 +5294,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "never": [
@@ -5349,28 +5349,28 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "signature": [
@@ -5519,21 +5519,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "setup": [
@@ -5558,7 +5558,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "access": [
@@ -5616,7 +5616,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "token": [
@@ -5639,7 +5639,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "returned": [
@@ -5699,7 +5699,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "body": [
@@ -5733,7 +5733,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "secure": [
@@ -5749,7 +5749,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "httponly": [
@@ -5765,7 +5765,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "cookie": [
@@ -5781,7 +5781,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "should": [
@@ -5860,21 +5860,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "storing": [
@@ -5920,7 +5920,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "sessionstorage": [
@@ -5963,7 +5963,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "then": [
@@ -6049,7 +6049,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "sends": [
@@ -6295,7 +6295,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "does": [
@@ -6332,7 +6332,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "verify": [
@@ -6403,7 +6403,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "allowed": [
@@ -6570,7 +6570,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "same": [
@@ -6735,28 +6735,28 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "processed": [
@@ -6894,7 +6894,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "bookings": [
@@ -7161,28 +7161,28 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "solution": [
@@ -7254,7 +7254,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "unique": [
@@ -7309,21 +7309,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "stores": [
@@ -7477,21 +7477,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "problem": [
@@ -7611,7 +7611,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "parent": [
@@ -7648,7 +7648,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "records": [
@@ -7754,7 +7754,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "increases": [
@@ -7897,7 +7897,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "customers": [
@@ -7975,14 +7975,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "fetch": [
@@ -8014,7 +8014,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "join": [
@@ -8149,7 +8149,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "attempt": [
@@ -8218,7 +8218,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "without": [
@@ -8297,28 +8297,28 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "protection": [
@@ -8371,7 +8371,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "appear": [
@@ -8545,7 +8545,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "lock": [
@@ -8763,7 +8763,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "check": [
@@ -8786,7 +8786,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "reserve": [
@@ -8827,21 +8827,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "strategies": [
@@ -9190,7 +9190,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "plain": [
@@ -9305,7 +9305,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "thread-safe": [
@@ -9365,14 +9365,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "flow": [
@@ -9409,7 +9409,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "line": [
@@ -9443,7 +9443,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "production": [
@@ -9615,7 +9615,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "hour": [
@@ -9688,7 +9688,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "digits": [
@@ -9881,14 +9881,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "test": [
@@ -9953,7 +9953,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "cases": [
@@ -10004,7 +10004,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "expected": [
@@ -10214,21 +10214,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "complexity": [
@@ -10412,7 +10412,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "space": [
@@ -10640,14 +10640,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "rules": [
@@ -10821,14 +10821,14 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-eslint",
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "four-character": [
@@ -11152,7 +11152,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "other": [
@@ -11347,7 +11347,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "kinds": [
@@ -11433,7 +11433,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "original-text": [
@@ -11465,7 +11465,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "ahead": [
@@ -12170,14 +12170,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "calculate": [
@@ -12366,7 +12366,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "leftsum": [
@@ -12507,7 +12507,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "actually": [
@@ -12787,7 +12787,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "whenever": [
@@ -12810,7 +12810,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "representing": [
@@ -13220,7 +13220,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "remove": [
@@ -13243,7 +13243,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "account": [
@@ -13327,7 +13327,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "prevents": [
@@ -13370,7 +13370,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "added": [
@@ -13479,7 +13479,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "acid": [
@@ -13637,7 +13637,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "builder pattern": [
@@ -13692,7 +13692,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "step": [
@@ -13715,7 +13715,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "especially": [
@@ -13902,7 +13902,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "interface": [
@@ -13998,14 +13998,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "factory": [
@@ -14030,7 +14030,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "while": [
@@ -14104,7 +14104,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "subclasses": [
@@ -14168,7 +14168,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "concrete": [
@@ -14418,7 +14418,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "program": [
@@ -14511,21 +14511,21 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "single-threaded": [
@@ -14607,14 +14607,14 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "thread": [
@@ -14756,7 +14756,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "cpu-intensive": [
@@ -14953,7 +14953,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "outer": [
@@ -15072,7 +15072,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "preserving": [
@@ -15115,14 +15115,14 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "stack": [
@@ -15181,7 +15181,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "timer": [
@@ -15206,7 +15206,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "synchronous": [
@@ -15290,7 +15290,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "const": [
@@ -15406,7 +15406,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "created": [
@@ -15656,7 +15656,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "principle": [
@@ -15672,7 +15672,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "meaning": [
@@ -15688,7 +15688,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "practical": [
@@ -15988,7 +15988,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "focused": [
@@ -16036,7 +16036,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "methods": [
@@ -16059,7 +16059,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "workable": [
@@ -16102,7 +16102,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "inversion": [
@@ -16222,7 +16222,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "separation": [
@@ -16281,7 +16281,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "follow": [
@@ -16306,7 +16306,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "architecture documents": [
@@ -16428,7 +16428,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "gathers": [
@@ -16487,7 +16487,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "considered": [
@@ -16555,7 +16555,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "pattern overview": [
@@ -16670,7 +16670,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "else": [
@@ -16730,7 +16730,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "completely": [
@@ -16824,7 +16824,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "logical": [
@@ -16927,7 +16927,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "switch": [
@@ -17328,7 +17328,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "risking": [
@@ -17380,14 +17380,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "properties": [
@@ -17421,14 +17421,14 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "quick recall": [
@@ -17453,21 +17453,21 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "recall": [
@@ -17540,7 +17540,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "compares": [
@@ -17753,14 +17753,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "automatically": [
@@ -17776,7 +17776,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "ordinary": [
@@ -17988,14 +17988,14 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "responses": [
@@ -18200,7 +18200,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "service": [
@@ -18517,7 +18517,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "cloud": [
@@ -19152,7 +19152,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "bidirectional": [
@@ -19281,7 +19281,7 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "one-way": [
@@ -19378,7 +19378,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "consumer": [
@@ -19545,7 +19545,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "technology": [
@@ -19890,7 +19890,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "sliding": [
@@ -20073,7 +20073,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "answers": [
@@ -20230,7 +20230,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "take": [
@@ -20346,7 +20346,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "accept": [
@@ -20446,7 +20446,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "load-test": [
@@ -20512,7 +20512,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "error": [
@@ -20535,7 +20535,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "timeout": [
@@ -20569,7 +20569,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "collection": [
@@ -20585,7 +20585,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "busy": [
@@ -20690,7 +20690,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "resource": [
@@ -20833,7 +20833,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "assumptions": [
@@ -21002,7 +21002,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "interview approach": [
@@ -21070,7 +21070,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "agreed": [
@@ -21175,7 +21175,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "product": [
@@ -21198,7 +21198,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "laptop": [
@@ -21253,7 +21253,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "inner join": [
@@ -21330,7 +21330,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "question": [
@@ -21346,7 +21346,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "correct": [
@@ -21362,7 +21362,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "answer": [
@@ -21378,7 +21378,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "retains": [
@@ -21448,7 +21448,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "identical": [
@@ -21572,7 +21572,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "likely": [
@@ -21588,7 +21588,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "invalidated": [
@@ -21615,7 +21615,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "postgresql": [
@@ -21624,7 +21624,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "hydration": [
@@ -21633,7 +21633,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "server actions": [
@@ -21642,7 +21642,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "isr": [
@@ -21651,7 +21651,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "e-commerce": [
@@ -21660,7 +21660,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "built": [
@@ -21669,7 +21669,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "prices": [
@@ -21678,7 +21678,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "hourly": [
@@ -21687,7 +21687,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "descriptions": [
@@ -21696,7 +21696,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "images": [
@@ -21705,7 +21705,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "weekly": [
@@ -21714,7 +21714,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "strategy": [
@@ -21723,7 +21723,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "balance": [
@@ -21732,7 +21732,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "freshness": [
@@ -21741,7 +21741,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "incremental": [
@@ -21750,7 +21750,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "static": [
@@ -21759,7 +21759,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "regeneration": [
@@ -21768,7 +21768,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "revalidate": [
@@ -21777,7 +21777,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "seconds": [
@@ -21786,7 +21786,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "renders": [
@@ -21795,7 +21795,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "onitemclick": [
@@ -21804,7 +21804,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "prop": [
@@ -21813,7 +21813,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "though": [
@@ -21822,7 +21822,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "wrapped": [
@@ -21831,7 +21831,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "memo": [
@@ -21840,7 +21840,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "re-renders": [
@@ -21849,7 +21849,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "recreated": [
@@ -21858,7 +21858,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "wrap": [
@@ -21867,7 +21867,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "usecallback": [
@@ -21876,7 +21876,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "express": [
@@ -21885,7 +21885,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "endpoint": [
@@ -21894,7 +21894,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "performs": [
@@ -21903,7 +21903,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "cpu-bound": [
@@ -21912,7 +21912,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "cryptographic": [
@@ -21921,7 +21921,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "causing": [
@@ -21930,7 +21930,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "become": [
@@ -21939,7 +21939,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "unresponsive": [
@@ -21948,7 +21948,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "offload": [
@@ -21957,7 +21957,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "cpu-heavy": [
@@ -21966,7 +21966,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "router": [
@@ -21975,7 +21975,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "intercepted": [
@@ -21984,7 +21984,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "redirect": [
@@ -21993,7 +21993,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "unauthenticated": [
@@ -22002,7 +22002,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "top-level": [
@@ -22011,7 +22011,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "middleware": [
@@ -22020,7 +22020,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "intercept": [
@@ -22029,7 +22029,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "joining": [
@@ -22038,7 +22038,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "extremely": [
@@ -22047,7 +22047,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "explain": [
@@ -22056,7 +22056,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "analyze": [
@@ -22065,7 +22065,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "sequential": [
@@ -22074,7 +22074,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "scan": [
@@ -22083,7 +22083,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "effective": [
@@ -22092,7 +22092,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "designing": [
@@ -22101,7 +22101,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "jwt-based": [
@@ -22110,7 +22110,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "stored": [
@@ -22119,7 +22119,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "mitigate": [
@@ -22128,7 +22128,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "csrf": [
@@ -22137,7 +22137,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "samesite": [
@@ -22146,7 +22146,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "strict": [
@@ -22155,7 +22155,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "large-scale": [
@@ -22164,7 +22164,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "highly": [
@@ -22173,7 +22173,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "frequent": [
@@ -22182,7 +22182,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "degradation": [
@@ -22191,7 +22191,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "consuming": [
@@ -22200,7 +22200,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "notified": [
@@ -22209,7 +22209,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "produces": [
@@ -22218,7 +22218,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "server-rendered": [
@@ -22227,7 +22227,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "differs": [
@@ -22236,7 +22236,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "date": [
@@ -22245,7 +22245,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "browser-only": [
@@ -22254,7 +22254,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "continually": [
@@ -22263,7 +22263,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "crashes": [
@@ -22272,7 +22272,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "listeners": [
@@ -22281,7 +22281,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "accumulating": [
@@ -22290,7 +22290,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "emitter": [
@@ -22299,7 +22299,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "being": [
@@ -22308,7 +22308,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "keeping": [
@@ -22317,7 +22317,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "referenced": [
@@ -22326,7 +22326,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "preventing": [
@@ -22335,7 +22335,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "actions": [
@@ -22344,14 +22344,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "security": [
@@ -22360,14 +22360,14 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "enforced": [
@@ -22376,7 +22376,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "developer": [
@@ -22385,7 +22385,7 @@
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
       "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
+      "category": "QnA"
     }
   ],
   "axios": [
@@ -22394,7 +22394,7 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "interceptor": [
@@ -22403,7 +22403,7 @@
       "file": "tools-fe.md",
       "section": "Axios",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "wcag 2.1 and lighthouse": [
@@ -22412,7 +22412,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "accessibility": [
@@ -22421,7 +22421,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "guidelines": [
@@ -22430,7 +22430,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "perceivable": [
@@ -22439,7 +22439,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "able": [
@@ -22448,7 +22448,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "perceive": [
@@ -22457,7 +22457,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "operable": [
@@ -22466,7 +22466,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "usable": [
@@ -22475,7 +22475,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "understandable": [
@@ -22484,7 +22484,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "interactions": [
@@ -22493,7 +22493,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "robust": [
@@ -22502,7 +22502,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "assistive": [
@@ -22511,7 +22511,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "color": [
@@ -22520,7 +22520,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "contrast": [
@@ -22529,7 +22529,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "navigation": [
@@ -22538,7 +22538,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "form": [
@@ -22547,14 +22547,14 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "labels": [
@@ -22563,7 +22563,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "image": [
@@ -22572,7 +22572,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "semantic": [
@@ -22581,7 +22581,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "accessible": [
@@ -22590,7 +22590,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "names": [
@@ -22599,7 +22599,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "buttons": [
@@ -22608,7 +22608,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "links": [
@@ -22617,7 +22617,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "chrome": [
@@ -22626,7 +22626,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "automated": [
@@ -22635,7 +22635,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "audit": [
@@ -22644,14 +22644,14 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "finding": [
@@ -22660,7 +22660,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "problems": [
@@ -22669,7 +22669,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "screen-reader": [
@@ -22678,7 +22678,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "important": [
@@ -22687,7 +22687,7 @@
       "file": "tools-fe.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "eslint": [
@@ -22696,21 +22696,21 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-prettier",
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "analyzes": [
@@ -22719,7 +22719,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "typescript": [
@@ -22728,21 +22728,21 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "reports": [
@@ -22751,7 +22751,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "code-quality": [
@@ -22760,7 +22760,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "correctness": [
@@ -22769,7 +22769,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "issues": [
@@ -22778,7 +22778,7 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "rule": [
@@ -22787,14 +22787,14 @@
       "file": "tools-fe.md",
       "section": "ESLint",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "prettier": [
@@ -22803,14 +22803,14 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "formats": [
@@ -22819,7 +22819,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "consistently": [
@@ -22828,7 +22828,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "command": [
@@ -22837,14 +22837,14 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "conf": [
@@ -22853,7 +22853,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "below": [
@@ -22862,7 +22862,7 @@
       "file": "tools-fe.md",
       "section": "Prettier",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "autocannon": [
@@ -22871,14 +22871,14 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "benchmarking": [
@@ -22887,7 +22887,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "tool": [
@@ -22896,21 +22896,21 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "basic": [
@@ -22919,7 +22919,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "install": [
@@ -22928,7 +22928,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "specify": [
@@ -22937,7 +22937,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "duration": [
@@ -22946,7 +22946,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "includes": [
@@ -22955,7 +22955,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "throughput": [
@@ -22964,7 +22964,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "timeouts": [
@@ -22973,7 +22973,7 @@
       "file": "tools-fe.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "vite proxy configuration": [
@@ -22982,7 +22982,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "vite": [
@@ -22991,14 +22991,14 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "proxy": [
@@ -23007,7 +23007,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "development": [
@@ -23016,7 +23016,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "lets": [
@@ -23025,7 +23025,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "hardcoding": [
@@ -23034,7 +23034,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "throughout": [
@@ -23043,7 +23043,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "cleaner": [
@@ -23052,7 +23052,7 @@
       "file": "tools-fe.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "tanstack query": [
@@ -23061,14 +23061,14 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "manages": [
@@ -23077,7 +23077,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "refetching": [
@@ -23086,7 +23086,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "synchronization": [
@@ -23095,7 +23095,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "querykey": [
@@ -23104,7 +23104,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "identifies": [
@@ -23113,7 +23113,7 @@
       "file": "tools-fe.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "zod / valibot": [
@@ -23122,7 +23122,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "zod": [
@@ -23131,14 +23131,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "valibot": [
@@ -23147,7 +23147,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "provide": [
@@ -23156,7 +23156,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "runtime": [
@@ -23165,14 +23165,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "schema": [
@@ -23181,7 +23181,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "safeparse": [
@@ -23190,7 +23190,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "failure": [
@@ -23199,7 +23199,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "handled": [
@@ -23208,7 +23208,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "throwing": [
@@ -23217,7 +23217,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "regular": [
@@ -23226,7 +23226,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "method-heavy": [
@@ -23235,7 +23235,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "difficult": [
@@ -23244,7 +23244,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "tree-shake": [
@@ -23253,7 +23253,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "effectively": [
@@ -23262,7 +23262,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "functionality": [
@@ -23271,7 +23271,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "contribute": [
@@ -23280,7 +23280,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "also": [
@@ -23289,7 +23289,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "mini": [
@@ -23298,7 +23298,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "functional": [
@@ -23307,7 +23307,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "tree-shakable": [
@@ -23316,7 +23316,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "variant": [
@@ -23325,7 +23325,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "bundle-size-sensitive": [
@@ -23334,7 +23334,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "modular": [
@@ -23343,7 +23343,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "designed": [
@@ -23352,7 +23352,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "tree": [
@@ -23361,7 +23361,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "shaking": [
@@ -23370,7 +23370,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "bundlers": [
@@ -23379,7 +23379,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "validators": [
@@ -23388,7 +23388,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "comparison": [
@@ -23397,14 +23397,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "library": [
@@ -23413,14 +23413,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-zustand",
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "limited": [
@@ -23429,7 +23429,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "method-based": [
@@ -23438,7 +23438,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "bundles": [
@@ -23447,7 +23447,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "environment": [
@@ -23456,7 +23456,7 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "schemas": [
@@ -23465,14 +23465,14 @@
       "file": "tools-fe.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "zustand": [
@@ -23481,14 +23481,14 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "lightweight": [
@@ -23497,14 +23497,14 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "state-management": [
@@ -23513,7 +23513,7 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "relatively": [
@@ -23522,7 +23522,7 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "boilerplate": [
@@ -23531,7 +23531,7 @@
       "file": "tools-fe.md",
       "section": "Zustand",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "redux toolkit": [
@@ -23540,7 +23540,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "redux": [
@@ -23549,7 +23549,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "toolkit": [
@@ -23558,7 +23558,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "recommended": [
@@ -23567,7 +23567,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "modern": [
@@ -23576,7 +23576,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "writing": [
@@ -23585,7 +23585,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "suited": [
@@ -23594,7 +23594,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "structured": [
@@ -23603,7 +23603,7 @@
       "file": "tools-fe.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "useful cli commands": [
@@ -23612,7 +23612,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "commands": [
@@ -23621,7 +23621,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "lint": [
@@ -23630,7 +23630,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "write": [
@@ -23639,7 +23639,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "localhost": [
@@ -23648,7 +23648,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "noemit": [
@@ -23657,7 +23657,7 @@
       "file": "tools-fe.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
-      "category": "Tools"
+      "category": "QnA"
     }
   ],
   "generics": [
