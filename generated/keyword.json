@@ -408,6 +408,13 @@
       "category": "Frontend"
     },
     {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
+    },
+    {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
       "section": "Horizontal Scaling",
@@ -595,6 +602,13 @@
       "section": "RESTful API Design",
       "documentTitle": "API Design",
       "category": "Backend"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-server-sent-events-sse",
@@ -2183,6 +2197,13 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
       "category": "Angular/Typescript"
     }
   ],
@@ -4175,6 +4196,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
     }
   ],
   "underneath": [
@@ -4183,6 +4211,13 @@
       "file": "angular.md",
       "section": "Angular 22",
       "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
       "category": "Angular/Typescript"
     }
   ],
@@ -4748,6 +4783,13 @@
       "section": "SOLID Principles",
       "documentTitle": "Philosophy",
       "category": "Architecture"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
     },
     {
       "id": "tools-eslint",
@@ -5800,6 +5842,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
     }
   ],
   "frontend": [
@@ -6145,6 +6194,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -19610,6 +19666,47 @@
       "category": "Angular/Typescript"
     }
   ],
+  "sample": [
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "http resource": [
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "resource": [
+    {
+      "id": "rxjs-http-resource",
+      "file": "rxjs.md",
+      "section": "HTTP Resource",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Vertically Scale the Backend",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
   "repository pattern": [
     {
       "id": "solutions-architecture-repository-pattern",
@@ -21787,22 +21884,6 @@
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
-    }
-  ],
-  "resource": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "spring-boot-request-capacity-vertically-scale-the-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Vertically Scale the Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     }
   ],
   "unacceptable": [

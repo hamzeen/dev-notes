@@ -2549,7 +2549,29 @@
       "submissions",
       "while",
       "current",
-      "running"
+      "running",
+      "sample",
+      "code"
+    ]
+  },
+  {
+    "id": "rxjs-http-resource",
+    "documentSlug": "rxjs",
+    "sectionSlug": "http-resource",
+    "title": "HTTP Resource",
+    "documentTitle": "RxJS",
+    "file": "rxjs.md",
+    "category": "Angular/Typescript",
+    "keywords": [
+      "HTTP Resource",
+      "http",
+      "resource",
+      "httpclient",
+      "underneath",
+      "response",
+      "state",
+      "exposed",
+      "signals"
     ]
   },
   {

@@ -18,7 +18,7 @@ keywords: [angular, typescript, component-based, declarative]
 ### Constructs
 
 - **Content Projection** build reusable layout with named slots.
-  uses multi-slot content projection via <ng-content> directive.
+  uses multi-slot content projection via `<ng-content>` directive.
 - **Route Resolver** pre-load data before showing a page
 - **Interceptors** - cost cutting concerns (logging, auth)
 - `canActiviate()`, `canDeactivate()`: checks on **entering** / **leaving** a route.
