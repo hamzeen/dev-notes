@@ -19,9 +19,11 @@ keywords: [angular, frontend, typescript, component-based, declarative]
 - **Content Projection** build reusable layout with named slots.
   uses multi-slot content projection via <ng-content> directive.
 - **Route Resolver** pre-load data before showing a page
-
+- **Interceptors** - cost cutting concerns (logging, auth)
 - `canActiviate()`, `canDeactivate()`: checks on **entering** / **leaving** a route.
 - **Component Store pattern**: isolates complex local feature state, business logic & side effects outside of UI components.
+
+- **Structural Directive**: DOM strcuture; **Attribute Directive**: appearance / behavior
 
 - `@defer blocks`: let you delay loading heavy components and their dependencies until they are needed, reducing initial bundle sizes and improving performance metrics like Largest Contentful Paint.
 

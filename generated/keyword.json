@@ -1164,6 +1164,67 @@
       "category": "Interview"
     }
   ],
+  "interceptors": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "cost": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "cutting": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "concerns": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "logging": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "auth": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
   "canactiviate": [
     {
       "id": "angular-constructs",
@@ -1552,6 +1613,93 @@
       "file": "angular.md",
       "section": "Constructs",
       "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "structural": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "strcuture": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "attribute": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "appearance": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "behavior": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "backend-caching-strategies",
+      "file": "backend.md",
+      "section": "Caching Strategies",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-core-property",
+      "file": "db-transaction.md",
+      "section": "Core Property",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
       "category": "Frontend"
     }
   ],
@@ -8826,43 +8974,6 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
-    }
-  ],
-  "behavior": [
-    {
-      "id": "backend-caching-strategies",
-      "file": "backend.md",
-      "section": "Caching Strategies",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-core-property",
-      "file": "db-transaction.md",
-      "section": "Core Property",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
     }
   ],
   "spring": [
@@ -17358,15 +17469,6 @@
       "category": "Frontend"
     }
   ],
-  "attribute": [
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "reconcilitation": [
     {
       "id": "react-reconcilitation",
@@ -17997,15 +18099,6 @@
     }
   ],
   "persistence": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "concerns": [
     {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
