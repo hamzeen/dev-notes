@@ -11,9 +11,25 @@ keywords: [angular, frontend, typescript, component-based, declarative]
 ### Why of Angular
 
 - **Component-based** — builds UIs from reusable components.
-
 - **Declarative** — keeps templates and application state in sync.
 - **Complete framework** — provides routing, forms, HTTP and dependency injection.
+
+### Constructs
+
+- **Content Projection** build reusable layout with named slots.
+  uses multi-slot content projection via <ng-content> directive.
+- **Route Resolver** pre-load data before showing a page
+
+- `canActiviate()`, `canDeactivate()`: checks on **entering** / **leaving** a route.
+- **Component Store pattern**: isolates complex local feature state, business logic & side effects outside of UI components.
+
+- `@defer blocks`: let you delay loading heavy components and their dependencies until they are needed, reducing initial bundle sizes and improving performance metrics like Largest Contentful Paint.
+
+```js
+@defer {
+  <heavy-chart />
+}
+```
 
 ### Angular 22
 

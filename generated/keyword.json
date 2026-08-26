@@ -160,6 +160,13 @@
       "category": "Frontend"
     },
     {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
       "id": "tools-axios",
       "file": "tools-fe.md",
       "section": "Axios",
@@ -172,6 +179,13 @@
       "id": "angular-why-of-angular",
       "file": "angular.md",
       "section": "Why of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Frontend"
     },
@@ -341,6 +355,13 @@
       "id": "angular-why-of-angular",
       "file": "angular.md",
       "section": "Why of Angular",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Frontend"
     },
@@ -643,6 +664,1247 @@
       "category": "Frontend"
     }
   ],
+  "constructs": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "content": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "projection": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "build": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "layout": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "with": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "db-transaction-why-transactions-matter",
+      "file": "db-transaction.md",
+      "section": "Why Transactions Matter",
+      "documentTitle": "DB Transaction",
+      "category": "Backend"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-6-switch",
+      "file": "react-template-patterns.md",
+      "section": "6. `switch`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "named": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "slots": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "uses": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "multi-slot": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "ng-content": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "directive": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "route": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "resolver": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "pre-load": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "data": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "before": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "auth-authentication-and-authorization",
+      "file": "auth.md",
+      "section": "Authentication & Authorization",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-debounce",
+      "file": "javascript.md",
+      "section": "Debounce",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-7-early-return",
+      "file": "react-template-patterns.md",
+      "section": "7. Early Return",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "showing": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "page": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "api-design-restful-api-design",
+      "file": "api-design.md",
+      "section": "RESTful API Design",
+      "documentTitle": "API Design",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "canactiviate": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "candeactivate": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "checks": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "auth-jwt-authentication",
+      "file": "auth.md",
+      "section": "JWT Authentication",
+      "documentTitle": "Authentication & Authorization",
+      "category": "Backend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "entering": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "leaving": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    }
+  ],
+  "component": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-1-if-else",
+      "file": "react-template-patterns.md",
+      "section": "1. If / Else",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-higher-order-component-hoc",
+      "file": "react.md",
+      "section": "Higher-Order Component (HOC)",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "Interview"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools-fe.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "store": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "pattern": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-adapter-pattern",
+      "file": "design-patterns.md",
+      "section": "Adapter Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-11-conditional-classes",
+      "file": "react-template-patterns.md",
+      "section": "11. Conditional Classes",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "isolates": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "complex": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    }
+  ],
+  "local": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools-fe.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "feature": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "business": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "logic": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "side": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "effects": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "outside": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "defer": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "delay": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "javascript-debounce",
+      "file": "javascript.md",
+      "section": "Debounce",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "loading": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools-fe.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "heavy": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "their": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "backend-n-1-query-problem",
+      "file": "backend.md",
+      "section": "N+1 Query Problem",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "until": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "javascript-debounce",
+      "file": "javascript.md",
+      "section": "Debounce",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "they": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "Code Challenges"
+    },
+    {
+      "id": "design-patterns-builder-pattern",
+      "file": "design-patterns.md",
+      "section": "Builder Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "needed": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "reducing": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "initial": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    }
+  ],
+  "bundle": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools-fe.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "improving": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "performance": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "Interview"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools-fe.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "Tools"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "like": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "largest": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "contentful": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
+  "paint": [
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Frontend"
+    }
+  ],
   "angular 22": [
     {
       "id": "angular-angular-22",
@@ -774,36 +2036,6 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Frontend"
-    }
-  ],
-  "local": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "derived": [
@@ -1072,22 +2304,6 @@
       "category": "Architecture"
     }
   ],
-  "needed": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "less": [
     {
       "id": "angular-angular-22",
@@ -1301,22 +2517,6 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Frontend"
-    }
-  ],
-  "store": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     }
   ],
   "when": [
@@ -1540,29 +2740,6 @@
       "category": "Backend"
     }
   ],
-  "complex": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
   "shared": [
     {
       "id": "angular-angular-22",
@@ -1623,78 +2800,6 @@
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
       "category": "Frontend"
-    }
-  ],
-  "component": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-1-if-else",
-      "file": "react-template-patterns.md",
-      "section": "1. If / Else",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-abortcontroller",
-      "file": "react.md",
-      "section": "AbortController",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-zustand",
-      "file": "tools-fe.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "keep": [
@@ -2162,113 +3267,6 @@
       "category": "Architecture"
     }
   ],
-  "with": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "db-transaction-why-transactions-matter",
-      "file": "db-transaction.md",
-      "section": "Why Transactions Matter",
-      "documentTitle": "DB Transaction",
-      "category": "Backend"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-6-switch",
-      "file": "react-template-patterns.md",
-      "section": "6. `switch`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-higher-order-component-hoc",
-      "file": "react.md",
-      "section": "Higher-Order Component (HOC)",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "asyncpipe": [
     {
       "id": "angular-angular-22",
@@ -2525,36 +3523,6 @@
       "id": "tools-autocannon",
       "file": "tools-fe.md",
       "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "uses": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "Tools"
     }
@@ -3312,29 +4280,6 @@
       "category": "Frontend"
     }
   ],
-  "performance": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools-fe.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "virtual": [
     {
       "id": "angular-angular-22",
@@ -3626,29 +4571,6 @@
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "Tools"
-    }
-  ],
-  "page": [
-    {
-      "id": "api-design-restful-api-design",
-      "file": "api-design.md",
-      "section": "RESTful API Design",
-      "documentTitle": "API Design",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     }
   ],
   "size": [
@@ -5094,71 +6016,6 @@
       "category": "Backend"
     }
   ],
-  "before": [
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "auth-authentication-and-authorization",
-      "file": "auth.md",
-      "section": "Authentication & Authorization",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "javascript-debounce",
-      "file": "javascript.md",
-      "section": "Debounce",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-7-early-return",
-      "file": "react-template-patterns.md",
-      "section": "7. Early Return",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
   "trusting": [
     {
       "id": "auth-jwt-authentication",
@@ -5198,29 +6055,6 @@
       "section": "8. Fallback `??` / `||`",
       "documentTitle": "react template patterns",
       "category": "Frontend"
-    }
-  ],
-  "checks": [
-    {
-      "id": "auth-jwt-authentication",
-      "file": "auth.md",
-      "section": "JWT Authentication",
-      "documentTitle": "Authentication & Authorization",
-      "category": "Backend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
     }
   ],
   "this": [
@@ -7001,15 +7835,6 @@
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "Tools"
-    }
-  ],
-  "their": [
-    {
-      "id": "backend-n-1-query-problem",
-      "file": "backend.md",
-      "section": "N+1 Query Problem",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
     }
   ],
   "fetch": [
@@ -10251,43 +11076,6 @@
       "category": "Architecture"
     }
   ],
-  "they": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
   "total": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -10594,29 +11382,6 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "Code Challenges"
-    }
-  ],
-  "until": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "Code Challenges"
-    },
-    {
-      "id": "javascript-debounce",
-      "file": "javascript.md",
-      "section": "Debounce",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
     }
   ],
   "align": [
@@ -12649,64 +13414,6 @@
       "category": "Architecture"
     }
   ],
-  "pattern": [
-    {
-      "id": "design-patterns-singleton-pattern",
-      "file": "design-patterns.md",
-      "section": "Singleton Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-adapter-pattern",
-      "file": "design-patterns.md",
-      "section": "Adapter Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-11-conditional-classes",
-      "file": "react-template-patterns.md",
-      "section": "11. Conditional Classes",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "instance": [
     {
       "id": "design-patterns-singleton-pattern",
@@ -12822,29 +13529,6 @@
       "category": "Tools"
     }
   ],
-  "loading": [
-    {
-      "id": "design-patterns-singleton-pattern",
-      "file": "design-patterns.md",
-      "section": "Singleton Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "builder pattern": [
     {
       "id": "design-patterns-builder-pattern",
@@ -12875,22 +13559,6 @@
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
       "category": "Backend"
-    }
-  ],
-  "constructs": [
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
     }
   ],
   "objects": [
@@ -13015,15 +13683,6 @@
     }
   ],
   "sets": [
-    {
-      "id": "design-patterns-builder-pattern",
-      "file": "design-patterns.md",
-      "section": "Builder Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    }
-  ],
-  "build": [
     {
       "id": "design-patterns-builder-pattern",
       "file": "design-patterns.md",
@@ -14264,78 +14923,6 @@
       "category": "Architecture"
     }
   ],
-  "data": [
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "privacy": [
     {
       "id": "javascript-closures",
@@ -14778,15 +15365,6 @@
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
       "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "delay": [
-    {
-      "id": "javascript-debounce",
-      "file": "javascript.md",
-      "section": "Debounce",
-      "documentTitle": "JavaScript Concepts",
       "category": "Frontend"
     }
   ],
@@ -16910,15 +17488,6 @@
       "category": "Architecture"
     }
   ],
-  "layout": [
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "painting": [
     {
       "id": "react-reconcilitation",
@@ -17416,31 +17985,6 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "business": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "logic": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     }
   ],
   "data-access": [
@@ -18420,15 +18964,6 @@
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
       "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "reducing": [
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
@@ -20860,15 +21395,6 @@
       "category": "Interview"
     }
   ],
-  "leaving": [
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "Interview"
-    }
-  ],
   "rows": [
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -21225,15 +21751,6 @@
       "category": "Interview"
     }
   ],
-  "dependencies": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
   "express": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -21253,15 +21770,6 @@
     }
   ],
   "performs": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "heavy": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
@@ -21585,22 +22093,6 @@
       "category": "Interview"
     }
   ],
-  "content": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
   "server-rendered": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -21611,15 +22103,6 @@
     }
   ],
   "differs": [
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "Interview"
-    }
-  ],
-  "initial": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
@@ -22664,15 +23147,6 @@
     }
   ],
   "contribute": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "Tools"
-    }
-  ],
-  "bundle": [
     {
       "id": "tools-zod-valibot",
       "file": "tools-fe.md",
