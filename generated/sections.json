@@ -1636,6 +1636,64 @@
     "html": "<p>Throttle limits a function to running at most once per interval while calls continue, making it useful for scroll or resize events.</p>\n<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">function</span><span style=\"color:#D2A8FF\"> throttle</span><span style=\"color:#E6EDF3\">(</span><span style=\"color:#FFA657\">fn</span><span style=\"color:#E6EDF3\">, </span><span style=\"color:#FFA657\">delay</span><span style=\"color:#E6EDF3\">) {</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">    let</span><span style=\"color:#E6EDF3\"> waiting </span><span style=\"color:#FF7B72\">=</span><span style=\"color:#79C0FF\"> false</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">    return</span><span style=\"color:#E6EDF3\"> (</span><span style=\"color:#FF7B72\">...</span><span style=\"color:#FFA657\">args</span><span style=\"color:#E6EDF3\">) </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">        if</span><span style=\"color:#E6EDF3\"> (waiting) </span><span style=\"color:#FF7B72\">return</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#D2A8FF\">        fn</span><span style=\"color:#E6EDF3\">(</span><span style=\"color:#FF7B72\">...</span><span style=\"color:#E6EDF3\">args);</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        waiting </span><span style=\"color:#FF7B72\">=</span><span style=\"color:#79C0FF\"> true</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#D2A8FF\">        setTimeout</span><span style=\"color:#E6EDF3\">(() </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">            waiting </span><span style=\"color:#FF7B72\">=</span><span style=\"color:#79C0FF\"> false</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">        }, delay);</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">    };</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">const</span><span style=\"color:#79C0FF\"> handleScroll</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#D2A8FF\"> throttle</span><span style=\"color:#E6EDF3\">(() </span><span style=\"color:#FF7B72\">=></span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">    console.</span><span style=\"color:#D2A8FF\">log</span><span style=\"color:#E6EDF3\">(</span><span style=\"color:#A5D6FF\">\"Scroll handled\"</span><span style=\"color:#E6EDF3\">);</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">}, </span><span style=\"color:#79C0FF\">500</span><span style=\"color:#E6EDF3\">);</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">window.</span><span style=\"color:#D2A8FF\">addEventListener</span><span style=\"color:#E6EDF3\">(</span><span style=\"color:#A5D6FF\">\"scroll\"</span><span style=\"color:#E6EDF3\">, handleScroll);</span></span></code></pre>"
   },
   {
+    "id": "design-philosophy-best-practices",
+    "documentSlug": "design-philosophy",
+    "sectionSlug": "best-practices",
+    "title": "Best Practices",
+    "documentTitle": "Philosophy",
+    "file": "philosophy.md",
+    "category": "Architecture",
+    "keywords": [
+      "Best Practices",
+      "best practices",
+      "best",
+      "practices",
+      "compositon",
+      "architecture",
+      "composition",
+      "over",
+      "inheritance",
+      "clear",
+      "separation",
+      "concern",
+      "avoid",
+      "property",
+      "drilling",
+      "modern",
+      "feature-based",
+      "folder",
+      "struct",
+      "check",
+      "lighthouse",
+      "follow",
+      "wcag",
+      "versioning",
+      "swagger"
+    ],
+    "html": "<ul>\n<li><p>Compositon Architecture (<strong>Composition over Inheritance</strong>)</p>\n</li>\n<li><p>Clear Separation of Concern</p>\n</li>\n<li><p>Avoid <strong>Property Drilling</strong></p>\n</li>\n<li><p>Modern <strong>feature-based folder struct</strong></p>\n</li>\n<li><p>Check Lighthouse, follow <code>WCAG 2.1</code></p>\n</li>\n<li><p>Api Versioning, API doc (Swagger).</p>\n</li>\n</ul>\n"
+  },
+  {
+    "id": "design-philosophy-tools",
+    "documentSlug": "design-philosophy",
+    "sectionSlug": "tools",
+    "title": "Tools",
+    "documentTitle": "Philosophy",
+    "file": "philosophy.md",
+    "category": "Architecture",
+    "keywords": [
+      "Tools",
+      "tools",
+      "grafana",
+      "flyway",
+      "swagger",
+      "api-doc",
+      "hikary",
+      "conn",
+      "pool"
+    ],
+    "html": "<ul>\n<li>Grafana, Flyway, Swagger (API-doc), Hikary (DB Conn Pool)</li>\n</ul>\n"
+  },
+  {
     "id": "design-philosophy-solid-principles",
     "documentSlug": "design-philosophy",
     "sectionSlug": "solid-principles",
@@ -1719,32 +1777,6 @@
       "stripepaymentprocessor"
     ],
     "html": "<table>\n<thead>\n<tr>\n<th>Principle and Meaning</th>\n<th>Practical Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Single Responsibility</strong></td>\n<td>A class should have one responsibility and one reason to change. Decouple order processing, payment and email notification services.</td>\n</tr>\n<tr>\n<td><strong>Open/Closed</strong></td>\n<td>Code should be open for extension but closed for modification.</td>\n</tr>\n<tr>\n<td><strong>Liskov Substitution</strong></td>\n<td>A subtype should safely replace its parent type without breaking expected behavior. Any <code>PaymentProcessor</code> implementation should work wherever <code>PaymentProcessor</code> is expected.</td>\n</tr>\n<tr>\n<td><strong>Interface Segregation</strong></td>\n<td>Prefer small, focused interfaces over large interfaces with unused methods. Split <code>Worker</code> into <code>Workable</code> and <code>Eatable</code> so a robot does not implement <code>eat()</code>.</td>\n</tr>\n<tr>\n<td><strong>Dependency Inversion</strong></td>\n<td>Depend on abstractions rather than concrete implementations. <code>OrderService</code> depends on <code>PaymentProcessor</code>, not directly on <code>StripePaymentProcessor</code>.</td>\n</tr>\n</tbody></table>\n"
-  },
-  {
-    "id": "design-philosophy-best-practices",
-    "documentSlug": "design-philosophy",
-    "sectionSlug": "best-practices",
-    "title": "Best Practices",
-    "documentTitle": "Philosophy",
-    "file": "philosophy.md",
-    "category": "Architecture",
-    "keywords": [
-      "Best Practices",
-      "best practices",
-      "best",
-      "practices",
-      "clear",
-      "separation",
-      "concern",
-      "avoid",
-      "property",
-      "drilling",
-      "check",
-      "lighthouse",
-      "follow",
-      "wcag"
-    ],
-    "html": "<ul>\n<li>Clear Separation of Concern</li>\n<li>Avoid Property Drilling</li>\n<li>Check Lighthouse, follow WCAG 2.1</li>\n</ul>\n"
   },
   {
     "id": "design-philosophy-architecture-documents",

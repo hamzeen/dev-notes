@@ -1603,6 +1603,62 @@
     ]
   },
   {
+    "id": "design-philosophy-best-practices",
+    "documentSlug": "design-philosophy",
+    "sectionSlug": "best-practices",
+    "title": "Best Practices",
+    "documentTitle": "Philosophy",
+    "file": "philosophy.md",
+    "category": "Architecture",
+    "keywords": [
+      "Best Practices",
+      "best practices",
+      "best",
+      "practices",
+      "compositon",
+      "architecture",
+      "composition",
+      "over",
+      "inheritance",
+      "clear",
+      "separation",
+      "concern",
+      "avoid",
+      "property",
+      "drilling",
+      "modern",
+      "feature-based",
+      "folder",
+      "struct",
+      "check",
+      "lighthouse",
+      "follow",
+      "wcag",
+      "versioning",
+      "swagger"
+    ]
+  },
+  {
+    "id": "design-philosophy-tools",
+    "documentSlug": "design-philosophy",
+    "sectionSlug": "tools",
+    "title": "Tools",
+    "documentTitle": "Philosophy",
+    "file": "philosophy.md",
+    "category": "Architecture",
+    "keywords": [
+      "Tools",
+      "tools",
+      "grafana",
+      "flyway",
+      "swagger",
+      "api-doc",
+      "hikary",
+      "conn",
+      "pool"
+    ]
+  },
+  {
     "id": "design-philosophy-solid-principles",
     "documentSlug": "design-philosophy",
     "sectionSlug": "solid-principles",
@@ -1684,31 +1740,6 @@
       "depends",
       "directly",
       "stripepaymentprocessor"
-    ]
-  },
-  {
-    "id": "design-philosophy-best-practices",
-    "documentSlug": "design-philosophy",
-    "sectionSlug": "best-practices",
-    "title": "Best Practices",
-    "documentTitle": "Philosophy",
-    "file": "philosophy.md",
-    "category": "Architecture",
-    "keywords": [
-      "Best Practices",
-      "best practices",
-      "best",
-      "practices",
-      "clear",
-      "separation",
-      "concern",
-      "avoid",
-      "property",
-      "drilling",
-      "check",
-      "lighthouse",
-      "follow",
-      "wcag"
     ]
   },
   {

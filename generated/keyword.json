@@ -4252,6 +4252,13 @@
       "category": "QnA"
     },
     {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -14642,6 +14649,13 @@
       "category": "Frontend"
     },
     {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
       "id": "solutions-architecture-vertical-scaling",
       "file": "solutions-architecture.md",
       "section": "Vertical Scaling",
@@ -15625,6 +15639,296 @@
       "category": "Architecture"
     }
   ],
+  "best practices": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "practices": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "compositon": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "composition": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "inheritance": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "clear": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "separation": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "concern": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "avoid": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "drilling": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "modern": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools-fe.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "feature-based": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "folder": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "struct": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "lighthouse": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "follow": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "wcag": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools-fe.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "versioning": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "swagger": [
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "tools": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "grafana": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "flyway": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "api-doc": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "hikary": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "conn": [
+    {
+      "id": "design-philosophy-tools",
+      "file": "philosophy.md",
+      "section": "Tools",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
   "solid principles": [
     {
       "id": "design-philosophy-solid-principles",
@@ -16191,124 +16495,6 @@
       "category": "Architecture"
     }
   ],
-  "best practices": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "practices": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "clear": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "separation": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "concern": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "avoid": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "drilling": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "lighthouse": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "follow": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "wcag": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "architecture documents": [
     {
       "id": "design-philosophy-architecture-documents",
@@ -16342,22 +16528,6 @@
       "file": "philosophy.md",
       "section": "Architecture Documents",
       "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "architecture": [
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
       "category": "Architecture"
     }
   ],
@@ -23562,15 +23732,6 @@
     }
   ],
   "recommended": [
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "modern": [
     {
       "id": "tools-redux-toolkit",
       "file": "tools-fe.md",

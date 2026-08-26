@@ -8,6 +8,20 @@ summary: A quick reference for common design patterns, SOLID principles, and arc
 keywords: [SOLID, best practices, RFC, ADR, sdd]
 ---
 
+### Best Practices
+
+- Compositon Architecture (**Composition over Inheritance**)
+- Clear Separation of Concern
+- Avoid **Property Drilling**
+- Modern **feature-based folder struct**
+
+- Check Lighthouse, follow `WCAG 2.1`
+- Api Versioning, API doc (Swagger).
+
+### Tools
+
+- Grafana, Flyway, Swagger (API-doc), Hikary (DB Conn Pool)
+
 ### SOLID Principles
 
 | Principle and Meaning     | Practical Example                                                                                                                                                              |
@@ -17,12 +31,6 @@ keywords: [SOLID, best practices, RFC, ADR, sdd]
 | **Liskov Substitution**   | A subtype should safely replace its parent type without breaking expected behavior. Any `PaymentProcessor` implementation should work wherever `PaymentProcessor` is expected. |
 | **Interface Segregation** | Prefer small, focused interfaces over large interfaces with unused methods. Split `Worker` into `Workable` and `Eatable` so a robot does not implement `eat()`.                |
 | **Dependency Inversion**  | Depend on abstractions rather than concrete implementations. `OrderService` depends on `PaymentProcessor`, not directly on `StripePaymentProcessor`.                           |
-
-### Best Practices
-
-- Clear Separation of Concern
-- Avoid Property Drilling
-- Check Lighthouse, follow WCAG 2.1
 
 ### Architecture Documents
 
