@@ -3,7 +3,7 @@ title: RxJS
 slug: rxjs
 date: 2026-08-14
 author: Hamzeen Hameem
-category: Frontend
+category: Angular/Typescript
 summary: Common RxJS operators and when to use them.
 keywords: [rxjs, operators, switchMap, concatMap, exhaustMap, observables]
 ---

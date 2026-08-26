@@ -1,14 +1,14 @@
 [
   {
-    "id": "angular-why-of-angular",
+    "id": "angular-why-angular",
     "documentSlug": "angular",
-    "sectionSlug": "why-of-angular",
-    "title": "Why of Angular",
+    "sectionSlug": "why-angular",
+    "title": "Why Angular",
     "documentTitle": "Angular",
     "file": "angular.md",
     "category": "Angular/Typescript",
     "keywords": [
-      "Why of Angular",
+      "Why Angular",
       "angular",
       "component-based",
       "declarative",
@@ -28,9 +28,16 @@
       "forms",
       "http",
       "dependency",
-      "injection"
+      "injection",
+      "mvvm",
+      "architecture",
+      "separates",
+      "presentation",
+      "logic",
+      "data",
+      "model"
     ],
-    "html": "<ul>\n<li><strong>Component-based</strong> — builds UIs from reusable components.</li>\n<li><strong>Declarative</strong> — keeps templates and application state in sync.</li>\n<li><strong>Complete framework</strong> — provides routing, forms, HTTP and dependency injection.</li>\n</ul>\n"
+    "html": "<ul>\n<li><strong>Component-based</strong> — builds UIs from reusable components.</li>\n<li><strong>Declarative</strong> — keeps templates and application state in sync.</li>\n<li><strong>Complete framework</strong> — provides routing, forms, HTTP and dependency injection.</li>\n<li><strong>MVVM architecture</strong> — Separates the UI, presentation logic and data model.</li>\n</ul>\n"
   },
   {
     "id": "angular-constructs",
@@ -136,6 +143,24 @@
       "local",
       "derived",
       "states",
+      "fine",
+      "grained",
+      "reactivity",
+      "updates",
+      "only",
+      "affected",
+      "views",
+      "dependencies",
+      "zone",
+      "monkey-patches",
+      "async",
+      "browser",
+      "apis",
+      "triggers",
+      "application-wide",
+      "change",
+      "detection",
+      "automatically",
       "selectorless",
       "components",
       "standalone",
@@ -145,8 +170,6 @@
       "supported",
       "codebases",
       "onpush",
-      "change",
-      "detection",
       "changedetectorref",
       "exists",
       "needed",
@@ -176,7 +199,6 @@
       "keep",
       "event",
       "streams",
-      "async",
       "flows",
       "websockets",
       "operators",
@@ -221,14 +243,12 @@
       "existing",
       "zoneless",
       "requires",
-      "zone",
       "applications",
       "driven",
       "more",
       "explicitly",
       "framework",
       "notifications",
-      "apis",
       "input",
       "output",
       "model",
@@ -249,7 +269,7 @@
       "large",
       "lists"
     ],
-    "html": "<ul>\n<li><p><strong>Signals first</strong> — Prefer <code>signal()</code>, <code>computed()</code>, <code>linkedSignal()</code> for local/derived states</p>\n</li>\n<li><p><strong>Selectorless</strong> components; <strong>Standalone</strong> by default — NgModules are still supported for old codebases.</p>\n</li>\n<li><p><strong><code>OnPush</code> is now the default</strong> — Components use <code>OnPush</code> change detection by default in Angular 22.</p>\n</li>\n<li><p><strong>ChangeDetectorRef (CDR)</strong> exists, but needed less — Signals notify Angular of template state changes; <code>markForCheck()</code> / <code>detectChanges()</code> for manual.</p>\n</li>\n<li><p><strong>NgRx is no longer the default</strong> — Simple state can often use Angular Signals; use <strong>NgRx SignalStore</strong> or classic NgRx Store when application state becomes complex/shared.</p>\n</li>\n<li><p><strong>RxJS still matters, but less for component state</strong> — Keep it for event streams, complex async flows, WebSockets and operators such as <code>switchMap</code>; Signals cover much of the simple UI-state work.</p>\n</li>\n<li><p><strong>Less subscription cleanup</strong> — RxJS subscriptions still need lifecycle handling with <code>AsyncPipe</code>, <code>takeUntilDestroyed()</code>, etc.; a <code>BehaviorSubject</code></p>\n</li>\n<li><p><strong><code>httpResource()</code> for reactive reads</strong> — Stable in Angular 22 and ideal for signal-driven GET/read requests. It uses <code>HttpClient</code> underneath; keep <code>HttpClient</code> for imperative calls and mutations such as POST/PUT/DELETE.</p>\n</li>\n<li><p><strong>Signal Forms are stable</strong> — Preferred for new signal-based forms; Reactive Forms remain fully supported and useful for existing/complex forms.</p>\n</li>\n<li><p><strong>Zoneless by default</strong> — Angular no longer requires Zone.js for new applications; change detection is driven more explicitly by Signals and framework notifications.</p>\n</li>\n<li><p><strong>Signal-based component APIs</strong> — Prefer <code>input()</code>, <code>output()</code> and <code>model()</code> over decorator-based <code>@Input()</code> / <code>@Output()</code> in new code.</p>\n</li>\n<li><p><strong>Testing: Vitest</strong> — Vitest is the default ng CLI unit-test runner. Jest is still possible.</p>\n</li>\n<li><p>Angular CDK scrolling module - for high performance virtual scrolling (large lists).</p>\n</li>\n</ul>\n"
+    "html": "<ul>\n<li><p><strong>Signals first</strong> — Prefer <code>signal()</code>, <code>computed()</code>, <code>linkedSignal()</code> for local/derived states</p>\n</li>\n<li><p>Signals: fine grained reactivity, updates only the affected views and dependencies.</p>\n</li>\n<li><p>Zone.js: Monkey-patches async browser APIs and triggers application-wide change detection automatically.</p>\n</li>\n<li><p><strong>Selectorless</strong> components; <strong>Standalone</strong> by default — NgModules are still supported for old codebases.</p>\n</li>\n<li><p><strong><code>OnPush</code> is now the default</strong> — Components use <code>OnPush</code> change detection by default in Angular 22.</p>\n</li>\n<li><p><strong>ChangeDetectorRef (CDR)</strong> exists, but needed less — Signals notify Angular of template state changes; <code>markForCheck()</code> / <code>detectChanges()</code> for manual.</p>\n</li>\n<li><p><strong>NgRx is no longer the default</strong> — Simple state can often use Angular Signals; use <strong>NgRx SignalStore</strong> or classic NgRx Store when application state becomes complex/shared.</p>\n</li>\n<li><p><strong>RxJS still matters, but less for component state</strong> — Keep it for event streams, complex async flows, WebSockets and operators such as <code>switchMap</code>; Signals cover much of the simple UI-state work.</p>\n</li>\n<li><p><strong>Less subscription cleanup</strong> — RxJS subscriptions still need lifecycle handling with <code>AsyncPipe</code>, <code>takeUntilDestroyed()</code>, etc.; a <code>BehaviorSubject</code></p>\n</li>\n<li><p><strong><code>httpResource()</code> for reactive reads</strong> — Stable in Angular 22 and ideal for signal-driven GET/read requests. It uses <code>HttpClient</code> underneath; keep <code>HttpClient</code> for imperative calls and mutations such as POST/PUT/DELETE.</p>\n</li>\n<li><p><strong>Signal Forms are stable</strong> — Preferred for new signal-based forms; Reactive Forms remain fully supported and useful for existing/complex forms.</p>\n</li>\n<li><p><strong>Zoneless by default</strong> — Angular no longer requires Zone.js for new applications; change detection is driven more explicitly by Signals and framework notifications.</p>\n</li>\n<li><p><strong>Signal-based component APIs</strong> — Prefer <code>input()</code>, <code>output()</code> and <code>model()</code> over decorator-based <code>@Input()</code> / <code>@Output()</code> in new code.</p>\n</li>\n<li><p><strong>Testing: Vitest</strong> — Vitest is the default ng CLI unit-test runner. Jest is still possible.</p>\n</li>\n<li><p>Angular CDK scrolling module - for high performance virtual scrolling (large lists).</p>\n</li>\n</ul>\n"
   },
   {
     "id": "api-design-restful-api-design",
@@ -2388,7 +2408,7 @@
     "title": "RxJS Operators",
     "documentTitle": "RxJS",
     "file": "rxjs.md",
-    "category": "Frontend",
+    "category": "Angular/Typescript",
     "keywords": [
       "RxJS Operators",
       "rxjs",
@@ -3669,7 +3689,7 @@
     "sectionSlug": "axios",
     "title": "Axios",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Axios",
@@ -3699,7 +3719,7 @@
     "sectionSlug": "wcag-21-and-lighthouse",
     "title": "WCAG 2.1 and Lighthouse",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "WCAG 2.1 and Lighthouse",
@@ -3770,7 +3790,7 @@
     "sectionSlug": "eslint",
     "title": "ESLint",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "ESLint",
@@ -3795,7 +3815,7 @@
     "sectionSlug": "prettier",
     "title": "Prettier",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Prettier",
@@ -3821,7 +3841,7 @@
     "sectionSlug": "autocannon",
     "title": "Autocannon",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Autocannon",
@@ -3859,7 +3879,7 @@
     "sectionSlug": "vite-proxy-configuration",
     "title": "Vite Proxy Configuration",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Vite Proxy Configuration",
@@ -3895,7 +3915,7 @@
     "sectionSlug": "tanstack-query",
     "title": "TanStack Query",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "TanStack Query",
@@ -3929,7 +3949,7 @@
     "sectionSlug": "zod-valibot",
     "title": "Zod / Valibot",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Zod / Valibot",
@@ -4010,7 +4030,7 @@
     "sectionSlug": "zustand",
     "title": "Zustand",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Zustand",
@@ -4038,7 +4058,7 @@
     "sectionSlug": "redux-toolkit",
     "title": "Redux Toolkit",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Redux Toolkit",
@@ -4081,7 +4101,7 @@
     "sectionSlug": "useful-cli-commands",
     "title": "Useful CLI Commands",
     "documentTitle": "Tools",
-    "file": "tools-fe.md",
+    "file": "tools.md",
     "category": "QnA",
     "keywords": [
       "Useful CLI Commands",

@@ -8,11 +8,12 @@ summary: A quick overview of Angular's purpose for building web applications.
 keywords: [angular, typescript, component-based, declarative]
 ---
 
-### Why of Angular
+### Why Angular
 
 - **Component-based** — builds UIs from reusable components.
 - **Declarative** — keeps templates and application state in sync.
 - **Complete framework** — provides routing, forms, HTTP and dependency injection.
+- **MVVM architecture** — Separates the UI, presentation logic and data model.
 
 ### Constructs
 
@@ -36,6 +37,10 @@ keywords: [angular, typescript, component-based, declarative]
 ### Angular 22
 
 - **Signals first** — Prefer `signal()`, `computed()`, `linkedSignal()` for local/derived states
+
+- Signals: fine grained reactivity, updates only the affected views and dependencies.
+- Zone.js: Monkey-patches async browser APIs and triggers application-wide change detection automatically.
+
 - **Selectorless** components; **Standalone** by default — NgModules are still supported for old codebases.
 - **`OnPush` is now the default** — Components use `OnPush` change detection by default in Angular 22.
 - **ChangeDetectorRef (CDR)** exists, but needed less — Signals notify Angular of template state changes; `markForCheck()` / `detectChanges()` for manual.

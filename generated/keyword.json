@@ -1,18 +1,18 @@
 {
-  "why of angular": [
+  "why angular": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "angular": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -26,36 +26,36 @@
   ],
   "component-based": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "declarative": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "builds": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "from": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -145,7 +145,7 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -153,9 +153,9 @@
   ],
   "reusable": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -168,7 +168,7 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -176,9 +176,9 @@
   ],
   "components": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -227,9 +227,9 @@
   ],
   "keeps": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -249,7 +249,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -257,18 +257,18 @@
   ],
   "templates": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "application": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -344,7 +344,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -352,9 +352,9 @@
   ],
   "state": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -423,21 +423,21 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -445,18 +445,18 @@
   ],
   "sync": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
   ],
   "complete": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -484,9 +484,9 @@
   ],
   "framework": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -500,9 +500,9 @@
   ],
   "provides": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -536,7 +536,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -544,9 +544,9 @@
   ],
   "routing": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -560,9 +560,9 @@
   ],
   "forms": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -576,9 +576,9 @@
   ],
   "http": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -619,21 +619,21 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -641,9 +641,9 @@
   ],
   "dependency": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -657,9 +657,205 @@
   ],
   "injection": [
     {
-      "id": "angular-why-of-angular",
+      "id": "angular-why-angular",
       "file": "angular.md",
-      "section": "Why of Angular",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "mvvm": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "separates": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "presentation": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "logic": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-establish-the-current-target",
+      "file": "spring-boot-scale.md",
+      "section": "Establish the Current Target",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    }
+  ],
+  "data": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "angular-constructs",
+      "file": "angular.md",
+      "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "javascript-closures",
+      "file": "javascript.md",
+      "section": "Closures",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-quick-recall",
+      "file": "react-template-patterns.md",
+      "section": "Quick Recall",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-frontend-api-caching",
+      "file": "react.md",
+      "section": "Frontend API Caching",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-tanstack-query",
+      "file": "tools.md",
+      "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "model": [
+    {
+      "id": "angular-why-angular",
+      "file": "angular.md",
+      "section": "Why Angular",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     }
@@ -704,7 +900,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -852,14 +1048,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -914,7 +1110,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -972,85 +1168,6 @@
       "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
-    }
-  ],
-  "data": [
-    {
-      "id": "angular-constructs",
-      "file": "angular.md",
-      "section": "Constructs",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "javascript-closures",
-      "file": "javascript.md",
-      "section": "Closures",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-quick-recall",
-      "file": "react-template-patterns.md",
-      "section": "Quick Recall",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-frontend-api-caching",
-      "file": "react.md",
-      "section": "Frontend API Caching",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
-      "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "QnA"
     }
   ],
   "before": [
@@ -1267,7 +1384,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -1371,7 +1488,7 @@
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -1535,7 +1652,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -1564,29 +1681,6 @@
       "section": "Repository Pattern",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "logic": [
-    {
-      "id": "angular-constructs",
-      "file": "angular.md",
-      "section": "Constructs",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-establish-the-current-target",
-      "file": "spring-boot-scale.md",
-      "section": "Establish the Current Target",
-      "documentTitle": "Scalability",
-      "category": "Backend"
     }
   ],
   "side": [
@@ -1761,7 +1855,7 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -1804,6 +1898,13 @@
       "id": "angular-constructs",
       "file": "angular.md",
       "section": "Constructs",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
     },
@@ -1954,7 +2055,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2002,7 +2103,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2226,8 +2327,427 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "fine": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "grained": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "reactivity": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "updates": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "only": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "backend-race-condition-pessimistic-locking",
+      "file": "backend.md",
+      "section": "Race Condition: Pessimistic Locking",
+      "documentTitle": "Backend Architecture",
+      "category": "Backend"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "design-patterns-singleton-pattern",
+      "file": "design-patterns.md",
+      "section": "Singleton Pattern",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-patterns-more-design-patterns",
+      "file": "design-patterns.md",
+      "section": "More Design Patterns",
+      "documentTitle": "Design Patterns",
+      "category": "Architecture"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-3-logical-and-andand",
+      "file": "react-template-patterns.md",
+      "section": "3. Logical AND `&&`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-conditional-rendering",
+      "file": "react.md",
+      "section": "Conditional Rendering",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Backend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "affected": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "views": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "zone": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "monkey-patches": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "async": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    }
+  ],
+  "browser": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-event-driven-backends",
+      "file": "solutions-architecture.md",
+      "section": "Event-Driven Backends",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-server-sent-events-sse",
+      "file": "solutions-architecture.md",
+      "section": "Server-Sent Events (SSE)",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "apis": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "triggers": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "application-wide": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "change": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "design-philosophy-architecture-documents",
+      "file": "philosophy.md",
+      "section": "Architecture Documents",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-10-conditional-props",
+      "file": "react-template-patterns.md",
+      "section": "10. Conditional Props",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-rendering-lists-with-map",
+      "file": "react.md",
+      "section": "Rendering Lists with map",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "solutions-architecture-transactional-outbox",
+      "file": "solutions-architecture.md",
+      "section": "Transactional Outbox",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "detection": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "automatically": [
+    {
+      "id": "angular-angular-22",
+      "file": "angular.md",
+      "section": "Angular 22",
+      "documentTitle": "Angular",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "react-suspense",
+      "file": "react.md",
+      "section": "Suspense",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-prettier",
+      "file": "tools.md",
+      "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     }
@@ -2320,14 +2840,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2352,73 +2872,6 @@
     }
   ],
   "onpush": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    }
-  ],
-  "change": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-10-conditional-props",
-      "file": "react-template-patterns.md",
-      "section": "10. Conditional Props",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-rendering-lists-with-map",
-      "file": "react.md",
-      "section": "Rendering Lists with map",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-transactional-outbox",
-      "file": "solutions-architecture.md",
-      "section": "Transactional Outbox",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
-  "detection": [
     {
       "id": "angular-angular-22",
       "file": "angular.md",
@@ -2558,7 +3011,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2613,21 +3066,21 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2813,7 +3266,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -2866,7 +3319,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2898,21 +3351,21 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -2931,7 +3384,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "matters": [
@@ -2947,7 +3400,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "keep": [
@@ -3054,22 +3507,6 @@
       "category": "Architecture"
     }
   ],
-  "async": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    }
-  ],
   "flows": [
     {
       "id": "angular-angular-22",
@@ -3115,7 +3552,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "such": [
@@ -3210,7 +3647,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "cover": [
@@ -3239,7 +3676,7 @@
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3327,7 +3764,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3505,7 +3942,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "signal-driven": [
@@ -3602,7 +4039,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-horizontal-scaling",
@@ -3669,7 +4106,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3733,7 +4170,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3772,7 +4209,7 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3903,21 +4340,21 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -3950,15 +4387,6 @@
       "category": "Angular/Typescript"
     }
   ],
-  "zone": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    }
-  ],
   "applications": [
     {
       "id": "angular-angular-22",
@@ -3976,35 +4404,35 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4064,14 +4492,14 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4121,29 +4549,6 @@
       "section": "Message Brokers",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "apis": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools-fe.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "QnA"
     }
   ],
   "input": [
@@ -4198,7 +4603,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4221,19 +4626,10 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
-    }
-  ],
-  "model": [
-    {
-      "id": "angular-angular-22",
-      "file": "angular.md",
-      "section": "Angular 22",
-      "documentTitle": "Angular",
-      "category": "Angular/Typescript"
     }
   ],
   "over": [
@@ -4306,21 +4702,21 @@
     },
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4336,14 +4732,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4655,7 +5051,7 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4722,7 +5118,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -4942,21 +5338,21 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5099,14 +5495,14 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5254,7 +5650,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5305,7 +5701,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5353,28 +5749,28 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5530,14 +5926,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5703,7 +6099,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -5871,14 +6267,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -6053,7 +6449,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -6299,7 +6695,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -6449,7 +6845,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "belongs": [
@@ -6679,7 +7075,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -6746,21 +7142,21 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -6963,7 +7359,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "have": [
@@ -7172,21 +7568,21 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -7320,14 +7716,14 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -7488,14 +7884,14 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -7986,7 +8382,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -8177,57 +8573,6 @@
       "category": "Backend"
     }
   ],
-  "updates": [
-    {
-      "id": "backend-race-condition-pessimistic-locking",
-      "file": "backend.md",
-      "section": "Race Condition: Pessimistic Locking",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
   "without": [
     {
       "id": "backend-race-condition-pessimistic-locking",
@@ -8308,21 +8653,21 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -8375,7 +8720,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -8659,120 +9004,6 @@
       "category": "QnA"
     }
   ],
-  "only": [
-    {
-      "id": "backend-race-condition-pessimistic-locking",
-      "file": "backend.md",
-      "section": "Race Condition: Pessimistic Locking",
-      "documentTitle": "Backend Architecture",
-      "category": "Backend"
-    },
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "design-patterns-singleton-pattern",
-      "file": "design-patterns.md",
-      "section": "Singleton Pattern",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-patterns-more-design-patterns",
-      "file": "design-patterns.md",
-      "section": "More Design Patterns",
-      "documentTitle": "Design Patterns",
-      "category": "Architecture"
-    },
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-3-logical-and-andand",
-      "file": "react-template-patterns.md",
-      "section": "3. Logical AND `&&`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-conditional-rendering",
-      "file": "react.md",
-      "section": "Conditional Rendering",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
   "check": [
     {
       "id": "backend-race-condition-pessimistic-locking",
@@ -8838,14 +9069,14 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9026,7 +9257,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-horizontal-scaling",
@@ -9194,7 +9425,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9351,7 +9582,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
@@ -9376,7 +9607,7 @@
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9413,7 +9644,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9447,7 +9678,7 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9619,7 +9850,7 @@
     },
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9692,7 +9923,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9892,7 +10123,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -9957,7 +10188,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -10008,7 +10239,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -10225,14 +10456,14 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -10651,7 +10882,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -10825,14 +11056,14 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -11156,7 +11387,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -11351,7 +11582,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -12181,7 +12412,7 @@
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -12301,7 +12532,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "spring-boot-request-capacity-establish-the-current-target",
@@ -13024,7 +13255,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "permanently": [
@@ -13224,7 +13455,7 @@
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -13247,7 +13478,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -13641,7 +13872,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -14009,7 +14240,7 @@
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -14034,7 +14265,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -14081,7 +14312,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     },
     {
       "id": "solutions-architecture-rate-limiting",
@@ -14108,7 +14339,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -14522,14 +14753,14 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -14611,14 +14842,14 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15022,7 +15253,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "include": [
@@ -15126,14 +15357,14 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15301,7 +15532,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15529,7 +15760,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "inputs": [
@@ -15666,29 +15897,6 @@
       "category": "Architecture"
     }
   ],
-  "architecture": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "design-philosophy-architecture-documents",
-      "file": "philosophy.md",
-      "section": "Architecture Documents",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "composition": [
     {
       "id": "design-philosophy-best-practices",
@@ -15717,7 +15925,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15776,7 +15984,7 @@
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15819,7 +16027,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15844,7 +16052,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15957,7 +16165,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15973,7 +16181,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -15989,7 +16197,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -16289,7 +16497,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -16337,7 +16545,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -16360,7 +16568,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -16722,7 +16930,7 @@
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -16837,7 +17045,7 @@
     },
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -17554,7 +17762,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -17588,14 +17796,14 @@
     },
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -17620,21 +17828,21 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -17735,7 +17943,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "changed": [
@@ -17763,29 +17971,6 @@
       "section": "Reconcilitation",
       "documentTitle": "React Concepts",
       "category": "Frontend"
-    }
-  ],
-  "browser": [
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "solutions-architecture-event-driven-backends",
-      "file": "solutions-architecture.md",
-      "section": "Event-Driven Backends",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-server-sent-events-sse",
-      "file": "solutions-architecture.md",
-      "section": "Server-Sent Events (SSE)",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "painting": [
@@ -17927,24 +18112,8 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "automatically": [
-    {
-      "id": "react-suspense",
-      "file": "react.md",
-      "section": "Suspense",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-prettier",
-      "file": "tools-fe.md",
-      "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     }
@@ -18155,14 +18324,14 @@
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -18210,7 +18379,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "concatmap": [
@@ -18219,7 +18388,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "exhaustmap": [
@@ -18228,7 +18397,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "operator": [
@@ -18237,7 +18406,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "cancel": [
@@ -18246,7 +18415,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "ignore": [
@@ -18255,7 +18424,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "submissions": [
@@ -18264,7 +18433,7 @@
       "file": "rxjs.md",
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
-      "category": "Frontend"
+      "category": "Angular/Typescript"
     }
   ],
   "repository pattern": [
@@ -18277,15 +18446,6 @@
     }
   ],
   "repository": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "separates": [
     {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
@@ -18684,7 +18844,7 @@
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -19448,7 +19608,7 @@
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -19712,7 +19872,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -20397,7 +20557,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -20613,7 +20773,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -20679,7 +20839,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -20857,7 +21017,7 @@
     },
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -21169,7 +21329,7 @@
     },
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -21237,7 +21397,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -21420,7 +21580,7 @@
     },
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22518,7 +22678,7 @@
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22534,7 +22694,7 @@
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22561,7 +22721,7 @@
   "axios": [
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22570,7 +22730,7 @@
   "interceptor": [
     {
       "id": "tools-axios",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Axios",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22579,7 +22739,7 @@
   "wcag 2.1 and lighthouse": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22588,7 +22748,7 @@
   "accessibility": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22597,7 +22757,7 @@
   "guidelines": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22606,7 +22766,7 @@
   "perceivable": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22615,7 +22775,7 @@
   "able": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22624,7 +22784,7 @@
   "perceive": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22633,7 +22793,7 @@
   "operable": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22642,7 +22802,7 @@
   "usable": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22651,7 +22811,7 @@
   "understandable": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22660,7 +22820,7 @@
   "interactions": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22669,7 +22829,7 @@
   "robust": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22678,7 +22838,7 @@
   "assistive": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22687,7 +22847,7 @@
   "color": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22696,7 +22856,7 @@
   "contrast": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22705,7 +22865,7 @@
   "navigation": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22714,14 +22874,14 @@
   "form": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22730,7 +22890,7 @@
   "labels": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22739,7 +22899,7 @@
   "image": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22748,7 +22908,7 @@
   "semantic": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22757,7 +22917,7 @@
   "accessible": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22766,7 +22926,7 @@
   "names": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22775,7 +22935,7 @@
   "buttons": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22784,7 +22944,7 @@
   "links": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22793,7 +22953,7 @@
   "chrome": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22802,7 +22962,7 @@
   "automated": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22811,14 +22971,14 @@
   "audit": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22827,7 +22987,7 @@
   "finding": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22836,7 +22996,7 @@
   "problems": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22845,7 +23005,7 @@
   "screen-reader": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22854,7 +23014,7 @@
   "important": [
     {
       "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "WCAG 2.1 and Lighthouse",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22863,21 +23023,21 @@
   "eslint": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22886,7 +23046,7 @@
   "analyzes": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22895,21 +23055,21 @@
   "typescript": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22918,7 +23078,7 @@
   "reports": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22927,7 +23087,7 @@
   "code-quality": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22936,7 +23096,7 @@
   "correctness": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22945,7 +23105,7 @@
   "issues": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22954,14 +23114,14 @@
   "rule": [
     {
       "id": "tools-eslint",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "ESLint",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22970,14 +23130,14 @@
   "prettier": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22986,7 +23146,7 @@
   "formats": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -22995,7 +23155,7 @@
   "consistently": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23004,14 +23164,14 @@
   "command": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23020,7 +23180,7 @@
   "conf": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23029,7 +23189,7 @@
   "below": [
     {
       "id": "tools-prettier",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Prettier",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23038,14 +23198,14 @@
   "autocannon": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23054,7 +23214,7 @@
   "benchmarking": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23063,21 +23223,21 @@
   "tool": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23086,7 +23246,7 @@
   "basic": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23095,7 +23255,7 @@
   "install": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23104,7 +23264,7 @@
   "specify": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23113,7 +23273,7 @@
   "duration": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23122,7 +23282,7 @@
   "includes": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23131,7 +23291,7 @@
   "throughput": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23140,7 +23300,7 @@
   "timeouts": [
     {
       "id": "tools-autocannon",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Autocannon",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23149,7 +23309,7 @@
   "vite proxy configuration": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23158,14 +23318,14 @@
   "vite": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23174,7 +23334,7 @@
   "proxy": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23183,7 +23343,7 @@
   "development": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23192,7 +23352,7 @@
   "lets": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23201,7 +23361,7 @@
   "hardcoding": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23210,7 +23370,7 @@
   "throughout": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23219,7 +23379,7 @@
   "cleaner": [
     {
       "id": "tools-vite-proxy-configuration",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Vite Proxy Configuration",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23228,14 +23388,14 @@
   "tanstack query": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23244,7 +23404,7 @@
   "manages": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23253,7 +23413,7 @@
   "refetching": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23262,7 +23422,7 @@
   "synchronization": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23271,7 +23431,7 @@
   "querykey": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23280,7 +23440,7 @@
   "identifies": [
     {
       "id": "tools-tanstack-query",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "TanStack Query",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23289,7 +23449,7 @@
   "zod / valibot": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23298,14 +23458,14 @@
   "zod": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23314,7 +23474,7 @@
   "valibot": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23323,7 +23483,7 @@
   "provide": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23332,14 +23492,14 @@
   "runtime": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23348,7 +23508,7 @@
   "schema": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23357,7 +23517,7 @@
   "safeparse": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23366,7 +23526,7 @@
   "failure": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23375,7 +23535,7 @@
   "handled": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23384,7 +23544,7 @@
   "throwing": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23393,7 +23553,7 @@
   "regular": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23402,7 +23562,7 @@
   "method-heavy": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23411,7 +23571,7 @@
   "difficult": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23420,7 +23580,7 @@
   "tree-shake": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23429,7 +23589,7 @@
   "effectively": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23438,7 +23598,7 @@
   "functionality": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23447,7 +23607,7 @@
   "contribute": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23456,7 +23616,7 @@
   "also": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23465,7 +23625,7 @@
   "mini": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23474,7 +23634,7 @@
   "functional": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23483,7 +23643,7 @@
   "tree-shakable": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23492,7 +23652,7 @@
   "variant": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23501,7 +23661,7 @@
   "bundle-size-sensitive": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23510,7 +23670,7 @@
   "modular": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23519,7 +23679,7 @@
   "designed": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23528,7 +23688,7 @@
   "tree": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23537,7 +23697,7 @@
   "shaking": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23546,7 +23706,7 @@
   "bundlers": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23555,7 +23715,7 @@
   "validators": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23564,14 +23724,14 @@
   "comparison": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23580,14 +23740,14 @@
   "library": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23596,7 +23756,7 @@
   "limited": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23605,7 +23765,7 @@
   "method-based": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23614,7 +23774,7 @@
   "bundles": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23623,7 +23783,7 @@
   "environment": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23632,14 +23792,14 @@
   "schemas": [
     {
       "id": "tools-zod-valibot",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zod / Valibot",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23648,14 +23808,14 @@
   "zustand": [
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23664,14 +23824,14 @@
   "lightweight": [
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
     },
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23680,7 +23840,7 @@
   "state-management": [
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23689,7 +23849,7 @@
   "relatively": [
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23698,7 +23858,7 @@
   "boilerplate": [
     {
       "id": "tools-zustand",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Zustand",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23707,7 +23867,7 @@
   "redux toolkit": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23716,7 +23876,7 @@
   "redux": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23725,7 +23885,7 @@
   "toolkit": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23734,7 +23894,7 @@
   "recommended": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23743,7 +23903,7 @@
   "writing": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23752,7 +23912,7 @@
   "suited": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23761,7 +23921,7 @@
   "structured": [
     {
       "id": "tools-redux-toolkit",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Redux Toolkit",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23770,7 +23930,7 @@
   "useful cli commands": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23779,7 +23939,7 @@
   "commands": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23788,7 +23948,7 @@
   "lint": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23797,7 +23957,7 @@
   "write": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23806,7 +23966,7 @@
   "localhost": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
@@ -23815,7 +23975,7 @@
   "noemit": [
     {
       "id": "tools-useful-cli-commands",
-      "file": "tools-fe.md",
+      "file": "tools.md",
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "QnA"
