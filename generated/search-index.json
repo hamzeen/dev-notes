@@ -3980,5 +3980,71 @@
       "security",
       "audit"
     ]
+  },
+  {
+    "id": "typescript-features",
+    "documentSlug": "typescript",
+    "sectionSlug": "features",
+    "title": "Features",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Features",
+      "generics",
+      "conditional types",
+      "mapped types",
+      "utility types",
+      "types",
+      "interfaces",
+      "features",
+      "conditional",
+      "mapped",
+      "utility"
+    ]
+  },
+  {
+    "id": "typescript-utility-types-partial",
+    "documentSlug": "typescript",
+    "sectionSlug": "utility-types-partial",
+    "title": "Utility Types — `Partial`",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Utility Types — `Partial`",
+      "utility types",
+      "types",
+      "utility",
+      "partial"
+    ]
+  },
+  {
+    "id": "typescript-union-type",
+    "documentSlug": "typescript",
+    "sectionSlug": "union-type",
+    "title": "Union Type",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Union Type",
+      "union",
+      "type"
+    ]
+  },
+  {
+    "id": "typescript-intersection-type",
+    "documentSlug": "typescript",
+    "sectionSlug": "intersection-type",
+    "title": "Intersection Type",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Intersection Type",
+      "intersection",
+      "type"
+    ]
   }
 ]

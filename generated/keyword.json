@@ -15907,6 +15907,20 @@
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
       "category": "Interview"
+    },
+    {
+      "id": "typescript-union-type",
+      "file": "typescript.md",
+      "section": "Union Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "id": "typescript-intersection-type",
+      "file": "typescript.md",
+      "section": "Intersection Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
     }
   ],
   "breaking": [
@@ -16000,6 +16014,13 @@
       "section": "Architecture Documents",
       "documentTitle": "Philosophy",
       "category": "Architecture"
+    },
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
     }
   ],
   "unused": [
@@ -17054,6 +17075,13 @@
       "section": "Conditional Rendering",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
     }
   ],
   "props": [
@@ -17693,6 +17721,13 @@
       "file": "react.md",
       "section": "Suspense",
       "documentTitle": "React Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
       "category": "Frontend"
     }
   ],
@@ -23623,6 +23658,144 @@
       "section": "Useful CLI Commands",
       "documentTitle": "Tools",
       "category": "Tools"
+    }
+  ],
+  "generics": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "conditional types": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "mapped types": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "utility types": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "types": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "mapped": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "utility": [
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "utility types — `partial`": [
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "partial": [
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "union type": [
+    {
+      "id": "typescript-union-type",
+      "file": "typescript.md",
+      "section": "Union Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "union": [
+    {
+      "id": "typescript-union-type",
+      "file": "typescript.md",
+      "section": "Union Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "intersection type": [
+    {
+      "id": "typescript-intersection-type",
+      "file": "typescript.md",
+      "section": "Intersection Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
+    }
+  ],
+  "intersection": [
+    {
+      "id": "typescript-intersection-type",
+      "file": "typescript.md",
+      "section": "Intersection Type",
+      "documentTitle": "TypeScript",
+      "category": "Frontend"
     }
   ]
 }

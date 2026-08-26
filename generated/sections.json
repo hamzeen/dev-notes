@@ -4071,5 +4071,75 @@
       "audit"
     ],
     "html": "<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Command</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>ESLint</td>\n<td><code>npm run lint</code></td>\n</tr>\n<tr>\n<td>Prettier</td>\n<td><code>npx prettier . --write</code></td>\n</tr>\n<tr>\n<td>Autocannon</td>\n<td><code>autocannon http://localhost:8080</code></td>\n</tr>\n<tr>\n<td>Vite</td>\n<td><code>npm run dev</code></td>\n</tr>\n<tr>\n<td>TypeScript</td>\n<td><code>npx tsc --noEmit</code></td>\n</tr>\n<tr>\n<td>npm security audit</td>\n<td><code>npm audit</code></td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "id": "typescript-features",
+    "documentSlug": "typescript",
+    "sectionSlug": "features",
+    "title": "Features",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Features",
+      "generics",
+      "conditional types",
+      "mapped types",
+      "utility types",
+      "types",
+      "interfaces",
+      "features",
+      "conditional",
+      "mapped",
+      "utility"
+    ],
+    "html": "<ul>\n<li><strong>Generics</strong></li>\n<li><strong>Conditional Types</strong></li>\n<li><strong>Mapped Types</strong></li>\n<li><strong>Utility Types</strong></li>\n<li><strong>Types &amp; Interfaces</strong></li>\n</ul>\n"
+  },
+  {
+    "id": "typescript-utility-types-partial",
+    "documentSlug": "typescript",
+    "sectionSlug": "utility-types-partial",
+    "title": "Utility Types — `Partial`",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Utility Types — `Partial`",
+      "utility types",
+      "types",
+      "utility",
+      "partial"
+    ],
+    "html": "<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">type</span><span style=\"color:#FFA657\"> User</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#E6EDF3\"> { </span><span style=\"color:#FFA657\">name</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#79C0FF\"> string</span><span style=\"color:#E6EDF3\">; </span><span style=\"color:#FFA657\">email</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#79C0FF\"> string</span><span style=\"color:#E6EDF3\"> };</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">const</span><span style=\"color:#79C0FF\"> update</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#FFA657\"> Partial</span><span style=\"color:#E6EDF3\">&#x3C;</span><span style=\"color:#FFA657\">User</span><span style=\"color:#E6EDF3\">> </span><span style=\"color:#FF7B72\">=</span><span style=\"color:#E6EDF3\"> { name: </span><span style=\"color:#A5D6FF\">\"Hamzeen\"</span><span style=\"color:#E6EDF3\"> };</span></span></code></pre>"
+  },
+  {
+    "id": "typescript-union-type",
+    "documentSlug": "typescript",
+    "sectionSlug": "union-type",
+    "title": "Union Type",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Union Type",
+      "union",
+      "type"
+    ],
+    "html": "<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">const</span><span style=\"color:#79C0FF\"> id</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#79C0FF\"> string</span><span style=\"color:#FF7B72\"> |</span><span style=\"color:#79C0FF\"> number</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#79C0FF\"> 101</span><span style=\"color:#E6EDF3\">;</span></span></code></pre>"
+  },
+  {
+    "id": "typescript-intersection-type",
+    "documentSlug": "typescript",
+    "sectionSlug": "intersection-type",
+    "title": "Intersection Type",
+    "documentTitle": "TypeScript",
+    "file": "typescript.md",
+    "category": "Frontend",
+    "keywords": [
+      "Intersection Type",
+      "intersection",
+      "type"
+    ],
+    "html": "<pre class=\"shiki github-dark-default\" style=\"background-color:#0d1117;color:#e6edf3\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#FF7B72\">type</span><span style=\"color:#FFA657\"> Person</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#E6EDF3\"> { </span><span style=\"color:#FFA657\">name</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#79C0FF\"> string</span><span style=\"color:#E6EDF3\"> };</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">type</span><span style=\"color:#FFA657\"> Employee</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#E6EDF3\"> { </span><span style=\"color:#FFA657\">empId</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#79C0FF\"> number</span><span style=\"color:#E6EDF3\"> };</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">type</span><span style=\"color:#FFA657\"> Staff</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#FFA657\"> Person</span><span style=\"color:#FF7B72\"> &#x26;</span><span style=\"color:#FFA657\"> Employee</span><span style=\"color:#E6EDF3\">;</span></span>\n<span class=\"line\"><span style=\"color:#FF7B72\">const</span><span style=\"color:#79C0FF\"> st101</span><span style=\"color:#FF7B72\">:</span><span style=\"color:#FFA657\"> Staff</span><span style=\"color:#FF7B72\"> =</span><span style=\"color:#E6EDF3\"> {</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">    name: </span><span style=\"color:#A5D6FF\">\"Haland\"</span><span style=\"color:#E6EDF3\">,</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">    empId: </span><span style=\"color:#79C0FF\">101</span><span style=\"color:#E6EDF3\">,</span></span>\n<span class=\"line\"><span style=\"color:#E6EDF3\">};</span></span></code></pre>"
   }
 ]
