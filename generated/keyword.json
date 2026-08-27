@@ -95,6 +95,13 @@
       "category": "Architecture"
     },
     {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -134,7 +141,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -333,7 +340,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -493,14 +500,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "framework": [
@@ -733,6 +740,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
@@ -765,6 +779,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
@@ -776,7 +797,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "data": [
@@ -793,6 +814,13 @@
       "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-closures",
@@ -998,6 +1026,13 @@
       "category": "Backend"
     },
     {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
       "file": "kafka-vs-rabbitmq.md",
       "section": "Kafka vs RabbitMQ",
@@ -1065,7 +1100,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -1459,6 +1494,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-template-patterns-1-if-else",
       "file": "react-template-patterns.md",
       "section": "1. If / Else",
@@ -1582,6 +1624,20 @@
       "category": "Architecture"
     },
     {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -1702,6 +1758,13 @@
       "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "solutions-architecture-repository-pattern",
@@ -1879,7 +1942,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-tanstack-query",
@@ -1997,6 +2060,13 @@
       "category": "Architecture"
     },
     {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "solutions-architecture-webhooks",
       "file": "solutions-architecture.md",
       "section": "Webhooks",
@@ -2008,7 +2078,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -2228,6 +2298,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-first-non-repeating-character",
+      "file": "java.md",
+      "section": "First Non-Repeating Character",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-event-loop",
@@ -2557,7 +2634,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -2617,6 +2694,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -2704,6 +2788,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -3343,14 +3434,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -3387,7 +3478,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "shared": [
@@ -3479,7 +3570,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -3687,14 +3778,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -3733,7 +3824,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "much": [
@@ -3816,14 +3907,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -3856,6 +3947,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "subscriptions": [
@@ -3920,6 +4018,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "react-template-patterns-7-early-return",
@@ -4137,35 +4242,35 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -4388,6 +4493,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-debounce",
       "file": "javascript.md",
       "section": "Debounce",
@@ -4579,7 +4691,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -4945,6 +5057,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -4959,6 +5078,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -5575,28 +5701,28 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -5698,6 +5824,13 @@
       "category": "Architecture"
     },
     {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -5730,14 +5863,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -5802,7 +5935,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -5911,6 +6044,20 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "detect": [
@@ -6221,7 +6368,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -6389,14 +6536,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -6449,14 +6596,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -6540,10 +6687,10 @@
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-variable-scope-var-let-and-const",
@@ -6578,7 +6725,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -6644,10 +6791,10 @@
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -6810,14 +6957,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -7022,6 +7169,13 @@
       "section": "Authentication & Authorization",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "another": [
@@ -7171,14 +7325,14 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -7202,6 +7356,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "design-philosophy-architecture-documents",
@@ -7257,28 +7418,28 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -7352,7 +7513,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "once": [
@@ -8128,10 +8289,10 @@
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "list": [
@@ -8235,6 +8396,20 @@
       "category": "Backend"
     },
     {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -8332,6 +8507,13 @@
       "category": "Backend"
     },
     {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
       "section": "Repository Pattern",
@@ -8350,42 +8532,42 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -8497,7 +8679,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -8528,6 +8710,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "using": [
@@ -8560,6 +8749,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "sql-join-inner-join",
@@ -8678,7 +8874,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -8729,6 +8925,13 @@
       "category": "Architecture"
     },
     {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -8761,7 +8964,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -8843,6 +9046,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -9009,14 +9219,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -9255,7 +9465,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -9275,10 +9485,10 @@
     },
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "react-suspense",
@@ -9353,7 +9563,7 @@
       "file": "spring-boot-scale.md",
       "section": "Spring Boot Configuration",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "multiple": [
@@ -9427,28 +9637,28 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "threads": [
@@ -9478,21 +9688,21 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "concurrently": [
@@ -9511,6 +9721,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "instead": [
@@ -9534,6 +9751,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "react-template-patterns-9-optional-chaining",
@@ -9580,6 +9804,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "make": [
@@ -9625,14 +9856,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "operations": [
@@ -9669,7 +9900,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -9722,14 +9953,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -9763,10 +9994,10 @@
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "solutions-architecture-message-brokers",
@@ -9968,6 +10199,13 @@
       "category": "QnA"
     },
     {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-nodejs-threads-and-event-loop",
       "file": "javascript.md",
       "section": "Node.js Threads and Event Loop",
@@ -10098,7 +10336,7 @@
       "file": "spring-boot-scale.md",
       "section": "Find the Bottleneck",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "number": [
@@ -10206,7 +10444,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "format": [
@@ -10252,7 +10490,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -10317,14 +10555,14 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-autocannon",
@@ -10497,7 +10735,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "runnable": [
@@ -10776,7 +11014,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -10918,7 +11156,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "ocr-compressed": [
@@ -10977,7 +11215,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "represent": [
@@ -11339,6 +11577,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-first-non-repeating-character",
+      "file": "java.md",
+      "section": "First Non-Repeating Character",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "numbers": [
@@ -11348,6 +11593,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "here": [
@@ -11689,6 +11941,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "idea": [
@@ -11733,6 +11992,13 @@
       "section": "The Flow",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -11916,7 +12182,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "3. binarygap": [
@@ -12134,6 +12400,13 @@
       "category": "QnA"
     },
     {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-closures",
       "file": "javascript.md",
       "section": "Closures",
@@ -12323,7 +12596,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "integers": [
@@ -12382,10 +12655,10 @@
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -12599,14 +12872,14 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "point": [
@@ -12700,14 +12973,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "value": [
@@ -12731,6 +13004,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-execution-contexts",
@@ -12888,6 +13168,13 @@
       "category": "QnA"
     },
     {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -12983,7 +13270,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "operation": [
@@ -13006,7 +13293,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "increase": [
@@ -13022,14 +13309,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "counter": [
@@ -13050,11 +13337,18 @@
       "category": "QnA"
     },
     {
+      "id": "java-second-highest-salary",
+      "file": "java.md",
+      "section": "Second Highest Salary",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "currently": [
@@ -13139,6 +13433,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "applied": [
@@ -13179,7 +13480,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -13368,14 +13669,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "unit": [
@@ -13642,7 +13943,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -13750,6 +14051,13 @@
       "section": "Example: Bank Transfer",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "situations": [
@@ -13885,7 +14193,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -13972,14 +14280,14 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "class": [
@@ -14003,6 +14311,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -14082,7 +14397,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "objects": [
@@ -14204,6 +14519,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "sets": [
@@ -14680,78 +15002,85 @@
   "jvm compilers": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "jvm": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "java": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "kotlin": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "compilers": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "compiler": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "file": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -14764,46 +15093,46 @@
   "kotlinc": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "javac": [
     {
       "id": "jvm-flow-jvm-compilers",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Compilers",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "jvm execution flow": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "bytecode": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "execution": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -14837,10 +15166,10 @@
   "program": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-execution-contexts",
@@ -14853,28 +15182,826 @@
   "compiled": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "initializes": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "executes": [
     {
       "id": "jvm-flow-jvm-execution-flow",
-      "file": "java.md",
+      "file": "java-core.md",
       "section": "JVM Execution Flow",
-      "documentTitle": "Java Internals",
-      "category": "Backend"
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "`final` vs `finally`": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "finally": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "override": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "extend": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "block": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "catch": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "usually": [
+    {
+      "id": "java-final-vs-finally",
+      "file": "java.md",
+      "section": "`final` vs `finally`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-8-fallback",
+      "file": "react-template-patterns.md",
+      "section": "8. Fallback `??` / `||`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "`@component` vs `@controller`": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "controller": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "technically": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "interchanged": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "service": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "specialized": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "versions": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "annotation": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "interchangeable": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "intent": [
+    {
+      "id": "java-component-vs-controller",
+      "file": "java.md",
+      "section": "`@Component` vs `@Controller`",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "hashmap vs concurrenthashmap": [
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "thread": [
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "safety": [
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "null": [
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "keys": [
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "circuit breaker pattern": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "circuit breaker": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "circuit": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "breaker": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "stops": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "calling": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "failing": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "temporarily": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "cascading": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "failures": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "recovery": [
+    {
+      "id": "java-circuit-breaker-pattern",
+      "file": "java.md",
+      "section": "Circuit Breaker Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "second highest salary": [
+    {
+      "id": "java-second-highest-salary",
+      "file": "java.md",
+      "section": "Second Highest Salary",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "second": [
+    {
+      "id": "java-second-highest-salary",
+      "file": "java.md",
+      "section": "Second Highest Salary",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "salary": [
+    {
+      "id": "java-second-highest-salary",
+      "file": "java.md",
+      "section": "Second Highest Salary",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "first non-repeating character": [
+    {
+      "id": "java-first-non-repeating-character",
+      "file": "java.md",
+      "section": "First Non-Repeating Character",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "non-repeating": [
+    {
+      "id": "java-first-non-repeating-character",
+      "file": "java.md",
+      "section": "First Non-Repeating Character",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "repository pattern": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "repository": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "data-access": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "solutions-architecture-repository-pattern",
+      "file": "solutions-architecture.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "depends": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "querying": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "directly": [
+    {
+      "id": "java-repository-pattern",
+      "file": "java.md",
+      "section": "Repository Pattern",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "completablefuture": [
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "blocking": [
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    }
+  ],
+  "similar": [
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "promise": [
+    {
+      "id": "java-completablefuture",
+      "file": "java.md",
+      "section": "CompletableFuture",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    }
+  ],
+  "virtual thread": [
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "lightweight": [
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "tools-zustand",
+      "file": "tools.md",
+      "section": "Zustand",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-redux-toolkit",
+      "file": "tools.md",
+      "section": "Redux Toolkit",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "jvm-managed": [
+    {
+      "id": "java-virtual-thread",
+      "file": "java.md",
+      "section": "Virtual Thread",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "database optimization": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "n+1": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "optimization": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "indexes": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "speed": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "frequently": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "queried": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "columns": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "avoid": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-best-practices",
+      "file": "philosophy.md",
+      "section": "Best Practices",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "related": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "efficiently": [
+    {
+      "id": "java-database-optimization",
+      "file": "java.md",
+      "section": "Database Optimization",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
     }
   ],
   "node.js threads and event loop": [
@@ -15037,22 +16164,6 @@
       "category": "QnA"
     }
   ],
-  "thread": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
   "pool": [
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -15080,14 +16191,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "system": [
@@ -15190,7 +16301,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -15230,22 +16341,6 @@
       "section": "Vertical Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "blocking": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
     }
   ],
   "closures": [
@@ -15584,22 +16679,6 @@
       "category": "Frontend"
     }
   ],
-  "promise": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    }
-  ],
   "microtask": [
     {
       "id": "javascript-event-loop",
@@ -15811,14 +16890,14 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "execution contexts": [
@@ -16025,7 +17104,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "interval": [
@@ -16317,22 +17396,6 @@
       "category": "Architecture"
     }
   ],
-  "usually": [
-    {
-      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Kafka vs RabbitMQ",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-8-fallback",
-      "file": "react-template-patterns.md",
-      "section": "8. Fallback `??` / `||`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
   "disappear": [
     {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
@@ -16445,36 +17508,6 @@
       "category": "Architecture"
     }
   ],
-  "service": [
-    {
-      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Kafka vs RabbitMQ",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "high-throughput": [
     {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
@@ -16572,7 +17605,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "partition": [
@@ -16597,7 +17630,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "affect": [
@@ -16881,15 +17914,6 @@
       "category": "Architecture"
     }
   ],
-  "keys": [
-    {
-      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Kafka vs RabbitMQ",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    }
-  ],
   "fanout": [
     {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
@@ -16939,7 +17963,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-zod-valibot",
@@ -17291,22 +18315,6 @@
       "category": "Architecture"
     }
   ],
-  "avoid": [
-    {
-      "id": "design-philosophy-best-practices",
-      "file": "philosophy.md",
-      "section": "Best Practices",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "drilling": [
     {
       "id": "design-philosophy-best-practices",
@@ -17558,7 +18566,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "responsibility": [
@@ -17958,28 +18966,10 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "orderservice": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "depends": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "directly": [
     {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
@@ -18134,7 +19124,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "architectural": [
@@ -18211,7 +19201,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-redux-toolkit",
@@ -19288,7 +20278,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "works": [
@@ -19397,7 +20387,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "enhanced": [
@@ -19697,41 +20687,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "repository pattern": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "repository": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "data-access": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
+      "category": "Java/Spring Boot"
     }
   ],
   "persistence": [
@@ -19771,15 +20734,6 @@
     }
   ],
   "repositories": [
-    {
-      "id": "solutions-architecture-repository-pattern",
-      "file": "solutions-architecture.md",
-      "section": "Repository Pattern",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "controller": [
     {
       "id": "solutions-architecture-repository-pattern",
       "file": "solutions-architecture.md",
@@ -19876,14 +20830,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "machine": [
@@ -19924,14 +20878,14 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "connection": [
@@ -19954,21 +20908,21 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "handle": [
@@ -19984,7 +20938,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "overwhelming": [
@@ -20081,14 +21035,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-redux-toolkit",
@@ -20165,7 +21119,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "balancer": [
@@ -20222,7 +21176,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "across": [
@@ -21004,7 +21958,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "extra": [
@@ -21110,7 +22064,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "establish": [
@@ -21119,7 +22073,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "target": [
@@ -21128,21 +22082,21 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "assume": [
@@ -21151,14 +22105,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "quiz": [
@@ -21167,7 +22121,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "minute": [
@@ -21176,28 +22130,28 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "slowest": [
@@ -21206,14 +22160,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "representative": [
@@ -21222,21 +22176,21 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "published": [
@@ -21245,14 +22199,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "questions": [
@@ -21261,7 +22215,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -21284,7 +22238,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "mapping": [
@@ -21293,7 +22247,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "serialization": [
@@ -21302,7 +22256,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "therefore": [
@@ -21311,14 +22265,14 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "needs": [
@@ -21327,7 +22281,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "approximately": [
@@ -21336,21 +22290,21 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "around": [
@@ -21359,7 +22313,7 @@
       "file": "spring-boot-scale.md",
       "section": "Establish the Current Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "estimate database connections": [
@@ -21368,7 +22322,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "hikaricp": [
@@ -21377,14 +22331,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "estimate": [
@@ -21393,7 +22347,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "connections": [
@@ -21402,21 +22356,21 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-load-test-the-current-backend",
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-autocannon",
@@ -21432,7 +22386,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "overall": [
@@ -21441,7 +22395,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "worst": [
@@ -21450,7 +22404,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "holds": [
@@ -21459,7 +22413,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "theoretically": [
@@ -21468,7 +22422,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "concurrency": [
@@ -21477,14 +22431,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "introduced": [
@@ -21493,7 +22447,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "monitoring": [
@@ -21502,14 +22456,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "shows": [
@@ -21518,14 +22472,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -21548,7 +22502,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "calculations": [
@@ -21557,7 +22511,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "show": [
@@ -21566,7 +22520,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "plausible": [
@@ -21575,7 +22529,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "prove": [
@@ -21584,7 +22538,7 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "sustain": [
@@ -21593,14 +22547,14 @@
       "file": "spring-boot-scale.md",
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "load-test the current backend": [
@@ -21609,7 +22563,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "latency": [
@@ -21618,21 +22572,21 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-autocannon",
@@ -21648,14 +22602,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "production-like": [
@@ -21664,7 +22618,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "gradually": [
@@ -21673,7 +22627,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "following": [
@@ -21682,30 +22636,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
-    }
-  ],
-  "second": [
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Backend"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
+      "category": "Java/Spring Boot"
     }
   ],
   "error": [
@@ -21714,14 +22645,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -21737,7 +22668,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "rates": [
@@ -21746,7 +22677,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "garbage": [
@@ -21755,7 +22686,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -21771,7 +22702,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -21787,14 +22718,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "active": [
@@ -21803,14 +22734,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "pending": [
@@ -21819,7 +22750,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "hikari": [
@@ -21828,14 +22759,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "limit": [
@@ -21844,14 +22775,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "reached": [
@@ -21860,7 +22791,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "errors": [
@@ -21869,14 +22800,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-autocannon",
@@ -21892,7 +22823,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "simply": [
@@ -21901,7 +22832,7 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "observed": [
@@ -21910,14 +22841,14 @@
       "file": "spring-boot-scale.md",
       "section": "Load-Test the Current Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "find the bottleneck": [
@@ -21926,7 +22857,7 @@
       "file": "spring-boot-scale.md",
       "section": "Find the Bottleneck",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "bottleneck": [
@@ -21935,14 +22866,14 @@
       "file": "spring-boot-scale.md",
       "section": "Find the Bottleneck",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-interview-approach",
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "calculate the larger target": [
@@ -21951,7 +22882,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "scale": [
@@ -21960,14 +22891,14 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "toward": [
@@ -21976,7 +22907,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "suggests": [
@@ -21985,7 +22916,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "simultaneously": [
@@ -21994,7 +22925,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "under": [
@@ -22003,7 +22934,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -22019,7 +22950,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "buffer": [
@@ -22028,7 +22959,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "configuring": [
@@ -22037,7 +22968,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "calculated": [
@@ -22046,7 +22977,7 @@
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "vertically scale the backend": [
@@ -22055,7 +22986,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "vertically": [
@@ -22064,7 +22995,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "optimize": [
@@ -22073,7 +23004,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "safe": [
@@ -22082,7 +23013,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "read-heavy": [
@@ -22091,7 +23022,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "retrieving": [
@@ -22100,7 +23031,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "quizzes": [
@@ -22109,7 +23040,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "saturation": [
@@ -22118,7 +23049,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "exceeding": [
@@ -22127,7 +23058,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "repeat": [
@@ -22136,7 +23067,7 @@
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "spring boot configuration": [
@@ -22145,7 +23076,7 @@
       "file": "spring-boot-scale.md",
       "section": "Spring Boot Configuration",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "spring boot": [
@@ -22154,7 +23085,7 @@
       "file": "spring-boot-scale.md",
       "section": "Spring Boot Configuration",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "boot": [
@@ -22163,7 +23094,7 @@
       "file": "spring-boot-scale.md",
       "section": "Spring Boot Configuration",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "configuration": [
@@ -22172,7 +23103,7 @@
       "file": "spring-boot-scale.md",
       "section": "Spring Boot Configuration",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "tools-vite-proxy-configuration",
@@ -22188,7 +23119,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "interview": [
@@ -22197,7 +23128,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "convert": [
@@ -22206,7 +23137,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "connection-hold": [
@@ -22215,7 +23146,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "expensive": [
@@ -22224,7 +23155,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     },
     {
       "id": "technical-assessment-1-assessment-questions",
@@ -22240,7 +23171,7 @@
       "file": "spring-boot-scale.md",
       "section": "Interview Approach",
       "documentTitle": "Scalability",
-      "category": "Backend"
+      "category": "Java/Spring Boot"
     }
   ],
   "parent table: `customers`": [
@@ -24560,22 +25491,6 @@
     }
   ],
   "zustand": [
-    {
-      "id": "tools-zustand",
-      "file": "tools.md",
-      "section": "Zustand",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-redux-toolkit",
-      "file": "tools.md",
-      "section": "Redux Toolkit",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "lightweight": [
     {
       "id": "tools-zustand",
       "file": "tools.md",

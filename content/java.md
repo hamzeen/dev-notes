@@ -1,46 +1,92 @@
 ---
-title: Java Internals
-slug: jvm-flow
-date: 2026-08-14
+title: Java
+slug: java
+date: 2026-08-27
 author: Hamzeen Hameem
-category: Backend
-summary: A simple step-by-step flow of how Java source code moves through the JVM until execution.
-keywords: [jvm, java, bytecode, class loader, jit, garbage collection, kotlin, backend]
+category: Java/Spring Boot
+summary: Quick-reference Java concepts and common interview questions.
+keywords:
+    [
+        java,
+        hashmap,
+        concurrenthashmap,
+        circuit breaker,
+        repository pattern,
+        virtual threads,
+        completablefuture,
+        final,
+        finally,
+        n+1,
+    ]
 ---
 
-### JVM Compilers
+### `final` vs `finally`
 
-| Compiler  | Source file |
-| --------- | ----------- |
-| `kotlinc` | `.kt`       |
-| `javac`   | `.java`     |
+- `final` — value cannot change / method cannot override / class cannot extend.
+- `finally` — block that runs after `try/catch`, usually for cleanup.
 
-### JVM Execution Flow
+### `@Component` vs `@Controller`
 
-A Java program is compiled into bytecode, then the JVM loads, verifies, initializes, and executes it.
+- Technically, `@Component` can be interchanged with `@Service` & `@Controller`, they're both specialized versions of the base `@Component` annotation.
 
-```text
-Java Source Code (.java)
-   ↓
-javac compiles it into JVM bytecode (.class)
-   ↓
-1.Class Loading
-   ↓
-2.Verification
-  (JVM verifies that the bytecode is valid, safe, and follows JVM rules)
-   ↓
-3.Class Preparation
-  (Static fields are allocated and assigned default values)
-   ↓
-4.Class Initialization
-  (Static initializers and explicit static values are executed)
-   ↓
-5.Main Method Lookup
-  (JVM locates: public static void main())
-   ↓
-6.Execution
-  (JVM executes bytecode using the interpreter)
-   ↓
-7.Runtime Services
-  (while app runs: VM manages stack frames, heap objs, method calls, memory, GC)
+- Not interchangeable in **intent**: use `@Controller` for request handling.
+
+### HashMap vs ConcurrentHashMap
+
+|                   | `HashMap`                         | `ConcurrentHashMap`    |
+| :---------------- | :-------------------------------- | :--------------------- |
+| **Thread safety** | No                                | Yes                    |
+| **Null values**   | Allows one null key + null values | No null keys or values |
+
+### Circuit Breaker Pattern
+
+- Stops calling a **failing service** temporarily -> Prevents cascading failures & allows recovery.
+
+### Second Highest Salary
+
+```java
+Employee result = employees.stream()
+    .sorted(Comparator.comparing(Employee::getSalary).reversed())
+    .skip(1)
+    .findFirst()
+    .orElse(null);
 ```
+
+### First Non-Repeating Character
+
+```java
+String s = "Swiss".toLowerCase();
+
+char result = s.chars()
+    .mapToObj(c -> (char) c)
+    .filter(c -> s.indexOf(c) == s.lastIndexOf(c))
+    .findFirst().orElseThrow(); // result: => 'w'
+```
+
+### Repository Pattern
+
+- Separates **data-access logic** from business logic.
+- Service depends on a repository instead of querying the DB directly.
+
+### CompletableFuture
+
+- Runs async tasks without blocking the calling thread.
+- Similar idea to a JavaScript `Promise`.
+
+```java
+CompletableFuture.supplyAsync(() -> loadData());
+```
+
+### Virtual Thread
+
+- Lightweight **JVM-managed thread**.
+- Useful for large numbers of blocking I/O tasks.
+
+```java
+Thread.startVirtualThread(() -> doWork());
+```
+
+### Database Optimization
+
+- **Indexes** — speed up frequently queried columns.
+- **Avoid N+1** — fetch related data efficiently, e.g. `JOIN FETCH`.

@@ -3,7 +3,7 @@ title: Scalability
 slug: spring-boot-request-capacity
 date: 2026-08-14
 author: Hamzeen Hameem
-category: Backend
+category: Java/Spring Boot
 summary: A practical method for benchmarking and vertically scaling a single Spring Boot instance.
 keywords:
     [
