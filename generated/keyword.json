@@ -1256,6 +1256,13 @@
       "category": "Backend"
     },
     {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
       "id": "code-challenges-6-maxcounters",
       "file": "code-challenges.md",
       "section": "6. MaxCounters",
@@ -7128,6 +7135,13 @@
       "category": "Backend"
     },
     {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
       "id": "javascript-event-loop",
       "file": "javascript.md",
       "section": "Event Loop",
@@ -8235,6 +8249,13 @@
       "category": "Backend"
     },
     {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
       "id": "code-challenges-1-valid-24-hour-clock-times",
       "file": "code-challenges.md",
       "section": "1. Valid 24-Hour Clock Times",
@@ -8459,6 +8480,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
     },
     {
       "id": "code-challenges-4-tapeequilibrium",
@@ -9199,6 +9227,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
     },
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -10181,6 +10216,414 @@
       "category": "Backend"
     }
   ],
+  "stack / lifo algorithm": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "stack": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "lifo": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "algorithm": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "given": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "string": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "containing": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "three": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "types": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "typescript-features",
+      "file": "typescript.md",
+      "section": "Features",
+      "documentTitle": "TypeScript",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "typescript-utility-types-partial",
+      "file": "typescript.md",
+      "section": "Utility Types — `Partial`",
+      "documentTitle": "TypeScript",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "brackets": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "determine": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "react-reconcilitation",
+      "file": "react.md",
+      "section": "Reconcilitation",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "whether": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "expression": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "balanced": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "opening": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "bracket": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "closed": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "correct": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "closes": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "hand": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    }
+  ],
+  "complexity": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "space": [
+    {
+      "id": "balanced-brackets-stack-lifo-algorithm",
+      "file": "balanced-brackets.md",
+      "section": "Stack / LIFO algorithm",
+      "documentTitle": "Balanced Brackets",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
   "1. valid 24-hour clock times": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -10294,36 +10737,6 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "QnA"
-    }
-  ],
-  "given": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
     }
   ],
   "four": [
@@ -10889,50 +11302,6 @@
       "category": "QnA"
     }
   ],
-  "complexity": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
   "although": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -11073,50 +11442,6 @@
       "category": "QnA"
     }
   ],
-  "space": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
   "were": [
     {
       "id": "code-challenges-1-valid-24-hour-clock-times",
@@ -11211,31 +11536,6 @@
     }
   ],
   "strings": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
-  "determine": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "react-reconcilitation",
-      "file": "react.md",
-      "section": "Reconcilitation",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "whether": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
       "file": "code-challenges.md",
@@ -11508,22 +11808,6 @@
       "id": "code-challenges-2-compare-ocr-compressed-strings",
       "file": "code-challenges.md",
       "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
-  "string": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
     }
@@ -12500,15 +12784,6 @@
       "category": "QnA"
     }
   ],
-  "closes": [
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
   "ignored": [
     {
       "id": "code-challenges-3-binarygap",
@@ -12635,15 +12910,6 @@
       "section": "Fixed-Size Sliding Window",
       "documentTitle": "Sliding Window",
       "category": "xDSA"
-    }
-  ],
-  "containing": [
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
     }
   ],
   "least": [
@@ -16745,15 +17011,6 @@
       "category": "QnA"
     }
   ],
-  "stack": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "empty": [
     {
       "id": "javascript-event-loop",
@@ -18709,15 +18966,6 @@
       "file": "solutions-architecture.md",
       "section": "Server-Sent Events (SSE)",
       "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "closed": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
       "category": "Architecture"
     }
   ],
@@ -22146,15 +22394,6 @@
       "category": "Architecture"
     }
   ],
-  "algorithm": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "configured": [
     {
       "id": "solutions-architecture-rate-limiting",
@@ -23638,22 +23877,6 @@
     }
   ],
   "question": [
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
-  "correct": [
     {
       "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
@@ -25874,22 +26097,6 @@
     }
   ],
   "utility types": [
-    {
-      "id": "typescript-features",
-      "file": "typescript.md",
-      "section": "Features",
-      "documentTitle": "TypeScript",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "typescript-utility-types-partial",
-      "file": "typescript.md",
-      "section": "Utility Types — `Partial`",
-      "documentTitle": "TypeScript",
-      "category": "Angular/Typescript"
-    }
-  ],
-  "types": [
     {
       "id": "typescript-features",
       "file": "typescript.md",
