@@ -2328,6 +2328,13 @@
       "category": "Frontend"
     },
     {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
       "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
@@ -3407,6 +3414,13 @@
       "section": "RxJS Operators",
       "documentTitle": "RxJS",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -5369,6 +5383,13 @@
       "section": "Caching Strategies",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     },
     {
       "id": "solutions-architecture-vertical-scaling",
@@ -8254,6 +8275,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "occurs": [
@@ -9213,6 +9241,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -10330,6 +10365,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     },
     {
       "id": "spring-boot-request-capacity-find-the-bottleneck",
@@ -11500,6 +11542,13 @@
       "section": "Rendering Lists with map",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "positions": [
@@ -12269,6 +12318,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "surrounded": [
@@ -12572,6 +12628,13 @@
       "section": "Rendering Lists with map",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "containing": [
@@ -12868,6 +12931,13 @@
       "category": "QnA"
     },
     {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
       "id": "spring-boot-request-capacity-calculate-the-larger-target",
       "file": "spring-boot-scale.md",
       "section": "Calculate the Larger Target",
@@ -13071,6 +13141,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "rightsum": [
@@ -13157,6 +13234,13 @@
       "section": "Conditional Rendering",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "values": [
@@ -17873,6 +17957,13 @@
       "category": "Architecture"
     },
     {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
       "id": "solutions-architecture-server-sent-events-sse",
       "file": "solutions-architecture.md",
       "section": "Server-Sent Events (SSE)",
@@ -20451,6 +20542,13 @@
       "section": "Rendering Lists with map",
       "documentTitle": "React Concepts",
       "category": "Frontend"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
     }
   ],
   "give": [
@@ -20695,6 +20793,163 @@
       "section": "Vertically Scale the Backend",
       "documentTitle": "Scalability",
       "category": "Java/Spring Boot"
+    }
+  ],
+  "fixed-size sliding window": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "sliding window": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "fixed-size": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "sliding": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "window": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "maxiumum": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "contiguous": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "fixed": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "slide": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "incoming": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-horizontal-scaling",
+      "file": "solutions-architecture.md",
+      "section": "Horizontal Scaling",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "outgoing": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    }
+  ],
+  "answer": [
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
     }
   ],
   "persistence": [
@@ -21132,15 +21387,6 @@
     }
   ],
   "distributes": [
-    {
-      "id": "solutions-architecture-horizontal-scaling",
-      "file": "solutions-architecture.md",
-      "section": "Horizontal Scaling",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "incoming": [
     {
       "id": "solutions-architecture-horizontal-scaling",
       "file": "solutions-architecture.md",
@@ -22016,40 +22262,6 @@
     }
   ],
   "leaky": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "fixed": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
-  "window": [
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
-  "sliding": [
     {
       "id": "solutions-architecture-rate-limiting",
       "file": "solutions-architecture.md",
@@ -23442,22 +23654,6 @@
     }
   ],
   "correct": [
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
-  "answer": [
     {
       "id": "technical-assessment-1-assessment-questions",
       "file": "tech-assessment-1.md",
