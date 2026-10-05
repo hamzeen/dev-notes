@@ -95,6 +95,13 @@
       "category": "Architecture"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "java-repository-pattern",
       "file": "java.md",
       "section": "Repository Pattern",
@@ -1047,6 +1054,13 @@
       "category": "Backend"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "java-component-vs-controller",
       "file": "java.md",
       "section": "`@Component` vs `@Controller`",
@@ -1756,6 +1770,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "javascript-execution-contexts",
       "file": "javascript.md",
       "section": "Execution Contexts",
@@ -1843,6 +1864,13 @@
       "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "strcuture": [
@@ -2017,6 +2045,13 @@
       "section": "N+1 Query Problem",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "dependencies": [
@@ -2558,6 +2593,13 @@
       "category": "QnA"
     },
     {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -2851,6 +2893,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "java-final-vs-finally",
@@ -3400,6 +3449,13 @@
       "section": "Builder Pattern",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-event-loop",
@@ -4675,6 +4731,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "zoneless": [
@@ -7297,6 +7360,13 @@
       "category": "Backend"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "java-final-vs-finally",
       "file": "java.md",
       "section": "`final` vs `finally`",
@@ -8214,6 +8284,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "sql-join-result",
@@ -10023,6 +10100,13 @@
       "category": "Backend"
     },
     {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "java-hashmap-vs-concurrenthashmap",
       "file": "java.md",
       "section": "HashMap vs ConcurrentHashMap",
@@ -10067,6 +10151,13 @@
       "section": "2. Compare OCR-Compressed Strings",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "spring-boot-request-capacity-estimate-database-connections",
@@ -10485,6 +10576,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "containing": [
@@ -10519,6 +10617,13 @@
       "section": "Stack / LIFO algorithm",
       "documentTitle": "Balanced Brackets",
       "category": "xDSA"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "typescript-features",
@@ -11030,6 +11135,13 @@
       "section": "DFS - Depth first search",
       "documentTitle": "Depth First Search",
       "category": "xDSA"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "process": [
@@ -11039,6 +11151,13 @@
       "section": "When to Use BFS",
       "documentTitle": "Breadth First Search",
       "category": "xDSA"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "javascript-event-loop",
@@ -13715,6 +13834,13 @@
       "category": "xDSA"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -14005,6 +14131,20 @@
       "category": "QnA"
     },
     {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "java-final-vs-finally",
       "file": "java.md",
       "section": "`final` vs `finally`",
@@ -14179,6 +14319,13 @@
       "section": "5. PermMissingElem",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     },
     {
       "id": "java-hashmap-vs-concurrenthashmap",
@@ -14959,6 +15106,13 @@
       "category": "Backend"
     },
     {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "spring-boot-request-capacity-vertically-scale-the-backend",
       "file": "spring-boot-scale.md",
       "section": "Vertically Scale the Backend",
@@ -15374,6 +15528,13 @@
       "category": "Architecture"
     },
     {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
       "id": "solutions-architecture-message-brokers",
       "file": "solutions-architecture.md",
       "section": "Message Brokers",
@@ -15571,6 +15732,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "adapter pattern": [
@@ -15992,6 +16160,13 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "dynamically": [
@@ -16463,6 +16638,13 @@
       "section": "JVM Compilers",
       "documentTitle": "JVM Internals",
       "category": "Java/Spring Boot"
+    },
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
     }
   ],
   "file": [
@@ -16497,6 +16679,612 @@
       "section": "JVM Compilers",
       "documentTitle": "JVM Internals",
       "category": "Java/Spring Boot"
+    }
+  ],
+  "var — local type inference": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "type": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "typescript-union-type",
+      "file": "typescript.md",
+      "section": "Union Type",
+      "documentTitle": "TypeScript",
+      "category": "Angular/Typescript"
+    },
+    {
+      "id": "typescript-intersection-type",
+      "file": "typescript.md",
+      "section": "Intersection Type",
+      "documentTitle": "TypeScript",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "inference": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "lets": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "tools-vite-proxy-configuration",
+      "file": "tools.md",
+      "section": "Vite Proxy Configuration",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "infer": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "variable": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-variable-scope-var-let-and-const",
+      "file": "javascript.md",
+      "section": "Variable Scope: var, let and const",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "initializer": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "remains": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "statically": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "typed": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "careful": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "hidden": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "readability": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "suffers": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "items": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-5-filter-map",
+      "file": "react-template-patterns.md",
+      "section": "5. `filter().map()`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "arraylist": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "infers": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "specify": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "null": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "java-hashmap-vs-concurrenthashmap",
+      "file": "java.md",
+      "section": "HashMap vs ConcurrentHashMap",
+      "documentTitle": "Java",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "fields": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-execution-contexts",
+      "file": "javascript.md",
+      "section": "Execution Contexts",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "replace": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "declared": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "remember": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "obvious": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "explicit": [
+    {
+      "id": "jvm-flow-var-local-type-inference",
+      "file": "java-core.md",
+      "section": "var — Local Type Inference",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "structural vs non-structural modification": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "non-structural": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "modification": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    }
+  ],
+  "aspect": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "removes": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "entries": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "resize": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "javascript-throttle",
+      "file": "javascript.md",
+      "section": "Throttle",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "backing": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "storage": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "replaces": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "examples": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "newkey": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "existingkey": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "modcount": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "typically": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "incremented": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "unchanged": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "iterator": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "impact": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "throw": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "concurrentmodificationexception": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "invalidate": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "iterators": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "safely": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "design-philosophy-solid-principles",
+      "file": "philosophy.md",
+      "section": "SOLID Principles",
+      "documentTitle": "Philosophy",
+      "category": "Architecture"
+    },
+    {
+      "id": "react-template-patterns-pattern-overview",
+      "file": "react-template-patterns.md",
+      "section": "Pattern Overview",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    },
+    {
+      "id": "react-template-patterns-9-optional-chaining",
+      "file": "react-template-patterns.md",
+      "section": "9. Optional Chaining `?.`",
+      "documentTitle": "react template patterns",
+      "category": "Frontend"
+    }
+  ],
+  "updated": [
+    {
+      "id": "jvm-flow-structural-vs-non-structural-modification",
+      "file": "java-core.md",
+      "section": "Structural vs Non-Structural Modification",
+      "documentTitle": "JVM Internals",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
     }
   ],
   "jvm execution flow": [
@@ -16860,15 +17648,6 @@
     }
   ],
   "safety": [
-    {
-      "id": "java-hashmap-vs-concurrenthashmap",
-      "file": "java.md",
-      "section": "HashMap vs ConcurrentHashMap",
-      "documentTitle": "Java",
-      "category": "Java/Spring Boot"
-    }
-  ],
-  "null": [
     {
       "id": "java-hashmap-vs-concurrenthashmap",
       "file": "java.md",
@@ -18154,22 +18933,6 @@
       "category": "Frontend"
     }
   ],
-  "variable": [
-    {
-      "id": "javascript-variable-scope-var-let-and-const",
-      "file": "javascript.md",
-      "section": "Variable Scope: var, let and const",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "const": [
     {
       "id": "javascript-variable-scope-var-let-and-const",
@@ -18304,15 +19067,6 @@
       "category": "Frontend"
     }
   ],
-  "parameters": [
-    {
-      "id": "javascript-execution-contexts",
-      "file": "javascript.md",
-      "section": "Execution Contexts",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
   "functions": [
     {
       "id": "javascript-execution-contexts",
@@ -18439,15 +19193,6 @@
     }
   ],
   "scroll": [
-    {
-      "id": "javascript-throttle",
-      "file": "javascript.md",
-      "section": "Throttle",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    }
-  ],
-  "resize": [
     {
       "id": "javascript-throttle",
       "file": "javascript.md",
@@ -19918,15 +20663,6 @@
       "category": "Architecture"
     }
   ],
-  "modification": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
   "liskov": [
     {
       "id": "design-philosophy-solid-principles",
@@ -19952,68 +20688,6 @@
       "section": "SOLID Principles",
       "documentTitle": "Philosophy",
       "category": "Architecture"
-    }
-  ],
-  "safely": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-9-optional-chaining",
-      "file": "react-template-patterns.md",
-      "section": "9. Optional Chaining `?.`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    }
-  ],
-  "replace": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    }
-  ],
-  "type": [
-    {
-      "id": "design-philosophy-solid-principles",
-      "file": "philosophy.md",
-      "section": "SOLID Principles",
-      "documentTitle": "Philosophy",
-      "category": "Architecture"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "typescript-union-type",
-      "file": "typescript.md",
-      "section": "Union Type",
-      "documentTitle": "TypeScript",
-      "category": "Angular/Typescript"
-    },
-    {
-      "id": "typescript-intersection-type",
-      "file": "typescript.md",
-      "section": "Intersection Type",
-      "documentTitle": "TypeScript",
-      "category": "Angular/Typescript"
     }
   ],
   "breaking": [
@@ -20836,29 +21510,6 @@
       "file": "tech-assessment-1.md",
       "section": "Assessment Questions",
       "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    }
-  ],
-  "items": [
-    {
-      "id": "react-template-patterns-pattern-overview",
-      "file": "react-template-patterns.md",
-      "section": "Pattern Overview",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "react-template-patterns-5-filter-map",
-      "file": "react-template-patterns.md",
-      "section": "5. `filter().map()`",
-      "documentTitle": "react template patterns",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
       "category": "QnA"
     }
   ],
@@ -24971,15 +25622,6 @@
       "category": "QnA"
     }
   ],
-  "updated": [
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    }
-  ],
   "technical assessment questions": [
     {
       "id": "technical-assessment-2-technical-assessment-questions",
@@ -26243,15 +26885,6 @@
       "category": "QnA"
     }
   ],
-  "specify": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "includes": [
     {
       "id": "tools-autocannon",
@@ -26305,15 +26938,6 @@
     }
   ],
   "development": [
-    {
-      "id": "tools-vite-proxy-configuration",
-      "file": "tools.md",
-      "section": "Vite Proxy Configuration",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "lets": [
     {
       "id": "tools-vite-proxy-configuration",
       "file": "tools.md",

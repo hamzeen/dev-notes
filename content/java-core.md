@@ -15,6 +15,51 @@ keywords: [jvm, java, bytecode, class loader, jit, garbage collection, kotlin, b
 | `kotlinc` | `.kt`       |
 | `javac`   | `.java`     |
 
+### var — Local Type Inference
+
+var lets the compiler infer a local variable’s type from its initializer. It remains statically typed.
+
+```java
+var name = "Hamzeen"; // Inferred as String
+
+var value = 10;   // Inferred as int
+value = "ten";  // Compile error
+```
+
+| Be careful with                  | Why                                            |
+| -------------------------------- | ---------------------------------------------- |
+| `var result = process();`        | Type is hidden; readability suffers            |
+| `var items = new ArrayList<>();` | Infers `ArrayList<Object>`; specify `<String>` |
+| `var value = null;`              | Cannot infer a type                            |
+| Fields, parameters, return types | `var` cannot replace their declared types      |
+
+**Remember**: Use var when the type is obvious, explicit types when it isn’t.
+
+### Structural vs Non-Structural Modification
+
+| Aspect               | Structural                                       | Non-structural                                       |
+| -------------------- | ------------------------------------------------ | ---------------------------------------------------- |
+| **Change**           | Adds/removes entries; may resize backing storage | Replaces an existing value                           |
+| **Examples**         | `add()`, `remove()`, `put(newKey, value)`        | `ArrayList.set()`, `HashMap.put(existingKey, value)` |
+| **`modCount`**       | Typically incremented                            | Unchanged for these examples                         |
+| **Iterator impact**  | May throw `ConcurrentModificationException`      | These updates don’t invalidate iterators             |
+| **During traversal** | Use `iterator.remove()` to remove safely         | Existing values can be updated                       |
+
+```java
+List<String> names = new ArrayList<>(List.of("Ann", "Bob"));
+
+// Non-structural: replaces an existing element
+names.set(0, "Anna");
+
+// Structural, but safe through this iterator
+Iterator<String> iterator = names.iterator();
+while (iterator.hasNext()) {
+    if (iterator.next().equals("Bob")) {
+        iterator.remove();
+    }
+}
+```
+
 ### JVM Execution Flow
 
 A Java program is compiled into bytecode, then the JVM loads, verifies, initializes, and executes it.
