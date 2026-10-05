@@ -218,6 +218,13 @@
       "category": "Architecture"
     },
     {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
       "id": "design-philosophy-architecture-documents",
       "file": "philosophy.md",
       "section": "Architecture Documents",
@@ -399,6 +406,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
     },
     {
       "id": "javascript-closures",
@@ -674,6 +688,13 @@
       "section": "Why Angular",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
     },
     {
       "id": "design-philosophy-solid-principles",
@@ -1213,6 +1234,13 @@
       "section": "Constructs",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
     }
   ],
   "resolver": [
@@ -2300,11 +2328,32 @@
       "category": "Backend"
     },
     {
+      "id": "breadth-first-search-breadth-first-search",
+      "file": "breadth-first-search.md",
+      "section": "Breadth First Search",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
       "id": "code-challenges-3-binarygap",
       "file": "code-challenges.md",
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
     },
     {
       "id": "java-first-non-repeating-character",
@@ -2860,6 +2909,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
     }
   ],
   "automatically": [
@@ -3054,6 +3110,13 @@
       "category": "Angular/Typescript"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
       "file": "kafka-vs-rabbitmq.md",
       "section": "Kafka vs RabbitMQ",
@@ -3180,6 +3243,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "simple": [
@@ -3295,6 +3365,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
     },
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -3751,6 +3828,13 @@
       "section": "JWT Authentication",
       "documentTitle": "Authentication & Authorization",
       "category": "Backend"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     },
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -5012,6 +5096,13 @@
       "section": "Angular 22",
       "documentTitle": "Angular",
       "category": "Angular/Typescript"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     },
     {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
@@ -7530,6 +7621,13 @@
       "category": "Backend"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "design-philosophy-solid-principles",
       "file": "philosophy.md",
       "section": "SOLID Principles",
@@ -8003,6 +8101,13 @@
       "category": "QnA"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "technical-assessment-2-technical-assessment-questions",
       "file": "tech-assessment-2.md",
       "section": "Technical Assessment Questions",
@@ -8353,6 +8458,13 @@
       "category": "Backend"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "react-rendering-lists-with-map",
       "file": "react.md",
       "section": "Rendering Lists with map",
@@ -8508,6 +8620,13 @@
       "section": "Core Property",
       "documentTitle": "DB Transaction",
       "category": "Backend"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
     },
     {
       "id": "react-rendering-lists-with-map",
@@ -9191,6 +9310,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "available": [
@@ -9218,6 +9344,13 @@
       "section": "Race Condition: Pessimistic Locking",
       "documentTitle": "Backend Architecture",
       "category": "Backend"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "time": [
@@ -9276,6 +9409,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     },
     {
       "id": "sliding-window-fixed-size-sliding-window",
@@ -9652,6 +9792,13 @@
       "category": "Backend"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
       "file": "kafka-vs-rabbitmq.md",
       "section": "Kafka vs RabbitMQ",
@@ -10005,6 +10152,13 @@
       "category": "Backend"
     },
     {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -10294,6 +10448,13 @@
       "section": "4. TapeEquilibrium",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     },
     {
       "id": "solutions-architecture-rate-limiting",
@@ -10622,6 +10783,565 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "tree": [
+    {
+      "id": "breadth-first-search-tree",
+      "file": "breadth-first-search.md",
+      "section": "Tree",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "tools-zod-valibot",
+      "file": "tools.md",
+      "section": "Zod / Valibot",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "breadth first search": [
+    {
+      "id": "breadth-first-search-breadth-first-search",
+      "file": "breadth-first-search.md",
+      "section": "Breadth First Search",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "breadth": [
+    {
+      "id": "breadth-first-search-breadth-first-search",
+      "file": "breadth-first-search.md",
+      "section": "Breadth First Search",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "search": [
+    {
+      "id": "breadth-first-search-breadth-first-search",
+      "file": "breadth-first-search.md",
+      "section": "Breadth First Search",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "javascript-debounce",
+      "file": "javascript.md",
+      "section": "Debounce",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "rxjs-rxjs-operators",
+      "file": "rxjs.md",
+      "section": "RxJS Operators",
+      "documentTitle": "RxJS",
+      "category": "Angular/Typescript"
+    }
+  ],
+  "when to use bfs": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "bfs": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "shortest": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "path": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "unweighted": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "graph": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "minimum": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-4-tapeequilibrium",
+      "file": "code-challenges.md",
+      "section": "4. TapeEquilibrium",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "number": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-5-permmissingelem",
+      "file": "code-challenges.md",
+      "section": "5. PermMissingElem",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-6-maxcounters",
+      "file": "code-challenges.md",
+      "section": "6. MaxCounters",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    }
+  ],
+  "edges": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "level-order": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "traversal": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "process": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "javascript-event-loop",
+      "file": "javascript.md",
+      "section": "Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-quick-decision",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Quick Decision",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-message-brokers",
+      "file": "solutions-architecture.md",
+      "section": "Message Brokers",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "level": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "nearest": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "match": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-2-compare-ocr-compressed-strings",
+      "file": "code-challenges.md",
+      "section": "2. Compare OCR-Compressed Strings",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "find": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "code-challenges-1-valid-24-hour-clock-times",
+      "file": "code-challenges.md",
+      "section": "1. Valid 24-Hour Clock Times",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "code-challenges-3-binarygap",
+      "file": "code-challenges.md",
+      "section": "3. BinaryGap",
+      "documentTitle": "Code Challenges",
+      "category": "QnA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "spring-boot-request-capacity-find-the-bottleneck",
+      "file": "spring-boot-scale.md",
+      "section": "Find the Bottleneck",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "closest": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "node": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "javascript-nodejs-threads-and-event-loop",
+      "file": "javascript.md",
+      "section": "Node.js Threads and Event Loop",
+      "documentTitle": "JavaScript Concepts",
+      "category": "Frontend"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-axios",
+      "file": "tools.md",
+      "section": "Axios",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "network": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "hops": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "within": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    },
+    {
+      "id": "solutions-architecture-rate-limiting",
+      "file": "solutions-architecture.md",
+      "section": "Rate Limiting",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    },
+    {
+      "id": "spring-boot-request-capacity-interview-approach",
+      "file": "spring-boot-scale.md",
+      "section": "Interview Approach",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    }
+  ],
+  "connections": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "spring-boot-request-capacity-estimate-database-connections",
+      "file": "spring-boot-scale.md",
+      "section": "Estimate Database Connections",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "spring-boot-request-capacity-load-test-the-current-backend",
+      "file": "spring-boot-scale.md",
+      "section": "Load-Test the Current Backend",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "spring-boot-request-capacity-calculate-the-larger-target",
+      "file": "spring-boot-scale.md",
+      "section": "Calculate the Larger Target",
+      "documentTitle": "Scalability",
+      "category": "Java/Spring Boot"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "grid": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "problems": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "tools-wcag-21-and-lighthouse",
+      "file": "tools.md",
+      "section": "WCAG 2.1 and Lighthouse",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "maze": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "matrix": [
+    {
+      "id": "breadth-first-search-when-to-use-bfs",
+      "file": "breadth-first-search.md",
+      "section": "When to Use BFS",
+      "documentTitle": "Breadth First Search",
+      "category": "xDSA"
     }
   ],
   "1. valid 24-hour clock times": [
@@ -10760,66 +11480,6 @@
       "id": "code-challenges-1-valid-24-hour-clock-times",
       "file": "code-challenges.md",
       "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    }
-  ],
-  "find": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-3-binarygap",
-      "file": "code-challenges.md",
-      "section": "3. BinaryGap",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "sliding-window-fixed-size-sliding-window",
-      "file": "slide-window.md",
-      "section": "Fixed-Size Sliding Window",
-      "documentTitle": "Sliding Window",
-      "category": "xDSA"
-    },
-    {
-      "id": "spring-boot-request-capacity-find-the-bottleneck",
-      "file": "spring-boot-scale.md",
-      "section": "Find the Bottleneck",
-      "documentTitle": "Scalability",
-      "category": "Java/Spring Boot"
-    }
-  ],
-  "number": [
-    {
-      "id": "code-challenges-1-valid-24-hour-clock-times",
-      "file": "code-challenges.md",
-      "section": "1. Valid 24-Hour Clock Times",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-5-permmissingelem",
-      "file": "code-challenges.md",
-      "section": "5. PermMissingElem",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
     }
@@ -11159,6 +11819,13 @@
       "section": "1. Valid 24-Hour Clock Times",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
     }
   ],
   "exist": [
@@ -12045,6 +12712,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "false": [
@@ -12201,6 +12875,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "tests": [
@@ -12411,22 +13092,6 @@
       "category": "QnA"
     }
   ],
-  "match": [
-    {
-      "id": "code-challenges-2-compare-ocr-compressed-strings",
-      "file": "code-challenges.md",
-      "section": "2. Compare OCR-Compressed Strings",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    }
-  ],
   "original-text": [
     {
       "id": "code-challenges-2-compare-ocr-compressed-strings",
@@ -12561,6 +13226,13 @@
       "section": "3. BinaryGap",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "binary": [
@@ -13036,6 +13708,13 @@
       "category": "QnA"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "react-template-patterns-pattern-overview",
       "file": "react-template-patterns.md",
       "section": "Pattern Overview",
@@ -13062,22 +13741,6 @@
       "section": "Conditional Rendering",
       "documentTitle": "React Concepts",
       "category": "Frontend"
-    }
-  ],
-  "minimum": [
-    {
-      "id": "code-challenges-4-tapeequilibrium",
-      "file": "code-challenges.md",
-      "section": "4. TapeEquilibrium",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
-    },
-    {
-      "id": "code-challenges-6-maxcounters",
-      "file": "code-challenges.md",
-      "section": "6. MaxCounters",
-      "documentTitle": "Code Challenges",
-      "category": "QnA"
     }
   ],
   "difference": [
@@ -13685,6 +14348,13 @@
       "section": "6. MaxCounters",
       "documentTitle": "Code Challenges",
       "category": "QnA"
+    },
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     },
     {
       "id": "java-second-highest-salary",
@@ -15235,6 +15905,13 @@
       "category": "Architecture"
     },
     {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
       "id": "react-reconcilitation",
       "file": "react.md",
       "section": "Reconcilitation",
@@ -15347,6 +16024,370 @@
       "section": "More Design Patterns",
       "documentTitle": "Design Patterns",
       "category": "Architecture"
+    }
+  ],
+  "dfs - depth first search": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "depth first search": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "dfs": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "depth": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "explore": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "backtracking": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "sudoku": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "cycle": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "directed": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "undirected": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "graphs": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "connected": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "solutions-architecture-webhooks",
+      "file": "solutions-architecture.md",
+      "section": "Webhooks",
+      "documentTitle": "Solutions Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "grouped": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "reachable": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "topological": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "sorting": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    }
+  ],
+  "ordering": [
+    {
+      "id": "depth-first-search-dfs-depth-first-search",
+      "file": "dfs.md",
+      "section": "DFS - Depth first search",
+      "documentTitle": "Depth First Search",
+      "category": "xDSA"
+    },
+    {
+      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
+      "file": "kafka-vs-rabbitmq.md",
+      "section": "Kafka vs RabbitMQ",
+      "documentTitle": "Kafka vs RabbitMQ",
+      "category": "Architecture"
+    }
+  ],
+  "sort + two pointer solution": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "sort + two pointer": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "sort": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "pointer": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "in-flight": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
+      "id": "react-abortcontroller",
+      "file": "react.md",
+      "section": "AbortController",
+      "documentTitle": "React Concepts",
+      "category": "Frontend"
+    }
+  ],
+  "movie": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "duration": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
+      "id": "tools-autocannon",
+      "file": "tools.md",
+      "section": "Autocannon",
+      "documentTitle": "Tools",
+      "category": "QnA"
+    }
+  ],
+  "pair": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "movies": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "whose": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "combined": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "equal": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "combinations": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "movielenghts": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "pairs": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "answer": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    },
+    {
+      "id": "sliding-window-fixed-size-sliding-window",
+      "file": "slide-window.md",
+      "section": "Fixed-Size Sliding Window",
+      "documentTitle": "Sliding Window",
+      "category": "xDSA"
+    },
+    {
+      "id": "technical-assessment-1-assessment-questions",
+      "file": "tech-assessment-1.md",
+      "section": "Assessment Questions",
+      "documentTitle": "technical-assessment-1",
+      "category": "QnA"
+    },
+    {
+      "id": "technical-assessment-2-technical-assessment-questions",
+      "file": "tech-assessment-2.md",
+      "section": "Technical Assessment Questions",
+      "documentTitle": "Technical Assessment 2",
+      "category": "QnA"
+    }
+  ],
+  "constraint": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
+    }
+  ],
+  "nlogn": [
+    {
+      "id": "inflight-movies-sort-two-pointer-solution",
+      "file": "inflight-movies.md",
+      "section": "Sort + Two Pointer solution",
+      "documentTitle": "Inflight Movies",
+      "category": "xDSA"
     }
   ],
   "jvm compilers": [
@@ -16388,36 +17429,6 @@
       "category": "Frontend"
     }
   ],
-  "node": [
-    {
-      "id": "javascript-nodejs-threads-and-event-loop",
-      "file": "javascript.md",
-      "section": "Node.js Threads and Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-axios",
-      "file": "tools.md",
-      "section": "Axios",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "single-threaded": [
     {
       "id": "javascript-nodejs-threads-and-event-loop",
@@ -17107,29 +18118,6 @@
       "category": "Architecture"
     }
   ],
-  "process": [
-    {
-      "id": "javascript-event-loop",
-      "file": "javascript.md",
-      "section": "Event Loop",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "kafka-vs-rabbitmq-quick-decision",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Quick Decision",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-message-brokers",
-      "file": "solutions-architecture.md",
-      "section": "Message Brokers",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "nexttick": [
     {
       "id": "javascript-event-loop",
@@ -17389,22 +18377,6 @@
       "section": "Horizontal Scaling",
       "documentTitle": "Solutions Architecture",
       "category": "Architecture"
-    }
-  ],
-  "search": [
-    {
-      "id": "javascript-debounce",
-      "file": "javascript.md",
-      "section": "Debounce",
-      "documentTitle": "JavaScript Concepts",
-      "category": "Frontend"
-    },
-    {
-      "id": "rxjs-rxjs-operators",
-      "file": "rxjs.md",
-      "section": "RxJS Operators",
-      "documentTitle": "RxJS",
-      "category": "Angular/Typescript"
     }
   ],
   "inputs": [
@@ -17908,15 +18880,6 @@
       "category": "Architecture"
     }
   ],
-  "ordering": [
-    {
-      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Kafka vs RabbitMQ",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    }
-  ],
   "ordered": [
     {
       "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
@@ -17924,29 +18887,6 @@
       "section": "Kafka vs RabbitMQ",
       "documentTitle": "Kafka vs RabbitMQ",
       "category": "Architecture"
-    }
-  ],
-  "within": [
-    {
-      "id": "kafka-vs-rabbitmq-kafka-vs-rabbitmq",
-      "file": "kafka-vs-rabbitmq.md",
-      "section": "Kafka vs RabbitMQ",
-      "documentTitle": "Kafka vs RabbitMQ",
-      "category": "Architecture"
-    },
-    {
-      "id": "solutions-architecture-rate-limiting",
-      "file": "solutions-architecture.md",
-      "section": "Rate Limiting",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    },
-    {
-      "id": "spring-boot-request-capacity-interview-approach",
-      "file": "spring-boot-scale.md",
-      "section": "Interview Approach",
-      "documentTitle": "Scalability",
-      "category": "Java/Spring Boot"
     }
   ],
   "partition": [
@@ -20550,15 +21490,6 @@
       "category": "Frontend"
     }
   ],
-  "in-flight": [
-    {
-      "id": "react-abortcontroller",
-      "file": "react.md",
-      "section": "AbortController",
-      "documentTitle": "React Concepts",
-      "category": "Frontend"
-    }
-  ],
   "unmounts": [
     {
       "id": "react-abortcontroller",
@@ -21175,29 +22106,6 @@
       "section": "Fixed-Size Sliding Window",
       "documentTitle": "Sliding Window",
       "category": "xDSA"
-    }
-  ],
-  "answer": [
-    {
-      "id": "sliding-window-fixed-size-sliding-window",
-      "file": "slide-window.md",
-      "section": "Fixed-Size Sliding Window",
-      "documentTitle": "Sliding Window",
-      "category": "xDSA"
-    },
-    {
-      "id": "technical-assessment-1-assessment-questions",
-      "file": "tech-assessment-1.md",
-      "section": "Assessment Questions",
-      "documentTitle": "technical-assessment-1",
-      "category": "QnA"
-    },
-    {
-      "id": "technical-assessment-2-technical-assessment-questions",
-      "file": "tech-assessment-2.md",
-      "section": "Technical Assessment Questions",
-      "documentTitle": "Technical Assessment 2",
-      "category": "QnA"
     }
   ],
   "persistence": [
@@ -22189,15 +23097,6 @@
       "category": "Architecture"
     }
   ],
-  "connected": [
-    {
-      "id": "solutions-architecture-webhooks",
-      "file": "solutions-architecture.md",
-      "section": "Webhooks",
-      "documentTitle": "Solutions Architecture",
-      "category": "Architecture"
-    }
-  ],
   "broker": [
     {
       "id": "solutions-architecture-webhooks",
@@ -22799,36 +23698,6 @@
       "section": "Estimate Database Connections",
       "documentTitle": "Scalability",
       "category": "Java/Spring Boot"
-    }
-  ],
-  "connections": [
-    {
-      "id": "spring-boot-request-capacity-estimate-database-connections",
-      "file": "spring-boot-scale.md",
-      "section": "Estimate Database Connections",
-      "documentTitle": "Scalability",
-      "category": "Java/Spring Boot"
-    },
-    {
-      "id": "spring-boot-request-capacity-load-test-the-current-backend",
-      "file": "spring-boot-scale.md",
-      "section": "Load-Test the Current Backend",
-      "documentTitle": "Scalability",
-      "category": "Java/Spring Boot"
-    },
-    {
-      "id": "spring-boot-request-capacity-calculate-the-larger-target",
-      "file": "spring-boot-scale.md",
-      "section": "Calculate the Larger Target",
-      "documentTitle": "Scalability",
-      "category": "Java/Spring Boot"
-    },
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
     }
   ],
   "take": [
@@ -25140,15 +26009,6 @@
       "category": "QnA"
     }
   ],
-  "problems": [
-    {
-      "id": "tools-wcag-21-and-lighthouse",
-      "file": "tools.md",
-      "section": "WCAG 2.1 and Lighthouse",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
   "screen-reader": [
     {
       "id": "tools-wcag-21-and-lighthouse",
@@ -25384,15 +26244,6 @@
     }
   ],
   "specify": [
-    {
-      "id": "tools-autocannon",
-      "file": "tools.md",
-      "section": "Autocannon",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "duration": [
     {
       "id": "tools-autocannon",
       "file": "tools.md",
@@ -25781,15 +26632,6 @@
     }
   ],
   "modular": [
-    {
-      "id": "tools-zod-valibot",
-      "file": "tools.md",
-      "section": "Zod / Valibot",
-      "documentTitle": "Tools",
-      "category": "QnA"
-    }
-  ],
-  "tree": [
     {
       "id": "tools-zod-valibot",
       "file": "tools.md",
