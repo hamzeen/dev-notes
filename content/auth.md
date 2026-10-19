@@ -33,6 +33,7 @@ A common application setup uses:
 
 ```text
 Login
+  → Frontend sends username and password over https
   → Backend validates the credentials
   → Response body contains the access token
   → HttpOnly cookie stores the refresh token

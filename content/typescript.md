@@ -16,6 +16,16 @@ keywords: [typescript, generics, conditional types, mapped types, utility types,
 - **Utility Types**
 - **Types & Interfaces**
 
+### Discriminated Union
+
+```typescript
+type ApiState<T> =
+    | { status: "idle" }
+    | { status: "loading" }
+    | { status: "success"; data: T }
+    | { status: "error"; error: string };
+```
+
 ### Utility Types — `Partial`
 
 ```typescript
