@@ -77,6 +77,11 @@ Execution order:
 - **FEC (Function Execution Context):** Created whenever a function is called and contains its local variables, parameters, and `this` value.
 - **GEC (Global Execution Context):** Created when the JavaScript program starts and contains global variables, functions, and the global `this` value.
 
+## Debounce vs Throttle
+
+- Throttle: Run at most once per specified interval.
+- Debounce: Run after a specified period of inactivity; each new event resets the timer.
+
 ### Debounce
 
 Debounce waits until calls stop for a set delay before running the function, making it useful for search inputs.
